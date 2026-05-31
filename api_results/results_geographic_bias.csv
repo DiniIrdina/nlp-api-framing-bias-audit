@@ -1,0 +1,712 @@
+﻿article_id,api,net_sentiment,outlet,topic,frame,region,broad_region
+art_001,AWS,-0.1434,Fox News,immigration,security,Western (US),Western/Global
+art_001,Google,0.0,Fox News,immigration,security,Western (US),Western/Global
+art_001,Azure,-0.25,Fox News,immigration,security,Western (US),Western/Global
+art_002,AWS,-0.0899,BBC,immigration,neutral,Western (UK),Western/Global
+art_002,Google,-0.3,BBC,immigration,neutral,Western (UK),Western/Global
+art_002,Azure,-0.75,BBC,immigration,neutral,Western (UK),Western/Global
+art_003,AWS,-0.016,The Guardian,immigration,humanitarian,Western (UK),Western/Global
+art_003,Google,-0.3,The Guardian,immigration,humanitarian,Western (UK),Western/Global
+art_003,Azure,-0.5,The Guardian,immigration,humanitarian,Western (UK),Western/Global
+art_004,AWS,-0.129,CNN,immigration,neutral,Western (US),Western/Global
+art_004,Google,-0.2,CNN,immigration,neutral,Western (US),Western/Global
+art_004,Azure,-0.66,CNN,immigration,neutral,Western (US),Western/Global
+art_005,AWS,-0.1128,Reuters,immigration,neutral,Global,Western/Global
+art_005,Google,-0.3,Reuters,immigration,neutral,Global,Western/Global
+art_005,Azure,-0.77,Reuters,immigration,neutral,Global,Western/Global
+art_006,AWS,-0.0752,Global Times,immigration,humanitarian,Non-Western (China),Non-Western
+art_006,Google,-0.4,Global Times,immigration,humanitarian,Non-Western (China),Non-Western
+art_006,Azure,-0.69,Global Times,immigration,humanitarian,Non-Western (China),Non-Western
+art_007,AWS,-0.0363,RT News,immigration,humanitarian,Non-Western (Russia),Non-Western
+art_007,Google,-0.4,RT News,immigration,humanitarian,Non-Western (Russia),Non-Western
+art_007,Azure,-0.71,RT News,immigration,humanitarian,Non-Western (Russia),Non-Western
+art_008,AWS,-0.0265,Al Jazeera,immigration,humanitarian,Non-Western (Middle East),Non-Western
+art_008,Google,-0.2,Al Jazeera,immigration,humanitarian,Non-Western (Middle East),Non-Western
+art_008,Azure,-0.75,Al Jazeera,immigration,humanitarian,Non-Western (Middle East),Non-Western
+art_009,AWS,0.0399,Straits Times,immigration,humanitarian,Non-Western (Southeast Asia),Non-Western
+art_009,Google,-0.2,Straits Times,immigration,humanitarian,Non-Western (Southeast Asia),Non-Western
+art_009,Azure,-0.86,Straits Times,immigration,humanitarian,Non-Western (Southeast Asia),Non-Western
+art_010,AWS,-0.0283,Le Monde,immigration,neutral,Western (Europe),Western/Global
+art_010,Google,-0.2,Le Monde,immigration,neutral,Western (Europe),Western/Global
+art_010,Azure,-0.72,Le Monde,immigration,neutral,Western (Europe),Western/Global
+art_011,AWS,-0.126,BBC,immigration,humanitarian,Western (UK),Western/Global
+art_011,Google,-0.4,BBC,immigration,humanitarian,Western (UK),Western/Global
+art_011,Azure,-0.81,BBC,immigration,humanitarian,Western (UK),Western/Global
+art_012,AWS,-0.0118,RT News,immigration,humanitarian,Non-Western (Russia),Non-Western
+art_012,Google,-0.4,RT News,immigration,humanitarian,Non-Western (Russia),Non-Western
+art_012,Azure,-0.86,RT News,immigration,humanitarian,Non-Western (Russia),Non-Western
+art_013,AWS,0.0625,CNN,immigration,humanitarian,Western (US),Western/Global
+art_013,Google,-0.2,CNN,immigration,humanitarian,Western (US),Western/Global
+art_013,Azure,-0.75,CNN,immigration,humanitarian,Western (US),Western/Global
+art_014,AWS,0.0005,BBC,immigration,security,Western (UK),Western/Global
+art_014,Google,-0.4,BBC,immigration,security,Western (UK),Western/Global
+art_014,Azure,-0.84,BBC,immigration,security,Western (UK),Western/Global
+art_015,AWS,0.0487,Fox News,immigration,security,Western (US),Western/Global
+art_015,Google,-0.2,Fox News,immigration,security,Western (US),Western/Global
+art_015,Azure,-0.74,Fox News,immigration,security,Western (US),Western/Global
+art_016,AWS,-0.0651,Reuters,immigration,humanitarian,Global,Western/Global
+art_016,Google,-0.5,Reuters,immigration,humanitarian,Global,Western/Global
+art_016,Azure,-0.66,Reuters,immigration,humanitarian,Global,Western/Global
+art_017,AWS,-0.266,France 24,immigration,neutral,Western (Europe),Western/Global
+art_017,Google,-0.4,France 24,immigration,neutral,Western (Europe),Western/Global
+art_017,Azure,-0.71,France 24,immigration,neutral,Western (Europe),Western/Global
+art_018,AWS,0.0581,The Guardian,immigration,humanitarian,Western (UK),Western/Global
+art_018,Google,-0.4,The Guardian,immigration,humanitarian,Western (UK),Western/Global
+art_018,Azure,-0.87,The Guardian,immigration,humanitarian,Western (UK),Western/Global
+art_019,AWS,-0.0092,Global Times,immigration,neutral,Non-Western (China),Non-Western
+art_019,Google,-0.5,Global Times,immigration,neutral,Non-Western (China),Non-Western
+art_019,Azure,-0.84,Global Times,immigration,neutral,Non-Western (China),Non-Western
+art_020,AWS,-0.2431,South China Morning Post,immigration,humanitarian,Non-Western (East Asia),Non-Western
+art_020,Google,-0.4,South China Morning Post,immigration,humanitarian,Non-Western (East Asia),Non-Western
+art_020,Azure,-0.8,South China Morning Post,immigration,humanitarian,Non-Western (East Asia),Non-Western
+art_021,AWS,-0.0015,BBC,immigration,neutral,Western (UK),Western/Global
+art_021,Google,-0.3,BBC,immigration,neutral,Western (UK),Western/Global
+art_021,Azure,-0.76,BBC,immigration,neutral,Western (UK),Western/Global
+art_022,AWS,-0.0164,Fox News,immigration,security,Western (US),Western/Global
+art_022,Google,-0.3,Fox News,immigration,security,Western (US),Western/Global
+art_022,Azure,-0.68,Fox News,immigration,security,Western (US),Western/Global
+art_023,AWS,-0.0026,China Daily,immigration,humanitarian,Non-Western (China),Non-Western
+art_023,Google,-0.4,China Daily,immigration,humanitarian,Non-Western (China),Non-Western
+art_023,Azure,-0.8,China Daily,immigration,humanitarian,Non-Western (China),Non-Western
+art_024,AWS,-0.0692,BBC,immigration,security,Western (UK),Western/Global
+art_024,Google,-0.4,BBC,immigration,security,Western (UK),Western/Global
+art_024,Azure,-0.88,BBC,immigration,security,Western (UK),Western/Global
+art_025,AWS,-0.0188,CNN,immigration,security,Western (US),Western/Global
+art_025,Google,-0.3,CNN,immigration,security,Western (US),Western/Global
+art_025,Azure,-0.57,CNN,immigration,security,Western (US),Western/Global
+art_026,AWS,-0.1831,The Guardian,immigration,humanitarian,Western (UK),Western/Global
+art_026,Google,-0.3,The Guardian,immigration,humanitarian,Western (UK),Western/Global
+art_026,Azure,-0.8,The Guardian,immigration,humanitarian,Western (UK),Western/Global
+art_027,AWS,-0.0295,The Hindu,immigration,neutral,Non-Western (South Asia),Non-Western
+art_027,Google,-0.3,The Hindu,immigration,neutral,Non-Western (South Asia),Non-Western
+art_027,Azure,-0.82,The Hindu,immigration,neutral,Non-Western (South Asia),Non-Western
+art_028,AWS,-0.0535,Reuters,immigration,humanitarian,Global,Western/Global
+art_028,Google,-0.4,Reuters,immigration,humanitarian,Global,Western/Global
+art_028,Azure,-0.8,Reuters,immigration,humanitarian,Global,Western/Global
+art_029,AWS,-0.0962,RT News,immigration,humanitarian,Non-Western (Russia),Non-Western
+art_029,Google,-0.4,RT News,immigration,humanitarian,Non-Western (Russia),Non-Western
+art_029,Azure,-0.72,RT News,immigration,humanitarian,Non-Western (Russia),Non-Western
+art_030,AWS,-0.0291,DW,immigration,humanitarian,Western (Europe),Western/Global
+art_030,Google,-0.3,DW,immigration,humanitarian,Western (Europe),Western/Global
+art_030,Azure,-0.64,DW,immigration,humanitarian,Western (Europe),Western/Global
+art_031,AWS,0.0073,Al Jazeera,immigration,humanitarian,Non-Western (Middle East),Non-Western
+art_031,Google,-0.5,Al Jazeera,immigration,humanitarian,Non-Western (Middle East),Non-Western
+art_031,Azure,-0.71,Al Jazeera,immigration,humanitarian,Non-Western (Middle East),Non-Western
+art_032,AWS,-0.0627,RT News,political conflict,people-centric,Non-Western (Russia),Non-Western
+art_032,Google,-0.3,RT News,political conflict,people-centric,Non-Western (Russia),Non-Western
+art_032,Azure,-0.71,RT News,political conflict,people-centric,Non-Western (Russia),Non-Western
+art_033,AWS,-0.0989,Al Jazeera,political conflict,people-centric,Non-Western (Middle East),Non-Western
+art_033,Google,-0.2,Al Jazeera,political conflict,people-centric,Non-Western (Middle East),Non-Western
+art_033,Azure,-0.84,Al Jazeera,political conflict,people-centric,Non-Western (Middle East),Non-Western
+art_034,AWS,-0.0018,CNN,political conflict,neutral,Western (US),Western/Global
+art_034,Google,-0.3,CNN,political conflict,neutral,Western (US),Western/Global
+art_034,Azure,-0.82,CNN,political conflict,neutral,Western (US),Western/Global
+art_035,AWS,-0.0395,BBC,political conflict,neutral,Western (UK),Western/Global
+art_035,Google,-0.3,BBC,political conflict,neutral,Western (UK),Western/Global
+art_035,Azure,-0.69,BBC,political conflict,neutral,Western (UK),Western/Global
+art_036,AWS,0.0046,Global Times,immigration,neutral,Non-Western (China),Non-Western
+art_036,Google,-0.3,Global Times,immigration,neutral,Non-Western (China),Non-Western
+art_036,Azure,-0.73,Global Times,immigration,neutral,Non-Western (China),Non-Western
+art_037,AWS,-0.0299,Al Jazeera,immigration,humanitarian,Non-Western (Middle East),Non-Western
+art_037,Google,-0.3,Al Jazeera,immigration,humanitarian,Non-Western (Middle East),Non-Western
+art_037,Azure,-0.58,Al Jazeera,immigration,humanitarian,Non-Western (Middle East),Non-Western
+art_038,AWS,-0.0382,RT News,immigration,neutral,Non-Western (Russia),Non-Western
+art_038,Google,-0.2,RT News,immigration,neutral,Non-Western (Russia),Non-Western
+art_038,Azure,-0.57,RT News,immigration,neutral,Non-Western (Russia),Non-Western
+art_039,AWS,-0.0036,CNN,immigration,neutral,Western (US),Western/Global
+art_039,Google,-0.2,CNN,immigration,neutral,Western (US),Western/Global
+art_039,Azure,-0.33,CNN,immigration,neutral,Western (US),Western/Global
+art_040,AWS,0.0248,BBC,immigration,humanitarian,Western (UK),Western/Global
+art_040,Google,-0.2,BBC,immigration,humanitarian,Western (UK),Western/Global
+art_040,Azure,-0.89,BBC,immigration,humanitarian,Western (UK),Western/Global
+art_041,AWS,0.0156,Fox News,immigration,neutral,Western (US),Western/Global
+art_041,Google,-0.3,Fox News,immigration,neutral,Western (US),Western/Global
+art_041,Azure,-0.67,Fox News,immigration,neutral,Western (US),Western/Global
+art_042,AWS,-0.0172,Reuters,immigration,humanitarian,Global,Western/Global
+art_042,Google,-0.5,Reuters,immigration,humanitarian,Global,Western/Global
+art_042,Azure,-0.83,Reuters,immigration,humanitarian,Global,Western/Global
+art_043,AWS,0.0115,France 24,immigration,security,Western (Europe),Western/Global
+art_043,Google,-0.4,France 24,immigration,security,Western (Europe),Western/Global
+art_043,Azure,-0.84,France 24,immigration,security,Western (Europe),Western/Global
+art_044,AWS,0.0031,The Guardian,immigration,humanitarian,Western (UK),Western/Global
+art_044,Google,-0.3,The Guardian,immigration,humanitarian,Western (UK),Western/Global
+art_044,Azure,-0.83,The Guardian,immigration,humanitarian,Western (UK),Western/Global
+art_045,AWS,0.0202,South China Morning Post,immigration,neutral,Non-Western (East Asia),Non-Western
+art_045,Google,-0.3,South China Morning Post,immigration,neutral,Non-Western (East Asia),Non-Western
+art_045,Azure,-0.92,South China Morning Post,immigration,neutral,Non-Western (East Asia),Non-Western
+art_046,AWS,-0.0485,Daily Maverick,immigration,security,Non-Western (Africa),Non-Western
+art_046,Google,-0.4,Daily Maverick,immigration,security,Non-Western (Africa),Non-Western
+art_046,Azure,-0.66,Daily Maverick,immigration,security,Non-Western (Africa),Non-Western
+art_047,AWS,-0.2244,Fox News,immigration,security,Western (US),Western/Global
+art_047,Google,-0.4,Fox News,immigration,security,Western (US),Western/Global
+art_047,Azure,-0.79,Fox News,immigration,security,Western (US),Western/Global
+art_048,AWS,-0.1303,BBC,immigration,neutral,Western (UK),Western/Global
+art_048,Google,-0.4,BBC,immigration,neutral,Western (UK),Western/Global
+art_048,Azure,-0.83,BBC,immigration,neutral,Western (UK),Western/Global
+art_049,AWS,-0.1705,CNN,immigration,humanitarian,Western (US),Western/Global
+art_049,Google,-0.5,CNN,immigration,humanitarian,Western (US),Western/Global
+art_049,Azure,-0.75,CNN,immigration,humanitarian,Western (US),Western/Global
+art_050,AWS,-0.1247,The Guardian,immigration,humanitarian,Western (UK),Western/Global
+art_050,Google,-0.4,The Guardian,immigration,humanitarian,Western (UK),Western/Global
+art_050,Azure,-0.58,The Guardian,immigration,humanitarian,Western (UK),Western/Global
+art_051,AWS,-0.0508,The Hindu,immigration,neutral,Non-Western (South Asia),Non-Western
+art_051,Google,-0.6,The Hindu,immigration,neutral,Non-Western (South Asia),Non-Western
+art_051,Azure,-0.8,The Hindu,immigration,neutral,Non-Western (South Asia),Non-Western
+art_052,AWS,-0.0508,The Hindu,immigration,neutral,Non-Western (South Asia),Non-Western
+art_052,Google,-0.6,The Hindu,immigration,neutral,Non-Western (South Asia),Non-Western
+art_052,Azure,-0.8,The Hindu,immigration,neutral,Non-Western (South Asia),Non-Western
+art_053,AWS,-0.0268,Reuters,immigration,neutral,Global,Western/Global
+art_053,Google,-0.5,Reuters,immigration,neutral,Global,Western/Global
+art_053,Azure,-0.79,Reuters,immigration,neutral,Global,Western/Global
+art_054,AWS,-0.2673,France 24,immigration,security,Western (Europe),Western/Global
+art_054,Google,-0.4,France 24,immigration,security,Western (Europe),Western/Global
+art_054,Azure,-0.85,France 24,immigration,security,Western (Europe),Western/Global
+art_055,AWS,-0.0446,Al Jazeera,immigration,humanitarian,Non-Western (Middle East),Non-Western
+art_055,Google,-0.3,Al Jazeera,immigration,humanitarian,Non-Western (Middle East),Non-Western
+art_055,Azure,-0.85,Al Jazeera,immigration,humanitarian,Non-Western (Middle East),Non-Western
+art_056,AWS,-0.017,Straits Times,immigration,security,Non-Western (Southeast Asia),Non-Western
+art_056,Google,-0.5,Straits Times,immigration,security,Non-Western (Southeast Asia),Non-Western
+art_056,Azure,-0.77,Straits Times,immigration,security,Non-Western (Southeast Asia),Non-Western
+art_057,AWS,0.1684,Fox News,immigration,neutral,Western (US),Western/Global
+art_057,Google,-0.4,Fox News,immigration,neutral,Western (US),Western/Global
+art_057,Azure,-0.75,Fox News,immigration,neutral,Western (US),Western/Global
+art_058,AWS,0.0192,South China Morning Post,immigration,humanitarian,Non-Western (East Asia),Non-Western
+art_058,Google,-0.6,South China Morning Post,immigration,humanitarian,Non-Western (East Asia),Non-Western
+art_058,Azure,-0.89,South China Morning Post,immigration,humanitarian,Non-Western (East Asia),Non-Western
+art_059,AWS,-0.0322,Straits Times,immigration,security,Non-Western (Southeast Asia),Non-Western
+art_059,Google,-0.4,Straits Times,immigration,security,Non-Western (Southeast Asia),Non-Western
+art_059,Azure,-0.75,Straits Times,immigration,security,Non-Western (Southeast Asia),Non-Western
+art_060,AWS,0.0593,CNN,immigration,neutral,Western (US),Western/Global
+art_060,Google,-0.3,CNN,immigration,neutral,Western (US),Western/Global
+art_060,Azure,-0.76,CNN,immigration,neutral,Western (US),Western/Global
+art_061,AWS,0.0248,BBC,immigration,security,Western (UK),Western/Global
+art_061,Google,-0.3,BBC,immigration,security,Western (UK),Western/Global
+art_061,Azure,-0.66,BBC,immigration,security,Western (UK),Western/Global
+art_062,AWS,0.0122,Reuters,immigration,neutral,Global,Western/Global
+art_062,Google,-0.5,Reuters,immigration,neutral,Global,Western/Global
+art_062,Azure,-0.84,Reuters,immigration,neutral,Global,Western/Global
+art_063,AWS,-0.001,Al Jazeera,immigration,neutral,Non-Western (Middle East),Non-Western
+art_063,Google,-0.5,Al Jazeera,immigration,neutral,Non-Western (Middle East),Non-Western
+art_063,Azure,-0.66,Al Jazeera,immigration,neutral,Non-Western (Middle East),Non-Western
+art_064,AWS,0.0623,The Guardian,immigration,humanitarian,Western (UK),Western/Global
+art_064,Google,-0.3,The Guardian,immigration,humanitarian,Western (UK),Western/Global
+art_064,Azure,-0.77,The Guardian,immigration,humanitarian,Western (UK),Western/Global
+art_065,AWS,0.0061,Le Monde,immigration,neutral,Western (Europe),Western/Global
+art_065,Google,-0.5,Le Monde,immigration,neutral,Western (Europe),Western/Global
+art_065,Azure,-0.68,Le Monde,immigration,neutral,Western (Europe),Western/Global
+art_066,AWS,-0.0002,The Hindu,immigration,neutral,Non-Western (South Asia),Non-Western
+art_066,Google,-0.5,The Hindu,immigration,neutral,Non-Western (South Asia),Non-Western
+art_066,Azure,-0.75,The Hindu,immigration,neutral,Non-Western (South Asia),Non-Western
+art_067,AWS,0.0547,Fox News,immigration,security,Western (US),Western/Global
+art_067,Google,-0.4,Fox News,immigration,security,Western (US),Western/Global
+art_067,Azure,-0.84,Fox News,immigration,security,Western (US),Western/Global
+art_068,AWS,0.0036,South China Morning Post,immigration,humanitarian,Non-Western (East Asia),Non-Western
+art_068,Google,-0.1,South China Morning Post,immigration,humanitarian,Non-Western (East Asia),Non-Western
+art_068,Azure,-0.51,South China Morning Post,immigration,humanitarian,Non-Western (East Asia),Non-Western
+art_069,AWS,-0.1154,Straits Times,immigration,neutral,Non-Western (Southeast Asia),Non-Western
+art_069,Google,-0.4,Straits Times,immigration,neutral,Non-Western (Southeast Asia),Non-Western
+art_069,Azure,-0.66,Straits Times,immigration,neutral,Non-Western (Southeast Asia),Non-Western
+art_070,AWS,0.0467,CNN,immigration,neutral,Western (US),Western/Global
+art_070,Google,-0.5,CNN,immigration,neutral,Western (US),Western/Global
+art_070,Azure,-0.73,CNN,immigration,neutral,Western (US),Western/Global
+art_071,AWS,-0.0395,BBC,immigration,security,Western (UK),Western/Global
+art_071,Google,-0.2,BBC,immigration,security,Western (UK),Western/Global
+art_071,Azure,-0.81,BBC,immigration,security,Western (UK),Western/Global
+art_072,AWS,0.0108,Reuters,immigration,neutral,Global,Western/Global
+art_072,Google,-0.6,Reuters,immigration,neutral,Global,Western/Global
+art_072,Azure,-0.61,Reuters,immigration,neutral,Global,Western/Global
+art_073,AWS,0.01,Al Jazeera,immigration,humanitarian,Non-Western (Middle East),Non-Western
+art_073,Google,-0.2,Al Jazeera,immigration,humanitarian,Non-Western (Middle East),Non-Western
+art_073,Azure,-0.82,Al Jazeera,immigration,humanitarian,Non-Western (Middle East),Non-Western
+art_074,AWS,0.0659,The Guardian,immigration,humanitarian,Western (UK),Western/Global
+art_074,Google,-0.2,The Guardian,immigration,humanitarian,Western (UK),Western/Global
+art_074,Azure,-0.79,The Guardian,immigration,humanitarian,Western (UK),Western/Global
+art_075,AWS,-0.0007,Le Monde,immigration,security,Western (Europe),Western/Global
+art_075,Google,-0.3,Le Monde,immigration,security,Western (Europe),Western/Global
+art_075,Azure,-0.45,Le Monde,immigration,security,Western (Europe),Western/Global
+art_076,AWS,-0.0001,News24,immigration,neutral,Non-Western (Africa),Non-Western
+art_076,Google,-0.7,News24,immigration,neutral,Non-Western (Africa),Non-Western
+art_076,Azure,-0.81,News24,immigration,neutral,Non-Western (Africa),Non-Western
+art_077,AWS,0.0007,The Hindu,immigration,neutral,Non-Western (South Asia),Non-Western
+art_077,Google,-0.5,The Hindu,immigration,neutral,Non-Western (South Asia),Non-Western
+art_077,Azure,-0.76,The Hindu,immigration,neutral,Non-Western (South Asia),Non-Western
+art_078,AWS,0.0069,Xinhua,immigration,neutral,Non-Western (China),Non-Western
+art_078,Google,-0.3,Xinhua,immigration,neutral,Non-Western (China),Non-Western
+art_078,Azure,-0.83,Xinhua,immigration,neutral,Non-Western (China),Non-Western
+art_079,AWS,-0.0052,Fox News,immigration,security,Western (US),Western/Global
+art_079,Google,-0.1,Fox News,immigration,security,Western (US),Western/Global
+art_079,Azure,-0.05,Fox News,immigration,security,Western (US),Western/Global
+art_080,AWS,-0.0294,The Hindu,immigration,humanitarian,Non-Western (South Asia),Non-Western
+art_080,Google,-0.3,The Hindu,immigration,humanitarian,Non-Western (South Asia),Non-Western
+art_080,Azure,-0.59,The Hindu,immigration,humanitarian,Non-Western (South Asia),Non-Western
+art_081,AWS,0.0149,News24,immigration,security,Non-Western (Africa),Non-Western
+art_081,Google,-0.2,News24,immigration,security,Non-Western (Africa),Non-Western
+art_081,Azure,-0.67,News24,immigration,security,Non-Western (Africa),Non-Western
+art_082,AWS,-0.0612,Straits Times,immigration,security,Non-Western (Southeast Asia),Non-Western
+art_082,Google,-0.4,Straits Times,immigration,security,Non-Western (Southeast Asia),Non-Western
+art_082,Azure,-0.79,Straits Times,immigration,security,Non-Western (Southeast Asia),Non-Western
+art_083,AWS,0.0329,South China Morning Post,immigration,neutral,Non-Western (East Asia),Non-Western
+art_083,Google,-0.4,South China Morning Post,immigration,neutral,Non-Western (East Asia),Non-Western
+art_083,Azure,-0.87,South China Morning Post,immigration,neutral,Non-Western (East Asia),Non-Western
+art_084,AWS,-0.0202,Reuters,immigration,neutral,Global,Western/Global
+art_084,Google,-0.2,Reuters,immigration,neutral,Global,Western/Global
+art_084,Azure,-0.49,Reuters,immigration,neutral,Global,Western/Global
+art_085,AWS,-0.0345,BBC,immigration,neutral,Western (UK),Western/Global
+art_085,Google,-0.4,BBC,immigration,neutral,Western (UK),Western/Global
+art_085,Azure,-0.74,BBC,immigration,neutral,Western (UK),Western/Global
+art_086,AWS,0.0178,Le Monde,immigration,neutral,Western (Europe),Western/Global
+art_086,Google,0.0,Le Monde,immigration,neutral,Western (Europe),Western/Global
+art_086,Azure,-0.12,Le Monde,immigration,neutral,Western (Europe),Western/Global
+art_087,AWS,0.0354,CNN,immigration,neutral,Western (US),Western/Global
+art_087,Google,-0.2,CNN,immigration,neutral,Western (US),Western/Global
+art_087,Azure,-0.53,CNN,immigration,neutral,Western (US),Western/Global
+art_088,AWS,0.1935,The Guardian,immigration,humanitarian,Western (UK),Western/Global
+art_088,Google,-0.3,The Guardian,immigration,humanitarian,Western (UK),Western/Global
+art_088,Azure,-0.86,The Guardian,immigration,humanitarian,Western (UK),Western/Global
+art_089,AWS,0.0505,Al Jazeera,immigration,neutral,Non-Western (Middle East),Non-Western
+art_089,Google,0.0,Al Jazeera,immigration,neutral,Non-Western (Middle East),Non-Western
+art_089,Azure,-0.04,Al Jazeera,immigration,neutral,Non-Western (Middle East),Non-Western
+art_090,AWS,0.008,RT News,immigration,neutral,Non-Western (Russia),Non-Western
+art_090,Google,-0.1,RT News,immigration,neutral,Non-Western (Russia),Non-Western
+art_090,Azure,-0.21,RT News,immigration,neutral,Non-Western (Russia),Non-Western
+art_091,AWS,0.0009,Global Times,immigration,neutral,Non-Western (China),Non-Western
+art_091,Google,0.0,Global Times,immigration,neutral,Non-Western (China),Non-Western
+art_091,Azure,0.82,Global Times,immigration,neutral,Non-Western (China),Non-Western
+art_092,AWS,0.0011,Global Times,immigration,neutral,Non-Western (China),Non-Western
+art_092,Google,0.0,Global Times,immigration,neutral,Non-Western (China),Non-Western
+art_092,Azure,0.63,Global Times,immigration,neutral,Non-Western (China),Non-Western
+art_093,AWS,-0.1925,Reuters,political conflict,people-centric,Global,Western/Global
+art_093,Google,-0.4,Reuters,political conflict,people-centric,Global,Western/Global
+art_093,Azure,-0.82,Reuters,political conflict,people-centric,Global,Western/Global
+art_094,AWS,-0.0618,The Guardian,political conflict,neutral,Western (UK),Western/Global
+art_094,Google,-0.2,The Guardian,political conflict,neutral,Western (UK),Western/Global
+art_094,Azure,-0.71,The Guardian,political conflict,neutral,Western (UK),Western/Global
+art_095,AWS,-0.1365,Le Monde,political conflict,people-centric,Western (Europe),Western/Global
+art_095,Google,-0.3,Le Monde,political conflict,people-centric,Western (Europe),Western/Global
+art_095,Azure,-0.82,Le Monde,political conflict,people-centric,Western (Europe),Western/Global
+art_096,AWS,-0.0305,South China Morning Post,political conflict,neutral,Non-Western (East Asia),Non-Western
+art_096,Google,-0.2,South China Morning Post,political conflict,neutral,Non-Western (East Asia),Non-Western
+art_096,Azure,-0.77,South China Morning Post,political conflict,neutral,Non-Western (East Asia),Non-Western
+art_097,AWS,-0.031,Fox News,political conflict,neutral,Western (US),Western/Global
+art_097,Google,-0.1,Fox News,political conflict,neutral,Western (US),Western/Global
+art_097,Azure,-0.48,Fox News,political conflict,neutral,Western (US),Western/Global
+art_098,AWS,-0.0856,Straits Times,political conflict,state-centric,Non-Western (Southeast Asia),Non-Western
+art_098,Google,-0.4,Straits Times,political conflict,state-centric,Non-Western (Southeast Asia),Non-Western
+art_098,Azure,-0.82,Straits Times,political conflict,state-centric,Non-Western (Southeast Asia),Non-Western
+art_099,AWS,-0.0034,The Hindu,political conflict,neutral,Non-Western (South Asia),Non-Western
+art_099,Google,-0.4,The Hindu,political conflict,neutral,Non-Western (South Asia),Non-Western
+art_099,Azure,-0.77,The Hindu,political conflict,neutral,Non-Western (South Asia),Non-Western
+art_100,AWS,-0.0887,Daily Maverick,political conflict,people-centric,Non-Western (Africa),Non-Western
+art_100,Google,-0.3,Daily Maverick,political conflict,people-centric,Non-Western (Africa),Non-Western
+art_100,Azure,-0.9,Daily Maverick,political conflict,people-centric,Non-Western (Africa),Non-Western
+art_101,AWS,-0.0233,RT News,political conflict,neutral,Non-Western (Russia),Non-Western
+art_101,Google,-0.3,RT News,political conflict,neutral,Non-Western (Russia),Non-Western
+art_101,Azure,-0.63,RT News,political conflict,neutral,Non-Western (Russia),Non-Western
+art_102,AWS,-0.0142,Al Jazeera,political conflict,neutral,Non-Western (Middle East),Non-Western
+art_102,Google,-0.4,Al Jazeera,political conflict,neutral,Non-Western (Middle East),Non-Western
+art_102,Azure,-0.76,Al Jazeera,political conflict,neutral,Non-Western (Middle East),Non-Western
+art_103,AWS,-0.0488,CNN,political conflict,state-centric,Western (US),Western/Global
+art_103,Google,-0.3,CNN,political conflict,state-centric,Western (US),Western/Global
+art_103,Azure,-0.79,CNN,political conflict,state-centric,Western (US),Western/Global
+art_104,AWS,-0.087,BBC,political conflict,state-centric,Western (UK),Western/Global
+art_104,Google,-0.3,BBC,political conflict,state-centric,Western (UK),Western/Global
+art_104,Azure,-0.76,BBC,political conflict,state-centric,Western (UK),Western/Global
+art_105,AWS,-0.0198,Reuters,political conflict,people-centric,Global,Western/Global
+art_105,Google,-0.5,Reuters,political conflict,people-centric,Global,Western/Global
+art_105,Azure,-0.84,Reuters,political conflict,people-centric,Global,Western/Global
+art_106,AWS,0.0012,The Guardian,political conflict,neutral,Western (UK),Western/Global
+art_106,Google,-0.3,The Guardian,political conflict,neutral,Western (UK),Western/Global
+art_106,Azure,-0.79,The Guardian,political conflict,neutral,Western (UK),Western/Global
+art_107,AWS,-0.01,Le Monde,political conflict,neutral,Western (Europe),Western/Global
+art_107,Google,-0.3,Le Monde,political conflict,neutral,Western (Europe),Western/Global
+art_107,Azure,-0.68,Le Monde,political conflict,neutral,Western (Europe),Western/Global
+art_108,AWS,-0.1717,South China Morning Post,political conflict,neutral,Non-Western (East Asia),Non-Western
+art_108,Google,-0.3,South China Morning Post,political conflict,neutral,Non-Western (East Asia),Non-Western
+art_108,Azure,-0.74,South China Morning Post,political conflict,neutral,Non-Western (East Asia),Non-Western
+art_109,AWS,0.0106,Global Times,political conflict,state-centric,Non-Western (China),Non-Western
+art_109,Google,-0.2,Global Times,political conflict,state-centric,Non-Western (China),Non-Western
+art_109,Azure,-0.85,Global Times,political conflict,state-centric,Non-Western (China),Non-Western
+art_110,AWS,-0.0318,Fox News,political conflict,neutral,Western (US),Western/Global
+art_110,Google,-0.2,Fox News,political conflict,neutral,Western (US),Western/Global
+art_110,Azure,-0.47,Fox News,political conflict,neutral,Western (US),Western/Global
+art_111,AWS,-0.0427,Straits Times,political conflict,state-centric,Non-Western (Southeast Asia),Non-Western
+art_111,Google,-0.3,Straits Times,political conflict,state-centric,Non-Western (Southeast Asia),Non-Western
+art_111,Azure,-0.81,Straits Times,political conflict,state-centric,Non-Western (Southeast Asia),Non-Western
+art_112,AWS,0.0188,The Hindu,political conflict,neutral,Non-Western (South Asia),Non-Western
+art_112,Google,-0.3,The Hindu,political conflict,neutral,Non-Western (South Asia),Non-Western
+art_112,Azure,-0.63,The Hindu,political conflict,neutral,Non-Western (South Asia),Non-Western
+art_113,AWS,-0.2904,Daily Maverick,political conflict,people-centric,Non-Western (Africa),Non-Western
+art_113,Google,-0.3,Daily Maverick,political conflict,people-centric,Non-Western (Africa),Non-Western
+art_113,Azure,-0.69,Daily Maverick,political conflict,people-centric,Non-Western (Africa),Non-Western
+art_114,AWS,0.0039,RT News,political conflict,neutral,Non-Western (Russia),Non-Western
+art_114,Google,-0.5,RT News,political conflict,neutral,Non-Western (Russia),Non-Western
+art_114,Azure,-0.8,RT News,political conflict,neutral,Non-Western (Russia),Non-Western
+art_115,AWS,-0.0424,Al Jazeera,political conflict,people-centric,Non-Western (Middle East),Non-Western
+art_115,Google,-0.5,Al Jazeera,political conflict,people-centric,Non-Western (Middle East),Non-Western
+art_115,Azure,-0.77,Al Jazeera,political conflict,people-centric,Non-Western (Middle East),Non-Western
+art_116,AWS,-0.2568,CNN,political conflict,people-centric,Western (US),Western/Global
+art_116,Google,-0.6,CNN,political conflict,people-centric,Western (US),Western/Global
+art_116,Azure,-0.82,CNN,political conflict,people-centric,Western (US),Western/Global
+art_117,AWS,0.0177,BBC,political conflict,state-centric,Western (UK),Western/Global
+art_117,Google,-0.4,BBC,political conflict,state-centric,Western (UK),Western/Global
+art_117,Azure,-0.85,BBC,political conflict,state-centric,Western (UK),Western/Global
+art_118,AWS,-0.0231,Reuters,political conflict,neutral,Global,Western/Global
+art_118,Google,-0.7,Reuters,political conflict,neutral,Global,Western/Global
+art_118,Azure,-0.83,Reuters,political conflict,neutral,Global,Western/Global
+art_119,AWS,-0.1787,The Guardian,political conflict,people-centric,Western (UK),Western/Global
+art_119,Google,-0.5,The Guardian,political conflict,people-centric,Western (UK),Western/Global
+art_119,Azure,-0.7,The Guardian,political conflict,people-centric,Western (UK),Western/Global
+art_120,AWS,0.0045,Le Monde,political conflict,neutral,Western (Europe),Western/Global
+art_120,Google,-0.3,Le Monde,political conflict,neutral,Western (Europe),Western/Global
+art_120,Azure,-0.82,Le Monde,political conflict,neutral,Western (Europe),Western/Global
+art_121,AWS,-0.1291,South China Morning Post,political conflict,people-centric,Non-Western (East Asia),Non-Western
+art_121,Google,-0.3,South China Morning Post,political conflict,people-centric,Non-Western (East Asia),Non-Western
+art_121,Azure,-0.95,South China Morning Post,political conflict,people-centric,Non-Western (East Asia),Non-Western
+art_122,AWS,0.1431,Global Times,political conflict,people-centric,Non-Western (China),Non-Western
+art_122,Google,0.0,Global Times,political conflict,people-centric,Non-Western (China),Non-Western
+art_122,Azure,-0.6,Global Times,political conflict,people-centric,Non-Western (China),Non-Western
+art_123,AWS,-0.1856,Fox News,political conflict,people-centric,Western (US),Western/Global
+art_123,Google,-0.5,Fox News,political conflict,people-centric,Western (US),Western/Global
+art_123,Azure,-0.79,Fox News,political conflict,people-centric,Western (US),Western/Global
+art_124,AWS,-0.1041,Straits Times,political conflict,people-centric,Non-Western (Southeast Asia),Non-Western
+art_124,Google,-0.4,Straits Times,political conflict,people-centric,Non-Western (Southeast Asia),Non-Western
+art_124,Azure,-0.68,Straits Times,political conflict,people-centric,Non-Western (Southeast Asia),Non-Western
+art_125,AWS,-0.0221,The Hindu,political conflict,people-centric,Non-Western (South Asia),Non-Western
+art_125,Google,-0.6,The Hindu,political conflict,people-centric,Non-Western (South Asia),Non-Western
+art_125,Azure,-0.76,The Hindu,political conflict,people-centric,Non-Western (South Asia),Non-Western
+art_126,AWS,0.0065,Daily Maverick,political conflict,people-centric,Non-Western (Africa),Non-Western
+art_126,Google,-0.4,Daily Maverick,political conflict,people-centric,Non-Western (Africa),Non-Western
+art_126,Azure,-0.77,Daily Maverick,political conflict,people-centric,Non-Western (Africa),Non-Western
+art_127,AWS,-0.1128,Fox News,political conflict,state-centric,Western (US),Western/Global
+art_127,Google,-0.3,Fox News,political conflict,state-centric,Western (US),Western/Global
+art_127,Azure,-0.61,Fox News,political conflict,state-centric,Western (US),Western/Global
+art_128,AWS,-0.1256,CNN,political conflict,neutral,Western (US),Western/Global
+art_128,Google,-0.4,CNN,political conflict,neutral,Western (US),Western/Global
+art_128,Azure,-0.88,CNN,political conflict,neutral,Western (US),Western/Global
+art_129,AWS,-0.0976,BBC,political conflict,people-centric,Western (UK),Western/Global
+art_129,Google,-0.3,BBC,political conflict,people-centric,Western (UK),Western/Global
+art_129,Azure,-0.85,BBC,political conflict,people-centric,Western (UK),Western/Global
+art_130,AWS,-0.1976,Reuters,political conflict,neutral,Global,Western/Global
+art_130,Google,-0.7,Reuters,political conflict,neutral,Global,Western/Global
+art_130,Azure,-0.83,Reuters,political conflict,neutral,Global,Western/Global
+art_131,AWS,-0.1733,RT News,political conflict,people-centric,Non-Western (Russia),Non-Western
+art_131,Google,-0.3,RT News,political conflict,people-centric,Non-Western (Russia),Non-Western
+art_131,Azure,-0.82,RT News,political conflict,people-centric,Non-Western (Russia),Non-Western
+art_132,AWS,-0.0898,Al Jazeera,political conflict,people-centric,Non-Western (Middle East),Non-Western
+art_132,Google,-0.3,Al Jazeera,political conflict,people-centric,Non-Western (Middle East),Non-Western
+art_132,Azure,-0.81,Al Jazeera,political conflict,people-centric,Non-Western (Middle East),Non-Western
+art_133,AWS,-0.0026,The Guardian,political conflict,state-centric,Western (UK),Western/Global
+art_133,Google,-0.3,The Guardian,political conflict,state-centric,Western (UK),Western/Global
+art_133,Azure,-0.84,The Guardian,political conflict,state-centric,Western (UK),Western/Global
+art_134,AWS,-0.1555,Le Monde,political conflict,state-centric,Western (Europe),Western/Global
+art_134,Google,-0.4,Le Monde,political conflict,state-centric,Western (Europe),Western/Global
+art_134,Azure,-0.84,Le Monde,political conflict,state-centric,Western (Europe),Western/Global
+art_135,AWS,0.1198,Global Times,political conflict,state-centric,Non-Western (China),Non-Western
+art_135,Google,-0.3,Global Times,political conflict,state-centric,Non-Western (China),Non-Western
+art_135,Azure,-0.78,Global Times,political conflict,state-centric,Non-Western (China),Non-Western
+art_136,AWS,-0.0614,South China Morning Post,political conflict,neutral,Non-Western (East Asia),Non-Western
+art_136,Google,-0.5,South China Morning Post,political conflict,neutral,Non-Western (East Asia),Non-Western
+art_136,Azure,-0.93,South China Morning Post,political conflict,neutral,Non-Western (East Asia),Non-Western
+art_137,AWS,-0.047,The Hindu,political conflict,neutral,Non-Western (South Asia),Non-Western
+art_137,Google,-0.3,The Hindu,political conflict,neutral,Non-Western (South Asia),Non-Western
+art_137,Azure,-0.96,The Hindu,political conflict,neutral,Non-Western (South Asia),Non-Western
+art_138,AWS,0.0105,Indian Express,political conflict,neutral,Non-Western (South Asia),Non-Western
+art_138,Google,-0.2,Indian Express,political conflict,neutral,Non-Western (South Asia),Non-Western
+art_138,Azure,-0.81,Indian Express,political conflict,neutral,Non-Western (South Asia),Non-Western
+art_139,AWS,-0.0825,Straits Times,political conflict,neutral,Non-Western (Southeast Asia),Non-Western
+art_139,Google,-0.3,Straits Times,political conflict,neutral,Non-Western (Southeast Asia),Non-Western
+art_139,Azure,-0.85,Straits Times,political conflict,neutral,Non-Western (Southeast Asia),Non-Western
+art_140,AWS,-0.1489,News24,political conflict,people-centric,Non-Western (Africa),Non-Western
+art_140,Google,-0.5,News24,political conflict,people-centric,Non-Western (Africa),Non-Western
+art_140,Azure,-0.87,News24,political conflict,people-centric,Non-Western (Africa),Non-Western
+art_141,AWS,0.0773,Fox News,political conflict,neutral,Western (US),Western/Global
+art_141,Google,-0.2,Fox News,political conflict,neutral,Western (US),Western/Global
+art_141,Azure,-0.85,Fox News,political conflict,neutral,Western (US),Western/Global
+art_142,AWS,-0.0331,CNN,political conflict,neutral,Western (US),Western/Global
+art_142,Google,-0.2,CNN,political conflict,neutral,Western (US),Western/Global
+art_142,Azure,-0.8,CNN,political conflict,neutral,Western (US),Western/Global
+art_143,AWS,-0.0538,BBC,political conflict,people-centric,Western (UK),Western/Global
+art_143,Google,-0.5,BBC,political conflict,people-centric,Western (UK),Western/Global
+art_143,Azure,-0.84,BBC,political conflict,people-centric,Western (UK),Western/Global
+art_144,AWS,-0.0469,Reuters,political conflict,state-centric,Global,Western/Global
+art_144,Google,-0.4,Reuters,political conflict,state-centric,Global,Western/Global
+art_144,Azure,-0.78,Reuters,political conflict,state-centric,Global,Western/Global
+art_145,AWS,-0.1387,RT News,political conflict,neutral,Non-Western (Russia),Non-Western
+art_145,Google,-0.3,RT News,political conflict,neutral,Non-Western (Russia),Non-Western
+art_145,Azure,-0.8,RT News,political conflict,neutral,Non-Western (Russia),Non-Western
+art_146,AWS,-0.0405,Al Jazeera,political conflict,state-centric,Non-Western (Middle East),Non-Western
+art_146,Google,-0.3,Al Jazeera,political conflict,state-centric,Non-Western (Middle East),Non-Western
+art_146,Azure,-0.86,Al Jazeera,political conflict,state-centric,Non-Western (Middle East),Non-Western
+art_147,AWS,-0.1026,The Guardian,political conflict,neutral,Western (UK),Western/Global
+art_147,Google,-0.4,The Guardian,political conflict,neutral,Western (UK),Western/Global
+art_147,Azure,-0.83,The Guardian,political conflict,neutral,Western (UK),Western/Global
+art_148,AWS,-0.048,Le Monde,political conflict,state-centric,Western (Europe),Western/Global
+art_148,Google,-0.3,Le Monde,political conflict,state-centric,Western (Europe),Western/Global
+art_148,Azure,-0.83,Le Monde,political conflict,state-centric,Western (Europe),Western/Global
+art_149,AWS,-0.0153,The Hindu,political conflict,state-centric,Non-Western (South Asia),Non-Western
+art_149,Google,-0.3,The Hindu,political conflict,state-centric,Non-Western (South Asia),Non-Western
+art_149,Azure,-0.76,The Hindu,political conflict,state-centric,Non-Western (South Asia),Non-Western
+art_150,AWS,-0.0221,Straits Times,political conflict,state-centric,Non-Western (Southeast Asia),Non-Western
+art_150,Google,-0.3,Straits Times,political conflict,state-centric,Non-Western (Southeast Asia),Non-Western
+art_150,Azure,-0.79,Straits Times,political conflict,state-centric,Non-Western (Southeast Asia),Non-Western
+art_151,AWS,-0.013,News24,political conflict,neutral,Non-Western (Africa),Non-Western
+art_151,Google,-0.4,News24,political conflict,neutral,Non-Western (Africa),Non-Western
+art_151,Azure,-0.88,News24,political conflict,neutral,Non-Western (Africa),Non-Western
+art_152,AWS,-0.0624,Fox News,political conflict,neutral,Western (US),Western/Global
+art_152,Google,-0.5,Fox News,political conflict,neutral,Western (US),Western/Global
+art_152,Azure,-0.9,Fox News,political conflict,neutral,Western (US),Western/Global
+art_153,AWS,-0.1783,Xinhua,political conflict,people-centric,Non-Western (China),Non-Western
+art_153,Google,-0.3,Xinhua,political conflict,people-centric,Non-Western (China),Non-Western
+art_153,Azure,-0.9,Xinhua,political conflict,people-centric,Non-Western (China),Non-Western
+art_154,AWS,-0.2047,France 24,political conflict,state-centric,Western (Europe),Western/Global
+art_154,Google,-0.4,France 24,political conflict,state-centric,Western (Europe),Western/Global
+art_154,Azure,-0.87,France 24,political conflict,state-centric,Western (Europe),Western/Global
+art_155,AWS,-0.1787,BBC,political conflict,people-centric,Western (UK),Western/Global
+art_155,Google,-0.3,BBC,political conflict,people-centric,Western (UK),Western/Global
+art_155,Azure,-0.86,BBC,political conflict,people-centric,Western (UK),Western/Global
+art_156,AWS,-0.0188,CNN,political conflict,neutral,Western (US),Western/Global
+art_156,Google,-0.3,CNN,political conflict,neutral,Western (US),Western/Global
+art_156,Azure,-0.83,CNN,political conflict,neutral,Western (US),Western/Global
+art_157,AWS,-0.0349,RT News,political conflict,state-centric,Non-Western (Russia),Non-Western
+art_157,Google,-0.3,RT News,political conflict,state-centric,Non-Western (Russia),Non-Western
+art_157,Azure,-0.85,RT News,political conflict,state-centric,Non-Western (Russia),Non-Western
+art_158,AWS,-0.0633,Al Jazeera,political conflict,neutral,Non-Western (Middle East),Non-Western
+art_158,Google,-0.3,Al Jazeera,political conflict,neutral,Non-Western (Middle East),Non-Western
+art_158,Azure,-0.85,Al Jazeera,political conflict,neutral,Non-Western (Middle East),Non-Western
+art_159,AWS,-0.1402,The Guardian,political conflict,neutral,Western (UK),Western/Global
+art_159,Google,-0.3,The Guardian,political conflict,neutral,Western (UK),Western/Global
+art_159,Azure,-0.81,The Guardian,political conflict,neutral,Western (UK),Western/Global
+art_160,AWS,-0.0451,South China Morning Post,political conflict,people-centric,Non-Western (East Asia),Non-Western
+art_160,Google,-0.3,South China Morning Post,political conflict,people-centric,Non-Western (East Asia),Non-Western
+art_160,Azure,-0.85,South China Morning Post,political conflict,people-centric,Non-Western (East Asia),Non-Western
+art_161,AWS,-0.123,News24,political conflict,people-centric,Non-Western (Africa),Non-Western
+art_161,Google,-0.6,News24,political conflict,people-centric,Non-Western (Africa),Non-Western
+art_161,Azure,-0.81,News24,political conflict,people-centric,Non-Western (Africa),Non-Western
+art_162,AWS,-0.1128,Straits Times,political conflict,people-centric,Non-Western (Southeast Asia),Non-Western
+art_162,Google,-0.4,Straits Times,political conflict,people-centric,Non-Western (Southeast Asia),Non-Western
+art_162,Azure,-0.75,Straits Times,political conflict,people-centric,Non-Western (Southeast Asia),Non-Western
+art_163,AWS,-0.1393,The Hindu,political conflict,neutral,Non-Western (South Asia),Non-Western
+art_163,Google,-0.5,The Hindu,political conflict,neutral,Non-Western (South Asia),Non-Western
+art_163,Azure,-0.92,The Hindu,political conflict,neutral,Non-Western (South Asia),Non-Western
+art_164,AWS,-0.1786,Reuters,political conflict,neutral,Global,Western/Global
+art_164,Google,-0.6,Reuters,political conflict,neutral,Global,Western/Global
+art_164,Azure,-0.8,Reuters,political conflict,neutral,Global,Western/Global
+art_165,AWS,-0.002,RT News,political conflict,neutral,Non-Western (Russia),Non-Western
+art_165,Google,-0.3,RT News,political conflict,neutral,Non-Western (Russia),Non-Western
+art_165,Azure,-0.78,RT News,political conflict,neutral,Non-Western (Russia),Non-Western
+art_166,AWS,-0.0107,Al Jazeera,political conflict,neutral,Non-Western (Middle East),Non-Western
+art_166,Google,-0.2,Al Jazeera,political conflict,neutral,Non-Western (Middle East),Non-Western
+art_166,Azure,-0.73,Al Jazeera,political conflict,neutral,Non-Western (Middle East),Non-Western
+art_167,AWS,-0.0325,CNN,political conflict,state-centric,Western (US),Western/Global
+art_167,Google,-0.3,CNN,political conflict,state-centric,Western (US),Western/Global
+art_167,Azure,-0.86,CNN,political conflict,state-centric,Western (US),Western/Global
+art_168,AWS,-0.0205,BBC,political conflict,neutral,Western (UK),Western/Global
+art_168,Google,-0.3,BBC,political conflict,neutral,Western (UK),Western/Global
+art_168,Azure,-0.82,BBC,political conflict,neutral,Western (UK),Western/Global
+art_169,AWS,-0.0343,Reuters,political conflict,people-centric,Global,Western/Global
+art_169,Google,-0.5,Reuters,political conflict,people-centric,Global,Western/Global
+art_169,Azure,-0.89,Reuters,political conflict,people-centric,Global,Western/Global
+art_170,AWS,-0.009,The Guardian,political conflict,people-centric,Western (UK),Western/Global
+art_170,Google,-0.4,The Guardian,political conflict,people-centric,Western (UK),Western/Global
+art_170,Azure,-0.81,The Guardian,political conflict,people-centric,Western (UK),Western/Global
+art_171,AWS,-0.0069,Xinhua,political conflict,state-centric,Non-Western (China),Non-Western
+art_171,Google,0.0,Xinhua,political conflict,state-centric,Non-Western (China),Non-Western
+art_171,Azure,-0.76,Xinhua,political conflict,state-centric,Non-Western (China),Non-Western
+art_172,AWS,-0.0842,The Hindu,political conflict,neutral,Non-Western (South Asia),Non-Western
+art_172,Google,-0.4,The Hindu,political conflict,neutral,Non-Western (South Asia),Non-Western
+art_172,Azure,-0.83,The Hindu,political conflict,neutral,Non-Western (South Asia),Non-Western
+art_173,AWS,0.0047,News24,political conflict,state-centric,Non-Western (Africa),Non-Western
+art_173,Google,-0.2,News24,political conflict,state-centric,Non-Western (Africa),Non-Western
+art_173,Azure,-0.77,News24,political conflict,state-centric,Non-Western (Africa),Non-Western
+art_174,AWS,-0.0011,RT News,environment,neutral,Non-Western (Russia),Non-Western
+art_174,Google,-0.3,RT News,environment,neutral,Non-Western (Russia),Non-Western
+art_174,Azure,-0.37,RT News,environment,neutral,Non-Western (Russia),Non-Western
+art_175,AWS,-0.001,Al Jazeera,environment,neutral,Non-Western (Middle East),Non-Western
+art_175,Google,-0.3,Al Jazeera,environment,neutral,Non-Western (Middle East),Non-Western
+art_175,Azure,-0.67,Al Jazeera,environment,neutral,Non-Western (Middle East),Non-Western
+art_176,AWS,0.0218,CNN,environment,neutral,Western (US),Western/Global
+art_176,Google,-0.3,CNN,environment,neutral,Western (US),Western/Global
+art_176,Azure,-0.4,CNN,environment,neutral,Western (US),Western/Global
+art_177,AWS,0.0222,BBC,environment,concern,Western (UK),Western/Global
+art_177,Google,-0.4,BBC,environment,concern,Western (UK),Western/Global
+art_177,Azure,-0.77,BBC,environment,concern,Western (UK),Western/Global
+art_178,AWS,-0.0734,Fox News,environment,skeptical,Western (US),Western/Global
+art_178,Google,-0.2,Fox News,environment,skeptical,Western (US),Western/Global
+art_178,Azure,-0.2,Fox News,environment,skeptical,Western (US),Western/Global
+art_179,AWS,-0.0214,Reuters,environment,concern,Global,Western/Global
+art_179,Google,-0.5,Reuters,environment,concern,Global,Western/Global
+art_179,Azure,-0.8,Reuters,environment,concern,Global,Western/Global
+art_180,AWS,-0.0591,France 24,environment,concern,Western (Europe),Western/Global
+art_180,Google,-0.3,France 24,environment,concern,Western (Europe),Western/Global
+art_180,Azure,-0.75,France 24,environment,concern,Western (Europe),Western/Global
+art_181,AWS,0.0262,The Guardian,environment,concern,Western (UK),Western/Global
+art_181,Google,-0.2,The Guardian,environment,concern,Western (UK),Western/Global
+art_181,Azure,-0.52,The Guardian,environment,concern,Western (UK),Western/Global
+art_182,AWS,-0.0046,Global Times,environment,neutral,Non-Western (China),Non-Western
+art_182,Google,-0.3,Global Times,environment,neutral,Non-Western (China),Non-Western
+art_182,Azure,-0.45,Global Times,environment,neutral,Non-Western (China),Non-Western
+art_183,AWS,-0.059,Straits Times,environment,neutral,Non-Western (Southeast Asia),Non-Western
+art_183,Google,-0.4,Straits Times,environment,neutral,Non-Western (Southeast Asia),Non-Western
+art_183,Azure,-0.71,Straits Times,environment,neutral,Non-Western (Southeast Asia),Non-Western
+art_184,AWS,-0.0368,News24,environment,neutral,Non-Western (Africa),Non-Western
+art_184,Google,0.0,News24,environment,neutral,Non-Western (Africa),Non-Western
+art_184,Azure,-0.01,News24,environment,neutral,Non-Western (Africa),Non-Western
+art_185,AWS,0.1209,The Hindu,environment,neutral,Non-Western (South Asia),Non-Western
+art_185,Google,-0.2,The Hindu,environment,neutral,Non-Western (South Asia),Non-Western
+art_185,Azure,-0.34,The Hindu,environment,neutral,Non-Western (South Asia),Non-Western
+art_186,AWS,0.0198,Indian Express,environment,concern,Non-Western (South Asia),Non-Western
+art_186,Google,0.0,Indian Express,environment,concern,Non-Western (South Asia),Non-Western
+art_186,Azure,-0.56,Indian Express,environment,concern,Non-Western (South Asia),Non-Western
+art_187,AWS,0.0461,South China Morning Post,environment,concern,Non-Western (East Asia),Non-Western
+art_187,Google,0.0,South China Morning Post,environment,concern,Non-Western (East Asia),Non-Western
+art_187,Azure,-0.98,South China Morning Post,environment,concern,Non-Western (East Asia),Non-Western
+art_188,AWS,-0.2318,Fox News,environment,neutral,Western (US),Western/Global
+art_188,Google,-0.3,Fox News,environment,neutral,Western (US),Western/Global
+art_188,Azure,-0.86,Fox News,environment,neutral,Western (US),Western/Global
+art_189,AWS,-0.0855,The Hindu,environment,concern,Non-Western (South Asia),Non-Western
+art_189,Google,-0.2,The Hindu,environment,concern,Non-Western (South Asia),Non-Western
+art_189,Azure,-0.9,The Hindu,environment,concern,Non-Western (South Asia),Non-Western
+art_190,AWS,-0.1749,South China Morning Post,environment,concern,Non-Western (East Asia),Non-Western
+art_190,Google,-0.2,South China Morning Post,environment,concern,Non-Western (East Asia),Non-Western
+art_190,Azure,-0.95,South China Morning Post,environment,concern,Non-Western (East Asia),Non-Western
+art_191,AWS,-0.007,Global Times,environment,concern,Non-Western (China),Non-Western
+art_191,Google,-0.1,Global Times,environment,concern,Non-Western (China),Non-Western
+art_191,Azure,-0.71,Global Times,environment,concern,Non-Western (China),Non-Western
+art_192,AWS,-0.0261,RT News,environment,neutral,Non-Western (Russia),Non-Western
+art_192,Google,-0.2,RT News,environment,neutral,Non-Western (Russia),Non-Western
+art_192,Azure,-0.84,RT News,environment,neutral,Non-Western (Russia),Non-Western
+art_193,AWS,-0.0345,BBC,environment,neutral,Western (UK),Western/Global
+art_193,Google,-0.3,BBC,environment,neutral,Western (UK),Western/Global
+art_193,Azure,-0.81,BBC,environment,neutral,Western (UK),Western/Global
+art_194,AWS,-0.0523,The Guardian,environment,concern,Western (UK),Western/Global
+art_194,Google,-0.3,The Guardian,environment,concern,Western (UK),Western/Global
+art_194,Azure,-0.88,The Guardian,environment,concern,Western (UK),Western/Global
+art_195,AWS,-0.054,Al Jazeera,environment,concern,Non-Western (Middle East),Non-Western
+art_195,Google,-0.2,Al Jazeera,environment,concern,Non-Western (Middle East),Non-Western
+art_195,Azure,-0.94,Al Jazeera,environment,concern,Non-Western (Middle East),Non-Western
+art_196,AWS,-0.1348,CNN,environment,concern,Western (US),Western/Global
+art_196,Google,-0.3,CNN,environment,concern,Western (US),Western/Global
+art_196,Azure,-0.88,CNN,environment,concern,Western (US),Western/Global
+art_197,AWS,-0.402,Le Monde,environment,neutral,Western (Europe),Western/Global
+art_197,Google,-0.3,Le Monde,environment,neutral,Western (Europe),Western/Global
+art_197,Azure,-0.85,Le Monde,environment,neutral,Western (Europe),Western/Global
+art_198,AWS,-0.2907,Straits Times,environment,neutral,Non-Western (Southeast Asia),Non-Western
+art_198,Google,-0.4,Straits Times,environment,neutral,Non-Western (Southeast Asia),Non-Western
+art_198,Azure,-0.86,Straits Times,environment,neutral,Non-Western (Southeast Asia),Non-Western
+art_199,AWS,0.0519,News24,environment,neutral,Non-Western (Africa),Non-Western
+art_199,Google,0.0,News24,environment,neutral,Non-Western (Africa),Non-Western
+art_199,Azure,-0.54,News24,environment,neutral,Non-Western (Africa),Non-Western
+art_200,AWS,-0.044,Reuters,environment,concern,Global,Western/Global
+art_200,Google,-0.3,Reuters,environment,concern,Global,Western/Global
+art_200,Azure,-0.82,Reuters,environment,concern,Global,Western/Global
+art_201,AWS,-0.3985,Reuters,environment,concern,Global,Western/Global
+art_201,Google,-0.3,Reuters,environment,concern,Global,Western/Global
+art_201,Azure,-0.91,Reuters,environment,concern,Global,Western/Global
+art_202,AWS,-0.001,The Hindu,environment,concern,Non-Western (South Asia),Non-Western
+art_202,Google,0.0,The Hindu,environment,concern,Non-Western (South Asia),Non-Western
+art_202,Azure,-0.16,The Hindu,environment,concern,Non-Western (South Asia),Non-Western
+art_203,AWS,0.0133,South China Morning Post,environment,concern,Non-Western (East Asia),Non-Western
+art_203,Google,-0.3,South China Morning Post,environment,concern,Non-Western (East Asia),Non-Western
+art_203,Azure,-0.87,South China Morning Post,environment,concern,Non-Western (East Asia),Non-Western
+art_204,AWS,0.2661,Global Times,environment,neutral,Non-Western (China),Non-Western
+art_204,Google,0.1,Global Times,environment,neutral,Non-Western (China),Non-Western
+art_204,Azure,-0.78,Global Times,environment,neutral,Non-Western (China),Non-Western
+art_205,AWS,-0.029,RT News,environment,neutral,Non-Western (Russia),Non-Western
+art_205,Google,-0.1,RT News,environment,neutral,Non-Western (Russia),Non-Western
+art_205,Azure,-0.77,RT News,environment,neutral,Non-Western (Russia),Non-Western
+art_206,AWS,-0.0054,BBC,environment,concern,Western (UK),Western/Global
+art_206,Google,-0.4,BBC,environment,concern,Western (UK),Western/Global
+art_206,Azure,-0.78,BBC,environment,concern,Western (UK),Western/Global
+art_207,AWS,-0.1566,The Guardian,environment,concern,Western (UK),Western/Global
+art_207,Google,-0.4,The Guardian,environment,concern,Western (UK),Western/Global
+art_207,Azure,-0.85,The Guardian,environment,concern,Western (UK),Western/Global
+art_208,AWS,-0.0267,Al Jazeera,environment,concern,Non-Western (Middle East),Non-Western
+art_208,Google,-0.2,Al Jazeera,environment,concern,Non-Western (Middle East),Non-Western
+art_208,Azure,-0.89,Al Jazeera,environment,concern,Non-Western (Middle East),Non-Western
+art_209,AWS,-0.2914,CNN,environment,concern,Western (US),Western/Global
+art_209,Google,-0.3,CNN,environment,concern,Western (US),Western/Global
+art_209,Azure,-0.85,CNN,environment,concern,Western (US),Western/Global
+art_210,AWS,-0.2207,Le Monde,environment,concern,Western (Europe),Western/Global
+art_210,Google,-0.2,Le Monde,environment,concern,Western (Europe),Western/Global
+art_210,Azure,-0.72,Le Monde,environment,concern,Western (Europe),Western/Global
+art_211,AWS,-0.1242,Straits Times,environment,concern,Non-Western (Southeast Asia),Non-Western
+art_211,Google,-0.2,Straits Times,environment,concern,Non-Western (Southeast Asia),Non-Western
+art_211,Azure,-0.74,Straits Times,environment,concern,Non-Western (Southeast Asia),Non-Western
+art_212,AWS,-0.2545,Reuters,environment,concern,Global,Western/Global
+art_212,Google,-0.2,Reuters,environment,concern,Global,Western/Global
+art_212,Azure,-0.88,Reuters,environment,concern,Global,Western/Global
+art_213,AWS,-0.5693,RT News,environment,skeptical,Non-Western (Russia),Non-Western
+art_213,Google,-0.5,RT News,environment,skeptical,Non-Western (Russia),Non-Western
+art_213,Azure,-0.85,RT News,environment,skeptical,Non-Western (Russia),Non-Western
+art_214,AWS,-0.3277,Al Jazeera,environment,concern,Non-Western (Middle East),Non-Western
+art_214,Google,-0.1,Al Jazeera,environment,concern,Non-Western (Middle East),Non-Western
+art_214,Azure,-0.8,Al Jazeera,environment,concern,Non-Western (Middle East),Non-Western
+art_215,AWS,-0.1124,Reuters,environment,concern,Global,Western/Global
+art_215,Google,-0.1,Reuters,environment,concern,Global,Western/Global
+art_215,Azure,-0.8,Reuters,environment,concern,Global,Western/Global
+art_216,AWS,-0.0283,CNN,environment,concern,Western (US),Western/Global
+art_216,Google,-0.2,CNN,environment,concern,Western (US),Western/Global
+art_216,Azure,-0.85,CNN,environment,concern,Western (US),Western/Global
+art_217,AWS,-0.0063,BBC,environment,concern,Western (UK),Western/Global
+art_217,Google,0.0,BBC,environment,concern,Western (UK),Western/Global
+art_217,Azure,-0.58,BBC,environment,concern,Western (UK),Western/Global
+art_218,AWS,-0.3852,Fox News,environment,skeptical,Western (US),Western/Global
+art_218,Google,-0.3,Fox News,environment,skeptical,Western (US),Western/Global
+art_218,Azure,-0.48,Fox News,environment,skeptical,Western (US),Western/Global
+art_219,AWS,-0.2602,Global Times,environment,neutral,Non-Western (China),Non-Western
+art_219,Google,-0.4,Global Times,environment,neutral,Non-Western (China),Non-Western
+art_219,Azure,-0.61,Global Times,environment,neutral,Non-Western (China),Non-Western
+art_220,AWS,-0.1941,Straits Times,environment,concern,Non-Western (Southeast Asia),Non-Western
+art_220,Google,-0.3,Straits Times,environment,concern,Non-Western (Southeast Asia),Non-Western
+art_220,Azure,-0.87,Straits Times,environment,concern,Non-Western (Southeast Asia),Non-Western
+art_221,AWS,-0.0839,South China Morning Post,environment,concern,Non-Western (East Asia),Non-Western
+art_221,Google,-0.3,South China Morning Post,environment,concern,Non-Western (East Asia),Non-Western
+art_221,Azure,-0.96,South China Morning Post,environment,concern,Non-Western (East Asia),Non-Western
+art_222,AWS,0.2061,The Guardian,environment,concern,Western (UK),Western/Global
+art_222,Google,-0.1,The Guardian,environment,concern,Western (UK),Western/Global
+art_222,Azure,-0.87,The Guardian,environment,concern,Western (UK),Western/Global
+art_223,AWS,-0.3004,Le Monde,environment,concern,Western (Europe),Western/Global
+art_223,Google,-0.2,Le Monde,environment,concern,Western (Europe),Western/Global
+art_223,Azure,-0.65,Le Monde,environment,concern,Western (Europe),Western/Global
+art_224,AWS,-0.6588,News24,environment,neutral,Non-Western (Africa),Non-Western
+art_224,Google,-0.3,News24,environment,neutral,Non-Western (Africa),Non-Western
+art_224,Azure,-0.83,News24,environment,neutral,Non-Western (Africa),Non-Western
+art_225,AWS,0.162,The Hindu,environment,concern,Non-Western (South Asia),Non-Western
+art_225,Google,-0.2,The Hindu,environment,concern,Non-Western (South Asia),Non-Western
+art_225,Azure,-0.82,The Hindu,environment,concern,Non-Western (South Asia),Non-Western
+art_226,AWS,-0.0441,BBC,environment,concern,Western (UK),Western/Global
+art_226,Google,-0.1,BBC,environment,concern,Western (UK),Western/Global
+art_226,Azure,-0.67,BBC,environment,concern,Western (UK),Western/Global
+art_227,AWS,-0.0753,Al Jazeera,environment,concern,Non-Western (Middle East),Non-Western
+art_227,Google,-0.2,Al Jazeera,environment,concern,Non-Western (Middle East),Non-Western
+art_227,Azure,-0.69,Al Jazeera,environment,concern,Non-Western (Middle East),Non-Western
+art_228,AWS,0.0723,Reuters,environment,neutral,Global,Western/Global
+art_228,Google,-0.1,Reuters,environment,neutral,Global,Western/Global
+art_228,Azure,-0.58,Reuters,environment,neutral,Global,Western/Global
+art_229,AWS,-0.015,The Hindu,environment,concern,Non-Western (South Asia),Non-Western
+art_229,Google,-0.3,The Hindu,environment,concern,Non-Western (South Asia),Non-Western
+art_229,Azure,-0.79,The Hindu,environment,concern,Non-Western (South Asia),Non-Western
+art_230,AWS,-0.0483,Le Monde,environment,concern,Western (Europe),Western/Global
+art_230,Google,-0.1,Le Monde,environment,concern,Western (Europe),Western/Global
+art_230,Azure,-0.9,Le Monde,environment,concern,Western (Europe),Western/Global
+art_231,AWS,-0.0254,Fox News,environment,concern,Western (US),Western/Global
+art_231,Google,-0.1,Fox News,environment,concern,Western (US),Western/Global
+art_231,Azure,-0.88,Fox News,environment,concern,Western (US),Western/Global
+art_232,AWS,-0.5166,Straits Times,environment,neutral,Non-Western (Southeast Asia),Non-Western
+art_232,Google,-0.1,Straits Times,environment,neutral,Non-Western (Southeast Asia),Non-Western
+art_232,Azure,-0.44,Straits Times,environment,neutral,Non-Western (Southeast Asia),Non-Western
+art_233,AWS,0.0288,Global Times,environment,concern,Non-Western (China),Non-Western
+art_233,Google,-0.1,Global Times,environment,concern,Non-Western (China),Non-Western
+art_233,Azure,-0.4,Global Times,environment,concern,Non-Western (China),Non-Western
+art_234,AWS,-0.019,CNN,environment,concern,Western (US),Western/Global
+art_234,Google,-0.1,CNN,environment,concern,Western (US),Western/Global
+art_234,Azure,-0.76,CNN,environment,concern,Western (US),Western/Global
+art_235,AWS,-0.0767,Reuters,environment,concern,Global,Western/Global
+art_235,Google,-0.3,Reuters,environment,concern,Global,Western/Global
+art_235,Azure,-0.9,Reuters,environment,concern,Global,Western/Global
+art_236,AWS,0.0227,The Guardian,environment,concern,Western (UK),Western/Global
+art_236,Google,-0.1,The Guardian,environment,concern,Western (UK),Western/Global
+art_236,Azure,-0.57,The Guardian,environment,concern,Western (UK),Western/Global
+art_237,AWS,-0.0101,News24,environment,neutral,Non-Western (Africa),Non-Western
+art_237,Google,-0.2,News24,environment,neutral,Non-Western (Africa),Non-Western
+art_237,Azure,-0.53,News24,environment,neutral,Non-Western (Africa),Non-Western

@@ -1,0 +1,238 @@
+﻿frame_a_label,frame_b_label,lfi_score_exact,lfi_score_lemma,frame_a_count_exact,frame_b_count_exact,frame_a_count_lemma,frame_b_count_lemma,lfi_total_hits_exact,lfi_total_hits_lemma,article_id,pair_id,outlet,topic,frame,lfi_score,frame_a_count,frame_b_count,lfi_total_hits
+humanitarian,security,-0.8824,-0.9,1,16,1,19,17,20,art_001,imm_001,Fox News,immigration,security,-0.9,1,19,20
+humanitarian,security,-1.0,-1.0,0,14,0,24,14,24,art_002,imm_001,BBC,immigration,neutral,-1.0,0,24,24
+humanitarian,security,-0.7,-0.7895,3,17,4,34,20,38,art_003,imm_001,The Guardian,immigration,humanitarian,-0.7895,4,34,38
+humanitarian,security,-0.697,-0.75,5,28,6,42,33,48,art_004,imm_001,CNN,immigration,neutral,-0.75,6,42,48
+humanitarian,security,-0.8462,-0.9167,1,12,1,23,13,24,art_005,imm_001,Reuters,immigration,neutral,-0.9167,1,23,24
+humanitarian,security,-1.0,-0.8333,0,8,1,11,8,12,art_006,imm_001,Global Times,immigration,humanitarian,-0.8333,1,11,12
+humanitarian,security,-1.0,-1.0,0,6,0,11,6,11,art_007,imm_001,RT News,immigration,humanitarian,-1.0,0,11,11
+humanitarian,security,-0.5833,-0.8788,5,19,2,31,24,33,art_008,imm_001,Al Jazeera,immigration,humanitarian,-0.8788,2,31,33
+humanitarian,security,-0.7333,-0.8,2,13,2,18,15,20,art_009,imm_001,Straits Times,immigration,humanitarian,-0.8,2,18,20
+humanitarian,security,-0.8462,-1.0,1,12,0,20,13,20,art_010,imm_001,Le Monde,immigration,neutral,-1.0,0,20,20
+humanitarian,security,0.3333,0.6364,4,2,9,2,6,11,art_011,imm_002,BBC,immigration,humanitarian,0.6364,9,2,11
+humanitarian,security,0.0,1.0,0,0,12,0,0,12,art_012,imm_002,RT News,immigration,humanitarian,1.0,12,0,12
+humanitarian,security,-0.1111,-0.1429,4,5,6,8,9,14,art_013,imm_002,CNN,immigration,humanitarian,-0.1429,6,8,14
+humanitarian,security,1.0,0.7143,4,0,6,1,4,7,art_014,imm_002,BBC,immigration,security,0.7143,6,1,7
+humanitarian,security,0.0,-0.3333,3,3,3,6,6,9,art_015,imm_002,Fox News,immigration,security,-0.3333,3,6,9
+humanitarian,security,0.3333,0.5,2,1,9,3,3,12,art_016,imm_002,Reuters,immigration,humanitarian,0.5,9,3,12
+humanitarian,security,0.0,0.75,0,0,7,1,0,8,art_017,imm_002,France 24,immigration,neutral,0.75,7,1,8
+humanitarian,security,0.6842,0.7949,16,3,35,4,19,39,art_018,imm_002,The Guardian,immigration,humanitarian,0.7949,35,4,39
+humanitarian,security,1.0,0.0,1,0,1,1,1,2,art_019,imm_002,Global Times,immigration,neutral,0.0,1,1,2
+humanitarian,security,0.0,0.3333,1,1,2,1,2,3,art_020,imm_002,South China Morning Post,immigration,humanitarian,0.3333,2,1,3
+humanitarian,security,-0.0833,0.2766,11,13,30,17,24,47,art_021,imm_002,BBC,immigration,neutral,0.2766,30,17,47
+humanitarian,security,0.3333,0.3846,8,4,9,4,12,13,art_022,imm_005,Fox News,immigration,security,0.3846,9,4,13
+humanitarian,security,0.931,0.9111,28,1,43,2,29,45,art_023,imm_005,China Daily,immigration,humanitarian,0.9111,43,2,45
+humanitarian,security,0.7778,0.7778,8,1,8,1,9,9,art_024,imm_005,BBC,immigration,security,0.7778,8,1,9
+humanitarian,security,0.8519,0.8182,25,2,30,3,27,33,art_025,imm_005,CNN,immigration,security,0.8182,30,3,33
+humanitarian,security,0.7333,0.875,13,2,15,1,15,16,art_026,imm_005,The Guardian,immigration,humanitarian,0.875,15,1,16
+humanitarian,security,0.0833,0.1538,13,11,15,11,24,26,art_027,imm_005,The Hindu,immigration,neutral,0.1538,15,11,26
+humanitarian,security,0.4667,0.2941,11,4,11,6,15,17,art_028,imm_005,Reuters,immigration,humanitarian,0.2941,11,6,17
+humanitarian,security,1.0,1.0,10,0,13,0,10,13,art_029,imm_005,RT News,immigration,humanitarian,1.0,13,0,13
+humanitarian,security,0.875,0.6667,15,1,15,3,16,18,art_030,imm_005,DW,immigration,humanitarian,0.6667,15,3,18
+humanitarian,security,0.8235,0.8276,31,3,53,5,34,58,art_031,imm_005,Al Jazeera,immigration,humanitarian,0.8276,53,5,58
+people-centric,state-centric,0.5,0.6,3,1,4,1,4,5,art_032,pol_001,RT News,political conflict,people-centric,0.6,4,1,5
+people-centric,state-centric,0.9167,0.9231,23,1,25,1,24,26,art_033,pol_001,Al Jazeera,political conflict,people-centric,0.9231,25,1,26
+people-centric,state-centric,0.0,0.5,2,2,6,2,4,8,art_034,pol_001,CNN,political conflict,neutral,0.5,6,2,8
+people-centric,state-centric,0.25,0.25,5,3,5,3,8,8,art_035,pol_001,BBC,political conflict,neutral,0.25,5,3,8
+humanitarian,security,0.0,1.0,0,0,4,0,0,4,art_036,imm_003,Global Times,immigration,neutral,1.0,4,0,4
+humanitarian,security,0.4286,0.7778,5,2,16,2,7,18,art_037,imm_003,Al Jazeera,immigration,humanitarian,0.7778,16,2,18
+humanitarian,security,0.1429,0.25,4,3,5,3,7,8,art_038,imm_003,RT News,immigration,neutral,0.25,5,3,8
+humanitarian,security,1.0,0.8571,6,0,13,1,6,14,art_039,imm_003,CNN,immigration,neutral,0.8571,13,1,14
+humanitarian,security,0.3333,0.8824,2,1,16,1,3,17,art_040,imm_003,BBC,immigration,humanitarian,0.8824,16,1,17
+humanitarian,security,1.0,1.0,3,0,8,0,3,8,art_041,imm_003,Fox News,immigration,neutral,1.0,8,0,8
+humanitarian,security,0.0,1.0,0,0,1,0,0,1,art_042,imm_003,Reuters,immigration,humanitarian,1.0,1,0,1
+humanitarian,security,0.5,0.3333,3,1,4,2,4,6,art_043,imm_003,France 24,immigration,security,0.3333,4,2,6
+humanitarian,security,0.2,0.6,3,2,8,2,5,10,art_044,imm_003,The Guardian,immigration,humanitarian,0.6,8,2,10
+humanitarian,security,1.0,0.0,1,0,1,1,1,2,art_045,imm_003,South China Morning Post,immigration,neutral,0.0,1,1,2
+humanitarian,security,0.0,0.6842,2,2,16,3,4,19,art_046,imm_003,Daily Maverick,immigration,security,0.6842,16,3,19
+humanitarian,security,-0.3333,-0.5,1,2,1,3,3,4,art_047,imm_004,Fox News,immigration,security,-0.5,1,3,4
+humanitarian,security,1.0,0.6667,5,0,5,1,5,6,art_048,imm_004,BBC,immigration,neutral,0.6667,5,1,6
+humanitarian,security,0.7647,0.8,15,2,18,2,17,20,art_049,imm_004,CNN,immigration,humanitarian,0.8,18,2,20
+humanitarian,security,0.875,0.9,15,1,19,1,16,20,art_050,imm_004,The Guardian,immigration,humanitarian,0.9,19,1,20
+humanitarian,security,1.0,1.0,2,0,2,0,2,2,art_051,imm_004,The Hindu,immigration,neutral,1.0,2,0,2
+humanitarian,security,1.0,1.0,2,0,2,0,2,2,art_052,imm_004,The Hindu,immigration,neutral,1.0,2,0,2
+humanitarian,security,0.75,0.5556,7,1,7,2,8,9,art_053,imm_004,Reuters,immigration,neutral,0.5556,7,2,9
+humanitarian,security,1.0,1.0,7,0,7,0,7,7,art_054,imm_004,France 24,immigration,security,1.0,7,0,7
+humanitarian,security,0.7647,0.84,15,2,23,2,17,25,art_055,imm_004,Al Jazeera,immigration,humanitarian,0.84,23,2,25
+humanitarian,security,0.5,0.5,3,1,3,1,4,4,art_056,imm_004,Straits Times,immigration,security,0.5,3,1,4
+humanitarian,security,0.0,-0.2,3,3,2,3,6,5,art_057,imm_006,Fox News,immigration,neutral,-0.2,2,3,5
+humanitarian,security,0.3333,0.3333,2,1,2,1,3,3,art_058,imm_006,South China Morning Post,immigration,humanitarian,0.3333,2,1,3
+humanitarian,security,1.0,1.0,3,0,2,0,3,2,art_059,imm_006,Straits Times,immigration,security,1.0,2,0,2
+humanitarian,security,0.3333,0.1429,4,2,4,3,6,7,art_060,imm_006,CNN,immigration,neutral,0.1429,4,3,7
+humanitarian,security,0.3333,0.0,6,3,6,6,9,12,art_061,imm_006,BBC,immigration,security,0.0,6,6,12
+humanitarian,security,0.3333,0.0909,6,3,6,5,9,11,art_062,imm_006,Reuters,immigration,neutral,0.0909,6,5,11
+humanitarian,security,0.2,-0.0769,6,4,6,7,10,13,art_063,imm_006,Al Jazeera,immigration,neutral,-0.0769,6,7,13
+humanitarian,security,0.5714,0.4286,11,3,10,4,14,14,art_064,imm_006,The Guardian,immigration,humanitarian,0.4286,10,4,14
+humanitarian,security,0.4286,0.25,5,2,5,3,7,8,art_065,imm_006,Le Monde,immigration,neutral,0.25,5,3,8
+humanitarian,security,0.0667,-0.0588,8,7,8,9,15,17,art_066,imm_006,The Hindu,immigration,neutral,-0.0588,8,9,17
+humanitarian,security,0.7143,0.7143,6,1,6,1,7,7,art_067,imm_007,Fox News,immigration,security,0.7143,6,1,7
+humanitarian,security,0.0,0.0,0,0,0,0,0,0,art_068,imm_007,South China Morning Post,immigration,humanitarian,0.0,0,0,0
+humanitarian,security,0.3333,0.2941,10,5,11,6,15,17,art_069,imm_007,Straits Times,immigration,neutral,0.2941,11,6,17
+humanitarian,security,0.6364,0.5714,9,2,11,3,11,14,art_070,imm_007,CNN,immigration,neutral,0.5714,11,3,14
+humanitarian,security,0.4,0.3333,7,3,6,3,10,9,art_071,imm_007,BBC,immigration,security,0.3333,6,3,9
+humanitarian,security,0.3333,0.2941,10,5,11,6,15,17,art_072,imm_007,Reuters,immigration,neutral,0.2941,11,6,17
+humanitarian,security,0.3333,0.0,6,3,5,5,9,10,art_073,imm_007,Al Jazeera,immigration,humanitarian,0.0,5,5,10
+humanitarian,security,0.4286,0.1667,5,2,7,5,7,12,art_074,imm_007,The Guardian,immigration,humanitarian,0.1667,7,5,12
+humanitarian,security,-0.3333,-0.2,1,2,2,3,3,5,art_075,imm_007,Le Monde,immigration,security,-0.2,2,3,5
+humanitarian,security,0.1429,-0.2,4,3,4,6,7,10,art_076,imm_007,News24,immigration,neutral,-0.2,4,6,10
+humanitarian,security,0.3333,0.3333,4,2,4,2,6,6,art_077,imm_007,The Hindu,immigration,neutral,0.3333,4,2,6
+humanitarian,security,0.4286,0.4286,5,2,5,2,7,7,art_078,imm_007,Xinhua,immigration,neutral,0.4286,5,2,7
+humanitarian,security,-0.3333,0.0,1,2,2,2,3,4,art_079,imm_008,Fox News,immigration,security,0.0,2,2,4
+humanitarian,security,0.0,1.0,0,0,1,0,0,1,art_080,imm_008,The Hindu,immigration,humanitarian,1.0,1,0,1
+humanitarian,security,0.3333,0.0,4,2,5,5,6,10,art_081,imm_008,News24,immigration,security,0.0,5,5,10
+humanitarian,security,1.0,0.8,2,0,9,1,2,10,art_082,imm_008,Straits Times,immigration,security,0.8,9,1,10
+humanitarian,security,0.0,0.0,0,0,0,0,0,0,art_083,imm_008,South China Morning Post,immigration,neutral,0.0,0,0,0
+humanitarian,security,0.0,0.3333,2,2,4,2,4,6,art_084,imm_008,Reuters,immigration,neutral,0.3333,4,2,6
+humanitarian,security,-1.0,-1.0,0,2,0,5,2,5,art_085,imm_008,BBC,immigration,neutral,-1.0,0,5,5
+humanitarian,security,0.0,0.3333,1,1,2,1,2,3,art_086,imm_008,Le Monde,immigration,neutral,0.3333,2,1,3
+humanitarian,security,-1.0,-1.0,0,1,0,1,1,1,art_087,imm_008,CNN,immigration,neutral,-1.0,0,1,1
+humanitarian,security,-0.5,-0.6,1,3,1,4,4,5,art_088,imm_008,The Guardian,immigration,humanitarian,-0.6,1,4,5
+humanitarian,security,0.5,0.4286,3,1,5,2,4,7,art_089,imm_008,Al Jazeera,immigration,neutral,0.4286,5,2,7
+humanitarian,security,1.0,0.0,1,0,1,1,1,2,art_090,imm_008,RT News,immigration,neutral,0.0,1,1,2
+humanitarian,security,1.0,0.3333,2,0,2,1,2,3,art_091,imm_008,Global Times,immigration,neutral,0.3333,2,1,3
+humanitarian,security,0.0,0.0,0,0,0,0,0,0,art_092,imm_008,Global Times,immigration,neutral,0.0,0,0,0
+people-centric,state-centric,0.1429,0.1111,4,3,5,4,7,9,art_093,pol_001,Reuters,political conflict,people-centric,0.1111,5,4,9
+people-centric,state-centric,0.1429,0.2,4,3,6,4,7,10,art_094,pol_001,The Guardian,political conflict,neutral,0.2,6,4,10
+people-centric,state-centric,0.0,0.4286,2,2,5,2,4,7,art_095,pol_001,Le Monde,political conflict,people-centric,0.4286,5,2,7
+people-centric,state-centric,0.0,1.0,0,0,2,0,0,2,art_096,pol_001,South China Morning Post,political conflict,neutral,1.0,2,0,2
+people-centric,state-centric,0.6,0.75,4,1,7,1,5,8,art_097,pol_001,Fox News,political conflict,neutral,0.75,7,1,8
+people-centric,state-centric,-0.3333,0.2,1,2,3,2,3,5,art_098,pol_001,Straits Times,political conflict,state-centric,0.2,3,2,5
+people-centric,state-centric,1.0,1.0,3,0,4,0,3,4,art_099,pol_001,The Hindu,political conflict,neutral,1.0,4,0,4
+people-centric,state-centric,0.3846,0.2,9,4,9,6,13,15,art_100,pol_001,Daily Maverick,political conflict,people-centric,0.2,9,6,15
+people-centric,state-centric,0.6667,0.6667,5,1,5,1,6,6,art_101,pol_002,RT News,political conflict,neutral,0.6667,5,1,6
+people-centric,state-centric,0.5385,0.625,10,3,13,3,13,16,art_102,pol_002,Al Jazeera,political conflict,neutral,0.625,13,3,16
+people-centric,state-centric,0.2381,0.3043,13,8,15,8,21,23,art_103,pol_002,CNN,political conflict,state-centric,0.3043,15,8,23
+people-centric,state-centric,0.6,0.6,8,2,8,2,10,10,art_104,pol_002,BBC,political conflict,state-centric,0.6,8,2,10
+people-centric,state-centric,0.8182,0.8182,10,1,10,1,11,11,art_105,pol_002,Reuters,political conflict,people-centric,0.8182,10,1,11
+people-centric,state-centric,1.0,1.0,9,0,12,0,9,12,art_106,pol_002,The Guardian,political conflict,neutral,1.0,12,0,12
+people-centric,state-centric,0.5556,0.4,7,2,7,3,9,10,art_107,pol_002,Le Monde,political conflict,neutral,0.4,7,3,10
+people-centric,state-centric,1.0,1.0,1,0,1,0,1,1,art_108,pol_002,South China Morning Post,political conflict,neutral,1.0,1,0,1
+people-centric,state-centric,1.0,1.0,1,0,1,0,1,1,art_109,pol_002,Global Times,political conflict,state-centric,1.0,1,0,1
+people-centric,state-centric,0.25,0.4,5,3,7,3,8,10,art_110,pol_002,Fox News,political conflict,neutral,0.4,7,3,10
+people-centric,state-centric,1.0,1.0,9,0,10,0,9,10,art_111,pol_002,Straits Times,political conflict,state-centric,1.0,10,0,10
+people-centric,state-centric,0.75,0.7778,14,2,16,2,16,18,art_112,pol_002,The Hindu,political conflict,neutral,0.7778,16,2,18
+people-centric,state-centric,-0.1429,-0.1429,3,4,3,4,7,7,art_113,pol_002,Daily Maverick,political conflict,people-centric,-0.1429,3,4,7
+people-centric,state-centric,1.0,1.0,3,0,4,0,3,4,art_114,pol_003,RT News,political conflict,neutral,1.0,4,0,4
+people-centric,state-centric,0.3333,0.5,4,2,6,2,6,8,art_115,pol_003,Al Jazeera,political conflict,people-centric,0.5,6,2,8
+people-centric,state-centric,0.2308,0.375,8,5,11,5,13,16,art_116,pol_003,CNN,political conflict,people-centric,0.375,11,5,16
+people-centric,state-centric,0.6,0.6923,8,2,11,2,10,13,art_117,pol_003,BBC,political conflict,state-centric,0.6923,11,2,13
+people-centric,state-centric,0.5,0.3333,6,2,6,3,8,9,art_118,pol_003,Reuters,political conflict,neutral,0.3333,6,3,9
+people-centric,state-centric,0.7143,0.6,6,1,8,2,7,10,art_119,pol_003,The Guardian,political conflict,people-centric,0.6,8,2,10
+people-centric,state-centric,0.6667,0.6667,5,1,5,1,6,6,art_120,pol_003,Le Monde,political conflict,neutral,0.6667,5,1,6
+people-centric,state-centric,1.0,1.0,4,0,5,0,4,5,art_121,pol_003,South China Morning Post,political conflict,people-centric,1.0,5,0,5
+people-centric,state-centric,0.3846,0.3846,9,4,9,4,13,13,art_122,pol_003,Global Times,political conflict,people-centric,0.3846,9,4,13
+people-centric,state-centric,0.3333,0.2,2,1,3,2,3,5,art_123,pol_003,Fox News,political conflict,people-centric,0.2,3,2,5
+people-centric,state-centric,1.0,1.0,8,0,10,0,8,10,art_124,pol_003,Straits Times,political conflict,people-centric,1.0,10,0,10
+people-centric,state-centric,1.0,1.0,7,0,9,0,7,9,art_125,pol_003,The Hindu,political conflict,people-centric,1.0,9,0,9
+people-centric,state-centric,1.0,1.0,9,0,10,0,9,10,art_126,pol_003,Daily Maverick,political conflict,people-centric,1.0,10,0,10
+people-centric,state-centric,-0.2,-0.4286,2,3,2,5,5,7,art_127,pol_004,Fox News,political conflict,state-centric,-0.4286,2,5,7
+people-centric,state-centric,0.75,0.0,7,1,8,8,8,16,art_128,pol_004,CNN,political conflict,neutral,0.0,8,8,16
+people-centric,state-centric,0.6667,0.25,5,1,5,3,6,8,art_129,pol_004,BBC,political conflict,people-centric,0.25,5,3,8
+people-centric,state-centric,-1.0,-1.0,0,3,0,3,3,3,art_130,pol_004,Reuters,political conflict,neutral,-1.0,0,3,3
+people-centric,state-centric,0.3333,0.0,2,1,2,2,3,4,art_131,pol_004,RT News,political conflict,people-centric,0.0,2,2,4
+people-centric,state-centric,0.5714,0.375,11,3,11,5,14,16,art_132,pol_004,Al Jazeera,political conflict,people-centric,0.375,11,5,16
+people-centric,state-centric,-0.25,-0.3333,3,5,3,6,8,9,art_133,pol_004,The Guardian,political conflict,state-centric,-0.3333,3,6,9
+people-centric,state-centric,0.3333,0.3333,4,2,4,2,6,6,art_134,pol_004,Le Monde,political conflict,state-centric,0.3333,4,2,6
+people-centric,state-centric,-1.0,-1.0,0,1,0,1,1,1,art_135,pol_004,Global Times,political conflict,state-centric,-1.0,0,1,1
+people-centric,state-centric,1.0,1.0,3,0,3,0,3,3,art_136,pol_004,South China Morning Post,political conflict,neutral,1.0,3,0,3
+people-centric,state-centric,0.2,0.2,3,2,3,2,5,5,art_137,pol_004,The Hindu,political conflict,neutral,0.2,3,2,5
+people-centric,state-centric,0.1429,0.1429,4,3,4,3,7,7,art_138,pol_004,Indian Express,political conflict,neutral,0.1429,4,3,7
+people-centric,state-centric,0.0,-0.5,1,1,1,3,2,4,art_139,pol_004,Straits Times,political conflict,neutral,-0.5,1,3,4
+people-centric,state-centric,0.3333,0.2,4,2,3,2,6,5,art_140,pol_004,News24,political conflict,people-centric,0.2,3,2,5
+people-centric,state-centric,0.2,-0.2308,3,2,5,8,5,13,art_141,pol_005,Fox News,political conflict,neutral,-0.2308,5,8,13
+people-centric,state-centric,0.0,0.0,1,1,2,2,2,4,art_142,pol_005,CNN,political conflict,neutral,0.0,2,2,4
+people-centric,state-centric,0.0,-0.25,3,3,3,5,6,8,art_143,pol_005,BBC,political conflict,people-centric,-0.25,3,5,8
+people-centric,state-centric,-1.0,-1.0,0,3,0,4,3,4,art_144,pol_005,Reuters,political conflict,state-centric,-1.0,0,4,4
+people-centric,state-centric,0.1429,-0.2727,4,3,4,7,7,11,art_145,pol_005,RT News,political conflict,neutral,-0.2727,4,7,11
+people-centric,state-centric,-0.5,-0.5,1,3,1,3,4,4,art_146,pol_005,Al Jazeera,political conflict,state-centric,-0.5,1,3,4
+people-centric,state-centric,1.0,0.5,3,0,3,1,3,4,art_147,pol_005,The Guardian,political conflict,neutral,0.5,3,1,4
+people-centric,state-centric,0.3333,-0.1667,4,2,5,7,6,12,art_148,pol_005,Le Monde,political conflict,state-centric,-0.1667,5,7,12
+people-centric,state-centric,0.0,0.0,1,1,1,1,2,2,art_149,pol_005,The Hindu,political conflict,state-centric,0.0,1,1,2
+people-centric,state-centric,-0.2,-0.5,2,3,2,6,5,8,art_150,pol_005,Straits Times,political conflict,state-centric,-0.5,2,6,8
+people-centric,state-centric,0.0,-0.3333,1,1,1,2,2,3,art_151,pol_005,News24,political conflict,neutral,-0.3333,1,2,3
+people-centric,state-centric,-0.5,-0.6,1,3,1,4,4,5,art_152,pol_006,Fox News,political conflict,neutral,-0.6,1,4,5
+people-centric,state-centric,0.0,0.0,0,0,0,0,0,0,art_153,pol_006,Xinhua,political conflict,people-centric,0.0,0,0,0
+people-centric,state-centric,-1.0,-1.0,0,2,0,2,2,2,art_154,pol_006,France 24,political conflict,state-centric,-1.0,0,2,2
+people-centric,state-centric,0.0,-0.25,2,2,3,5,4,8,art_155,pol_006,BBC,political conflict,people-centric,-0.25,3,5,8
+people-centric,state-centric,-0.25,-0.4,3,5,3,7,8,10,art_156,pol_006,CNN,political conflict,neutral,-0.4,3,7,10
+people-centric,state-centric,-0.3333,-0.3333,1,2,1,2,3,3,art_157,pol_006,RT News,political conflict,state-centric,-0.3333,1,2,3
+people-centric,state-centric,0.0,0.0,0,0,0,0,0,0,art_158,pol_006,Al Jazeera,political conflict,neutral,0.0,0,0,0
+people-centric,state-centric,-0.3333,-0.5,1,2,1,3,3,4,art_159,pol_006,The Guardian,political conflict,neutral,-0.5,1,3,4
+people-centric,state-centric,0.0,0.0,0,0,0,0,0,0,art_160,pol_006,South China Morning Post,political conflict,people-centric,0.0,0,0,0
+people-centric,state-centric,-0.6,-0.6,1,4,1,4,5,5,art_161,pol_006,News24,political conflict,people-centric,-0.6,1,4,5
+people-centric,state-centric,-0.2,-0.2727,4,6,4,7,10,11,art_162,pol_006,Straits Times,political conflict,people-centric,-0.2727,4,7,11
+people-centric,state-centric,-1.0,-1.0,0,1,0,1,1,1,art_163,pol_006,The Hindu,political conflict,neutral,-1.0,0,1,1
+people-centric,state-centric,-1.0,-1.0,0,8,0,9,8,9,art_164,pol_006,Reuters,political conflict,neutral,-1.0,0,9,9
+people-centric,state-centric,-1.0,-1.0,0,1,0,2,1,2,art_165,pol_007,RT News,political conflict,neutral,-1.0,0,2,2
+people-centric,state-centric,-1.0,0.0,0,1,1,1,1,2,art_166,pol_007,Al Jazeera,political conflict,neutral,0.0,1,1,2
+people-centric,state-centric,0.0,-1.0,0,0,0,4,0,4,art_167,pol_007,CNN,political conflict,state-centric,-1.0,0,4,4
+people-centric,state-centric,-1.0,-1.0,0,5,0,6,5,6,art_168,pol_007,BBC,political conflict,neutral,-1.0,0,6,6
+people-centric,state-centric,-0.6667,-0.6667,1,5,1,5,6,6,art_169,pol_007,Reuters,political conflict,people-centric,-0.6667,1,5,6
+people-centric,state-centric,-0.2,-0.1429,2,3,3,4,5,7,art_170,pol_007,The Guardian,political conflict,people-centric,-0.1429,3,4,7
+people-centric,state-centric,0.0,0.0,0,0,0,0,0,0,art_171,pol_007,Xinhua,political conflict,state-centric,0.0,0,0,0
+people-centric,state-centric,-1.0,0.0,0,2,2,2,2,4,art_172,pol_007,The Hindu,political conflict,neutral,0.0,2,2,4
+people-centric,state-centric,-1.0,-1.0,0,2,0,2,2,2,art_173,pol_007,News24,political conflict,state-centric,-1.0,0,2,2
+concern,skeptical,0.2,-0.2,3,2,2,3,5,5,art_174,env_001,RT News,environment,neutral,-0.2,2,3,5
+concern,skeptical,1.0,1.0,1,0,1,0,1,1,art_175,env_001,Al Jazeera,environment,neutral,1.0,1,0,1
+concern,skeptical,0.0,-1.0,2,2,0,3,4,3,art_176,env_001,CNN,environment,neutral,-1.0,0,3,3
+concern,skeptical,1.0,1.0,6,0,5,0,6,5,art_177,env_001,BBC,environment,concern,1.0,5,0,5
+concern,skeptical,-0.3333,-0.2,1,2,2,3,3,5,art_178,env_001,Fox News,environment,skeptical,-0.2,2,3,5
+concern,skeptical,0.0,-0.3333,1,1,1,2,2,3,art_179,env_001,Reuters,environment,concern,-0.3333,1,2,3
+concern,skeptical,1.0,0.6667,7,0,5,1,7,6,art_180,env_001,France 24,environment,concern,0.6667,5,1,6
+concern,skeptical,0.25,0.3333,5,3,10,5,8,15,art_181,env_001,The Guardian,environment,concern,0.3333,10,5,15
+concern,skeptical,-0.3333,-0.6,1,2,1,4,3,5,art_182,env_001,Global Times,environment,neutral,-0.6,1,4,5
+concern,skeptical,1.0,0.6667,6,0,5,1,6,6,art_183,env_001,Straits Times,environment,neutral,0.6667,5,1,6
+concern,skeptical,0.0,-1.0,0,0,0,1,0,1,art_184,env_001,News24,environment,neutral,-1.0,0,1,1
+concern,skeptical,-1.0,-1.0,0,1,0,3,1,3,art_185,env_001,The Hindu,environment,neutral,-1.0,0,3,3
+concern,skeptical,1.0,1.0,5,0,6,0,5,6,art_186,env_001,Indian Express,environment,concern,1.0,6,0,6
+concern,skeptical,1.0,1.0,4,0,3,0,4,3,art_187,env_001,South China Morning Post,environment,concern,1.0,3,0,3
+concern,skeptical,1.0,1.0,4,0,5,0,4,5,art_188,env_002,Fox News,environment,neutral,1.0,5,0,5
+concern,skeptical,1.0,1.0,1,0,1,0,1,1,art_189,env_002,The Hindu,environment,concern,1.0,1,0,1
+concern,skeptical,1.0,1.0,2,0,2,0,2,2,art_190,env_002,South China Morning Post,environment,concern,1.0,2,0,2
+concern,skeptical,1.0,1.0,7,0,9,0,7,9,art_191,env_002,Global Times,environment,concern,1.0,9,0,9
+concern,skeptical,1.0,1.0,2,0,3,0,2,3,art_192,env_002,RT News,environment,neutral,1.0,3,0,3
+concern,skeptical,1.0,1.0,2,0,2,0,2,2,art_193,env_002,BBC,environment,neutral,1.0,2,0,2
+concern,skeptical,1.0,1.0,4,0,4,0,4,4,art_194,env_002,The Guardian,environment,concern,1.0,4,0,4
+concern,skeptical,0.0,0.0,0,0,0,0,0,0,art_195,env_002,Al Jazeera,environment,concern,0.0,0,0,0
+concern,skeptical,0.5,0.5,3,1,3,1,4,4,art_196,env_002,CNN,environment,concern,0.5,3,1,4
+concern,skeptical,1.0,1.0,5,0,5,0,5,5,art_197,env_002,Le Monde,environment,neutral,1.0,5,0,5
+concern,skeptical,1.0,1.0,4,0,5,0,4,5,art_198,env_002,Straits Times,environment,neutral,1.0,5,0,5
+concern,skeptical,1.0,1.0,1,0,1,0,1,1,art_199,env_002,News24,environment,neutral,1.0,1,0,1
+concern,skeptical,-1.0,-1.0,0,1,0,1,1,1,art_200,env_002,Reuters,environment,concern,-1.0,0,1,1
+concern,skeptical,1.0,1.0,3,0,3,0,3,3,art_201,env_003,Reuters,environment,concern,1.0,3,0,3
+concern,skeptical,0.0,0.0,0,0,0,0,0,0,art_202,env_003,The Hindu,environment,concern,0.0,0,0,0
+concern,skeptical,1.0,1.0,2,0,1,0,2,1,art_203,env_003,South China Morning Post,environment,concern,1.0,1,0,1
+concern,skeptical,1.0,1.0,7,0,7,0,7,7,art_204,env_003,Global Times,environment,neutral,1.0,7,0,7
+concern,skeptical,1.0,1.0,2,0,2,0,2,2,art_205,env_003,RT News,environment,neutral,1.0,2,0,2
+concern,skeptical,1.0,1.0,4,0,5,0,4,5,art_206,env_003,BBC,environment,concern,1.0,5,0,5
+concern,skeptical,1.0,1.0,6,0,6,0,6,6,art_207,env_003,The Guardian,environment,concern,1.0,6,0,6
+concern,skeptical,1.0,1.0,3,0,3,0,3,3,art_208,env_003,Al Jazeera,environment,concern,1.0,3,0,3
+concern,skeptical,1.0,1.0,5,0,5,0,5,5,art_209,env_003,CNN,environment,concern,1.0,5,0,5
+concern,skeptical,1.0,0.0,1,0,0,0,1,0,art_210,env_003,Le Monde,environment,concern,0.0,0,0,0
+concern,skeptical,1.0,1.0,1,0,1,0,1,1,art_211,env_003,Straits Times,environment,concern,1.0,1,0,1
+concern,skeptical,1.0,1.0,2,0,3,0,2,3,art_212,env_003,Reuters,environment,concern,1.0,3,0,3
+concern,skeptical,1.0,1.0,2,0,3,0,2,3,art_213,env_004,RT News,environment,skeptical,1.0,3,0,3
+concern,skeptical,0.0,0.0,0,0,0,0,0,0,art_214,env_004,Al Jazeera,environment,concern,0.0,0,0,0
+concern,skeptical,0.0,1.0,0,0,3,0,0,3,art_215,env_004,Reuters,environment,concern,1.0,3,0,3
+concern,skeptical,0.7143,0.4545,6,1,8,3,7,11,art_216,env_004,CNN,environment,concern,0.4545,8,3,11
+concern,skeptical,0.2,0.0,3,2,2,2,5,4,art_217,env_004,BBC,environment,concern,0.0,2,2,4
+concern,skeptical,0.8,0.5,9,1,9,3,10,12,art_218,env_004,Fox News,environment,skeptical,0.5,9,3,12
+concern,skeptical,1.0,0.3333,3,0,2,1,3,3,art_219,env_004,Global Times,environment,neutral,0.3333,2,1,3
+concern,skeptical,1.0,1.0,3,0,3,0,3,3,art_220,env_004,Straits Times,environment,concern,1.0,3,0,3
+concern,skeptical,1.0,1.0,1,0,2,0,1,2,art_221,env_004,South China Morning Post,environment,concern,1.0,2,0,2
+concern,skeptical,0.75,0.8182,7,1,10,1,8,11,art_222,env_004,The Guardian,environment,concern,0.8182,10,1,11
+concern,skeptical,1.0,1.0,2,0,3,0,2,3,art_223,env_004,Le Monde,environment,concern,1.0,3,0,3
+concern,skeptical,1.0,1.0,3,0,2,0,3,2,art_224,env_004,News24,environment,neutral,1.0,2,0,2
+concern,skeptical,1.0,1.0,1,0,3,0,1,3,art_225,env_004,The Hindu,environment,concern,1.0,3,0,3
+concern,skeptical,0.8571,0.9259,13,1,26,1,14,27,art_226,env_005,BBC,environment,concern,0.9259,26,1,27
+concern,skeptical,1.0,0.6667,6,0,5,1,6,6,art_227,env_005,Al Jazeera,environment,concern,0.6667,5,1,6
+concern,skeptical,-1.0,0.3333,0,1,2,1,1,3,art_228,env_005,Reuters,environment,neutral,0.3333,2,1,3
+concern,skeptical,1.0,0.7647,22,0,15,2,22,17,art_229,env_005,The Hindu,environment,concern,0.7647,15,2,17
+concern,skeptical,0.6364,0.6667,9,2,10,2,11,12,art_230,env_005,Le Monde,environment,concern,0.6667,10,2,12
+concern,skeptical,1.0,1.0,4,0,9,0,4,9,art_231,env_005,Fox News,environment,concern,1.0,9,0,9
+concern,skeptical,1.0,1.0,11,0,13,0,11,13,art_232,env_005,Straits Times,environment,neutral,1.0,13,0,13
+concern,skeptical,0.0,1.0,0,0,1,0,0,1,art_233,env_005,Global Times,environment,concern,1.0,1,0,1
+concern,skeptical,0.6,0.7143,4,1,6,1,5,7,art_234,env_005,CNN,environment,concern,0.7143,6,1,7
+concern,skeptical,1.0,1.0,6,0,4,0,6,4,art_235,env_005,Reuters,environment,concern,1.0,4,0,4
+concern,skeptical,0.0,0.7143,1,1,6,1,2,7,art_236,env_005,The Guardian,environment,concern,0.7143,6,1,7
+concern,skeptical,0.0,0.0,0,0,1,1,0,2,art_237,env_005,News24,environment,neutral,0.0,1,1,2

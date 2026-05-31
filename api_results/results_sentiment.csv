@@ -1,0 +1,712 @@
+﻿article_id,api,sentiment_label,score_positive,score_negative,score_neutral,score_mixed,net_sentiment,google_magnitude,pair_id,outlet,topic,frame
+art_001,AWS,NEUTRAL,0.0093,0.1528,0.8364,0.0015,-0.1434,,imm_001,Fox News,immigration,security
+art_001,Google,NEUTRAL,0.0,0.0,,,0.0,9.9,imm_001,Fox News,immigration,security
+art_001,Azure,MIXED,0.26,0.51,0.23,,-0.25,,imm_001,Fox News,immigration,security
+art_002,AWS,NEUTRAL,0.0128,0.1027,0.7326,0.152,-0.0899,,imm_001,BBC,immigration,neutral
+art_002,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,14.4,imm_001,BBC,immigration,neutral
+art_002,Azure,NEGATIVE,0.0,0.75,0.25,,-0.75,,imm_001,BBC,immigration,neutral
+art_003,AWS,NEUTRAL,0.004,0.02,0.975,0.0011,-0.016,,imm_001,The Guardian,immigration,humanitarian
+art_003,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,11.1,imm_001,The Guardian,immigration,humanitarian
+art_003,Azure,MIXED,0.09,0.59,0.33,,-0.5,,imm_001,The Guardian,immigration,humanitarian
+art_004,AWS,NEUTRAL,0.0047,0.1337,0.8575,0.0041,-0.129,,imm_001,CNN,immigration,neutral
+art_004,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,13.3,imm_001,CNN,immigration,neutral
+art_004,Azure,MIXED,0.09,0.75,0.16,,-0.66,,imm_001,CNN,immigration,neutral
+art_005,AWS,NEUTRAL,0.0083,0.1211,0.8672,0.0035,-0.1128,,imm_001,Reuters,immigration,neutral
+art_005,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,13.0,imm_001,Reuters,immigration,neutral
+art_005,Azure,NEGATIVE,0.0,0.77,0.23,,-0.77,,imm_001,Reuters,immigration,neutral
+art_006,AWS,NEUTRAL,0.0062,0.0814,0.9089,0.0034,-0.0752,,imm_001,Global Times,immigration,humanitarian
+art_006,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,17.1,imm_001,Global Times,immigration,humanitarian
+art_006,Azure,MIXED,0.06,0.75,0.19,,-0.69,,imm_001,Global Times,immigration,humanitarian
+art_007,AWS,NEUTRAL,0.0019,0.0381,0.9593,0.0007,-0.0363,,imm_001,RT News,immigration,humanitarian
+art_007,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,4.8,imm_001,RT News,immigration,humanitarian
+art_007,Azure,NEGATIVE,0.0,0.71,0.28,,-0.71,,imm_001,RT News,immigration,humanitarian
+art_008,AWS,NEUTRAL,0.0039,0.0304,0.9431,0.0226,-0.0265,,imm_001,Al Jazeera,immigration,humanitarian
+art_008,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,9.6,imm_001,Al Jazeera,immigration,humanitarian
+art_008,Azure,NEGATIVE,0.0,0.75,0.25,,-0.75,,imm_001,Al Jazeera,immigration,humanitarian
+art_009,AWS,NEUTRAL,0.0402,0.0004,0.9591,0.0003,0.0399,,imm_001,Straits Times,immigration,humanitarian
+art_009,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,10.8,imm_001,Straits Times,immigration,humanitarian
+art_009,Azure,NEGATIVE,0.0,0.86,0.14,,-0.86,,imm_001,Straits Times,immigration,humanitarian
+art_010,AWS,NEUTRAL,0.0005,0.0288,0.9706,0.0002,-0.0283,,imm_001,Le Monde,immigration,neutral
+art_010,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,7.4,imm_001,Le Monde,immigration,neutral
+art_010,Azure,NEGATIVE,0.0,0.72,0.28,,-0.72,,imm_001,Le Monde,immigration,neutral
+art_011,AWS,NEUTRAL,0.0009,0.1269,0.872,0.0002,-0.126,,imm_002,BBC,immigration,humanitarian
+art_011,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,7.5,imm_002,BBC,immigration,humanitarian
+art_011,Azure,NEGATIVE,0.01,0.82,0.18,,-0.81,,imm_002,BBC,immigration,humanitarian
+art_012,AWS,NEUTRAL,0.0049,0.0167,0.974,0.0045,-0.0118,,imm_002,RT News,immigration,humanitarian
+art_012,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,16.3,imm_002,RT News,immigration,humanitarian
+art_012,Azure,NEGATIVE,0.0,0.86,0.13,,-0.86,,imm_002,RT News,immigration,humanitarian
+art_013,AWS,NEUTRAL,0.0698,0.0073,0.7551,0.1678,0.0625,,imm_002,CNN,immigration,humanitarian
+art_013,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,12.1,imm_002,CNN,immigration,humanitarian
+art_013,Azure,MIXED,0.05,0.8,0.15,,-0.75,,imm_002,CNN,immigration,humanitarian
+art_014,AWS,NEUTRAL,0.0074,0.0069,0.9833,0.0025,0.0005,,imm_002,BBC,immigration,security
+art_014,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,13.2,imm_002,BBC,immigration,security
+art_014,Azure,NEGATIVE,0.0,0.84,0.16,,-0.84,,imm_002,BBC,immigration,security
+art_015,AWS,NEUTRAL,0.0551,0.0063,0.8924,0.0462,0.0487,,imm_002,Fox News,immigration,security
+art_015,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,6.5,imm_002,Fox News,immigration,security
+art_015,Azure,NEGATIVE,0.0,0.74,0.26,,-0.74,,imm_002,Fox News,immigration,security
+art_016,AWS,NEUTRAL,0.0119,0.077,0.6945,0.2166,-0.0651,,imm_002,Reuters,immigration,humanitarian
+art_016,Google,NEGATIVE,0.0,0.5,,,-0.5,10.7,imm_002,Reuters,immigration,humanitarian
+art_016,Azure,MIXED,0.05,0.71,0.23,,-0.66,,imm_002,Reuters,immigration,humanitarian
+art_017,AWS,NEUTRAL,0.0037,0.2697,0.6499,0.0767,-0.266,,imm_002,France 24,immigration,neutral
+art_017,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,16.1,imm_002,France 24,immigration,neutral
+art_017,Azure,NEGATIVE,0.0,0.71,0.29,,-0.71,,imm_002,France 24,immigration,neutral
+art_018,AWS,NEUTRAL,0.074,0.0159,0.8954,0.0148,0.0581,,imm_002,The Guardian,immigration,humanitarian
+art_018,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,13.1,imm_002,The Guardian,immigration,humanitarian
+art_018,Azure,NEGATIVE,0.0,0.87,0.13,,-0.87,,imm_002,The Guardian,immigration,humanitarian
+art_019,AWS,NEUTRAL,0.0018,0.011,0.9854,0.0019,-0.0092,,imm_002,Global Times,immigration,neutral
+art_019,Google,NEGATIVE,0.0,0.5,,,-0.5,2.7,imm_002,Global Times,immigration,neutral
+art_019,Azure,NEGATIVE,0.0,0.84,0.16,,-0.84,,imm_002,Global Times,immigration,neutral
+art_020,AWS,MIXED,0.0194,0.2625,0.1652,0.5529,-0.2431,,imm_002,South China Morning Post,immigration,humanitarian
+art_020,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,12.0,imm_002,South China Morning Post,immigration,humanitarian
+art_020,Azure,NEGATIVE,0.01,0.81,0.18,,-0.8,,imm_002,South China Morning Post,immigration,humanitarian
+art_021,AWS,NEUTRAL,0.0036,0.0051,0.991,0.0003,-0.0015,,imm_002,BBC,immigration,neutral
+art_021,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,13.3,imm_002,BBC,immigration,neutral
+art_021,Azure,NEGATIVE,0.0,0.76,0.24,,-0.76,,imm_002,BBC,immigration,neutral
+art_022,AWS,NEUTRAL,0.0014,0.0178,0.9787,0.0022,-0.0164,,imm_005,Fox News,immigration,security
+art_022,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,13.3,imm_005,Fox News,immigration,security
+art_022,Azure,MIXED,0.07,0.75,0.17,,-0.68,,imm_005,Fox News,immigration,security
+art_023,AWS,NEUTRAL,0.0052,0.0078,0.9666,0.0204,-0.0026,,imm_005,China Daily,immigration,humanitarian
+art_023,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,14.5,imm_005,China Daily,immigration,humanitarian
+art_023,Azure,NEGATIVE,0.0,0.8,0.2,,-0.8,,imm_005,China Daily,immigration,humanitarian
+art_024,AWS,NEUTRAL,0.0069,0.0761,0.8521,0.065,-0.0692,,imm_005,BBC,immigration,security
+art_024,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,18.3,imm_005,BBC,immigration,security
+art_024,Azure,NEGATIVE,0.0,0.88,0.12,,-0.88,,imm_005,BBC,immigration,security
+art_025,AWS,NEUTRAL,0.0035,0.0224,0.9642,0.0099,-0.0188,,imm_005,CNN,immigration,security
+art_025,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,19.5,imm_005,CNN,immigration,security
+art_025,Azure,MIXED,0.09,0.66,0.24,,-0.57,,imm_005,CNN,immigration,security
+art_026,AWS,NEUTRAL,0.005,0.1881,0.7757,0.0312,-0.1831,,imm_005,The Guardian,immigration,humanitarian
+art_026,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,15.8,imm_005,The Guardian,immigration,humanitarian
+art_026,Azure,NEGATIVE,0.0,0.8,0.2,,-0.8,,imm_005,The Guardian,immigration,humanitarian
+art_027,AWS,NEUTRAL,0.0072,0.0366,0.8378,0.1184,-0.0295,,imm_005,The Hindu,immigration,neutral
+art_027,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,15.2,imm_005,The Hindu,immigration,neutral
+art_027,Azure,NEGATIVE,0.0,0.82,0.18,,-0.82,,imm_005,The Hindu,immigration,neutral
+art_028,AWS,NEUTRAL,0.0032,0.0568,0.9322,0.0078,-0.0535,,imm_005,Reuters,immigration,humanitarian
+art_028,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,16.5,imm_005,Reuters,immigration,humanitarian
+art_028,Azure,NEGATIVE,0.0,0.8,0.2,,-0.8,,imm_005,Reuters,immigration,humanitarian
+art_029,AWS,NEUTRAL,0.001,0.0973,0.9008,0.0009,-0.0962,,imm_005,RT News,immigration,humanitarian
+art_029,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,7.4,imm_005,RT News,immigration,humanitarian
+art_029,Azure,NEGATIVE,0.0,0.72,0.27,,-0.72,,imm_005,RT News,immigration,humanitarian
+art_030,AWS,NEUTRAL,0.0031,0.0322,0.9498,0.0149,-0.0291,,imm_005,DW,immigration,humanitarian
+art_030,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,19.5,imm_005,DW,immigration,humanitarian
+art_030,Azure,MIXED,0.09,0.73,0.18,,-0.64,,imm_005,DW,immigration,humanitarian
+art_031,AWS,NEUTRAL,0.0484,0.0411,0.7833,0.1271,0.0073,,imm_005,Al Jazeera,immigration,humanitarian
+art_031,Google,NEGATIVE,0.0,0.5,,,-0.5,16.8,imm_005,Al Jazeera,immigration,humanitarian
+art_031,Azure,MIXED,0.04,0.75,0.21,,-0.71,,imm_005,Al Jazeera,immigration,humanitarian
+art_032,AWS,NEUTRAL,0.001,0.0637,0.9348,0.0004,-0.0627,,pol_001,RT News,political conflict,people-centric
+art_032,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,7.1,pol_001,RT News,political conflict,people-centric
+art_032,Azure,NEGATIVE,0.0,0.71,0.29,,-0.71,,pol_001,RT News,political conflict,people-centric
+art_033,AWS,NEUTRAL,0.0027,0.1016,0.8944,0.0014,-0.0989,,pol_001,Al Jazeera,political conflict,people-centric
+art_033,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,13.5,pol_001,Al Jazeera,political conflict,people-centric
+art_033,Azure,NEGATIVE,0.0,0.84,0.15,,-0.84,,pol_001,Al Jazeera,political conflict,people-centric
+art_034,AWS,NEUTRAL,0.011,0.0128,0.9711,0.0051,-0.0018,,pol_001,CNN,political conflict,neutral
+art_034,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,11.3,pol_001,CNN,political conflict,neutral
+art_034,Azure,NEGATIVE,0.0,0.82,0.18,,-0.82,,pol_001,CNN,political conflict,neutral
+art_035,AWS,NEUTRAL,0.0005,0.04,0.9593,0.0003,-0.0395,,pol_001,BBC,political conflict,neutral
+art_035,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,12.4,pol_001,BBC,political conflict,neutral
+art_035,Azure,NEGATIVE,0.0,0.69,0.31,,-0.69,,pol_001,BBC,political conflict,neutral
+art_036,AWS,NEUTRAL,0.006,0.0014,0.9925,0.0001,0.0046,,imm_003,Global Times,immigration,neutral
+art_036,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,3.7,imm_003,Global Times,immigration,neutral
+art_036,Azure,NEGATIVE,0.0,0.73,0.27,,-0.73,,imm_003,Global Times,immigration,neutral
+art_037,AWS,NEUTRAL,0.0018,0.0317,0.9655,0.0009,-0.0299,,imm_003,Al Jazeera,immigration,humanitarian
+art_037,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,12.0,imm_003,Al Jazeera,immigration,humanitarian
+art_037,Azure,MIXED,0.09,0.67,0.24,,-0.58,,imm_003,Al Jazeera,immigration,humanitarian
+art_038,AWS,NEUTRAL,0.0036,0.0418,0.9301,0.0245,-0.0382,,imm_003,RT News,immigration,neutral
+art_038,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,8.9,imm_003,RT News,immigration,neutral
+art_038,Azure,MIXED,0.13,0.7,0.17,,-0.57,,imm_003,RT News,immigration,neutral
+art_039,AWS,NEUTRAL,0.0026,0.0062,0.9908,0.0005,-0.0036,,imm_003,CNN,immigration,neutral
+art_039,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,9.3,imm_003,CNN,immigration,neutral
+art_039,Azure,MIXED,0.15,0.48,0.37,,-0.33,,imm_003,CNN,immigration,neutral
+art_040,AWS,NEUTRAL,0.0397,0.0149,0.9177,0.0276,0.0248,,imm_003,BBC,immigration,humanitarian
+art_040,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,12.3,imm_003,BBC,immigration,humanitarian
+art_040,Azure,NEGATIVE,0.0,0.89,0.11,,-0.89,,imm_003,BBC,immigration,humanitarian
+art_041,AWS,NEUTRAL,0.0195,0.0038,0.9713,0.0054,0.0156,,imm_003,Fox News,immigration,neutral
+art_041,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,9.3,imm_003,Fox News,immigration,neutral
+art_041,Azure,NEGATIVE,0.0,0.67,0.33,,-0.67,,imm_003,Fox News,immigration,neutral
+art_042,AWS,NEUTRAL,0.0017,0.019,0.9791,0.0002,-0.0172,,imm_003,Reuters,immigration,humanitarian
+art_042,Google,NEGATIVE,0.0,0.5,,,-0.5,4.1,imm_003,Reuters,immigration,humanitarian
+art_042,Azure,NEGATIVE,0.0,0.83,0.17,,-0.83,,imm_003,Reuters,immigration,humanitarian
+art_043,AWS,NEUTRAL,0.0142,0.0027,0.9825,0.0006,0.0115,,imm_003,France 24,immigration,security
+art_043,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,7.2,imm_003,France 24,immigration,security
+art_043,Azure,NEGATIVE,0.0,0.84,0.16,,-0.84,,imm_003,France 24,immigration,security
+art_044,AWS,NEUTRAL,0.0081,0.005,0.9748,0.0121,0.0031,,imm_003,The Guardian,immigration,humanitarian
+art_044,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,11.4,imm_003,The Guardian,immigration,humanitarian
+art_044,Azure,NEGATIVE,0.01,0.84,0.15,,-0.83,,imm_003,The Guardian,immigration,humanitarian
+art_045,AWS,NEUTRAL,0.0308,0.0107,0.8707,0.0878,0.0202,,imm_003,South China Morning Post,immigration,neutral
+art_045,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,3.1,imm_003,South China Morning Post,immigration,neutral
+art_045,Azure,NEGATIVE,0.0,0.92,0.08,,-0.92,,imm_003,South China Morning Post,immigration,neutral
+art_046,AWS,NEUTRAL,0.007,0.0555,0.8248,0.1127,-0.0485,,imm_003,Daily Maverick,immigration,security
+art_046,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,13.6,imm_003,Daily Maverick,immigration,security
+art_046,Azure,MIXED,0.05,0.71,0.24,,-0.66,,imm_003,Daily Maverick,immigration,security
+art_047,AWS,NEUTRAL,0.0031,0.2275,0.7677,0.0017,-0.2244,,imm_004,Fox News,immigration,security
+art_047,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,9.3,imm_004,Fox News,immigration,security
+art_047,Azure,NEGATIVE,0.0,0.79,0.21,,-0.79,,imm_004,Fox News,immigration,security
+art_048,AWS,NEUTRAL,0.0079,0.1382,0.7239,0.13,-0.1303,,imm_004,BBC,immigration,neutral
+art_048,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,16.8,imm_004,BBC,immigration,neutral
+art_048,Azure,NEGATIVE,0.0,0.83,0.17,,-0.83,,imm_004,BBC,immigration,neutral
+art_049,AWS,NEUTRAL,0.0032,0.1738,0.7399,0.0831,-0.1705,,imm_004,CNN,immigration,humanitarian
+art_049,Google,NEGATIVE,0.0,0.5,,,-0.5,17.6,imm_004,CNN,immigration,humanitarian
+art_049,Azure,MIXED,0.06,0.81,0.14,,-0.75,,imm_004,CNN,immigration,humanitarian
+art_050,AWS,NEUTRAL,0.0067,0.1313,0.8485,0.0135,-0.1247,,imm_004,The Guardian,immigration,humanitarian
+art_050,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,17.7,imm_004,The Guardian,immigration,humanitarian
+art_050,Azure,MIXED,0.08,0.66,0.25,,-0.58,,imm_004,The Guardian,immigration,humanitarian
+art_051,AWS,NEUTRAL,0.0007,0.0515,0.9476,0.0001,-0.0508,,imm_004,The Hindu,immigration,neutral
+art_051,Google,VERY_NEGATIVE,0.0,0.6000000238418579,,,-0.6,4.9,imm_004,The Hindu,immigration,neutral
+art_051,Azure,NEGATIVE,0.0,0.8,0.2,,-0.8,,imm_004,The Hindu,immigration,neutral
+art_052,AWS,NEUTRAL,0.0007,0.0515,0.9476,0.0001,-0.0508,,imm_004,The Hindu,immigration,neutral
+art_052,Google,VERY_NEGATIVE,0.0,0.6000000238418579,,,-0.6,4.9,imm_004,The Hindu,immigration,neutral
+art_052,Azure,NEGATIVE,0.0,0.8,0.2,,-0.8,,imm_004,The Hindu,immigration,neutral
+art_053,AWS,NEUTRAL,0.0073,0.0341,0.8843,0.0743,-0.0268,,imm_004,Reuters,immigration,neutral
+art_053,Google,NEGATIVE,0.0,0.5,,,-0.5,4.7,imm_004,Reuters,immigration,neutral
+art_053,Azure,NEGATIVE,0.0,0.79,0.21,,-0.79,,imm_004,Reuters,immigration,neutral
+art_054,AWS,NEUTRAL,0.0044,0.2717,0.7095,0.0144,-0.2673,,imm_004,France 24,immigration,security
+art_054,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,17.9,imm_004,France 24,immigration,security
+art_054,Azure,NEGATIVE,0.0,0.85,0.14,,-0.85,,imm_004,France 24,immigration,security
+art_055,AWS,NEUTRAL,0.0041,0.0488,0.9413,0.0058,-0.0446,,imm_004,Al Jazeera,immigration,humanitarian
+art_055,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,13.6,imm_004,Al Jazeera,immigration,humanitarian
+art_055,Azure,NEGATIVE,0.0,0.85,0.14,,-0.85,,imm_004,Al Jazeera,immigration,humanitarian
+art_056,AWS,NEUTRAL,0.0204,0.0375,0.8301,0.112,-0.017,,imm_004,Straits Times,immigration,security
+art_056,Google,NEGATIVE,0.0,0.5,,,-0.5,5.5,imm_004,Straits Times,immigration,security
+art_056,Azure,NEGATIVE,0.0,0.77,0.22,,-0.77,,imm_004,Straits Times,immigration,security
+art_057,AWS,NEUTRAL,0.1744,0.006,0.8107,0.0089,0.1684,,imm_006,Fox News,immigration,neutral
+art_057,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,11.2,imm_006,Fox News,immigration,neutral
+art_057,Azure,NEGATIVE,0.0,0.75,0.25,,-0.75,,imm_006,Fox News,immigration,neutral
+art_058,AWS,NEUTRAL,0.024,0.0048,0.9434,0.0278,0.0192,,imm_006,South China Morning Post,immigration,humanitarian
+art_058,Google,VERY_NEGATIVE,0.0,0.6000000238418579,,,-0.6,4.4,imm_006,South China Morning Post,immigration,humanitarian
+art_058,Azure,NEGATIVE,0.0,0.89,0.11,,-0.89,,imm_006,South China Morning Post,immigration,humanitarian
+art_059,AWS,NEUTRAL,0.0129,0.045,0.9384,0.0037,-0.0322,,imm_006,Straits Times,immigration,security
+art_059,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,8.7,imm_006,Straits Times,immigration,security
+art_059,Azure,NEGATIVE,0.0,0.75,0.24,,-0.75,,imm_006,Straits Times,immigration,security
+art_060,AWS,NEUTRAL,0.0626,0.0033,0.8949,0.0392,0.0593,,imm_006,CNN,immigration,neutral
+art_060,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,9.7,imm_006,CNN,immigration,neutral
+art_060,Azure,NEGATIVE,0.0,0.76,0.24,,-0.76,,imm_006,CNN,immigration,neutral
+art_061,AWS,NEUTRAL,0.0308,0.0059,0.9577,0.0056,0.0248,,imm_006,BBC,immigration,security
+art_061,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,7.6,imm_006,BBC,immigration,security
+art_061,Azure,NEGATIVE,0.0,0.66,0.34,,-0.66,,imm_006,BBC,immigration,security
+art_062,AWS,NEUTRAL,0.0217,0.0096,0.9613,0.0074,0.0122,,imm_006,Reuters,immigration,neutral
+art_062,Google,NEGATIVE,0.0,0.5,,,-0.5,6.5,imm_006,Reuters,immigration,neutral
+art_062,Azure,NEGATIVE,0.0,0.84,0.16,,-0.84,,imm_006,Reuters,immigration,neutral
+art_063,AWS,NEUTRAL,0.0038,0.0048,0.9904,0.0009,-0.001,,imm_006,Al Jazeera,immigration,neutral
+art_063,Google,NEGATIVE,0.0,0.5,,,-0.5,12.0,imm_006,Al Jazeera,immigration,neutral
+art_063,Azure,NEGATIVE,0.0,0.66,0.34,,-0.66,,imm_006,Al Jazeera,immigration,neutral
+art_064,AWS,NEUTRAL,0.0729,0.0106,0.8784,0.038,0.0623,,imm_006,The Guardian,immigration,humanitarian
+art_064,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,11.2,imm_006,The Guardian,immigration,humanitarian
+art_064,Azure,NEGATIVE,0.0,0.77,0.23,,-0.77,,imm_006,The Guardian,immigration,humanitarian
+art_065,AWS,NEUTRAL,0.0094,0.0033,0.984,0.0033,0.0061,,imm_006,Le Monde,immigration,neutral
+art_065,Google,NEGATIVE,0.0,0.5,,,-0.5,10.7,imm_006,Le Monde,immigration,neutral
+art_065,Azure,NEGATIVE,0.0,0.68,0.32,,-0.68,,imm_006,Le Monde,immigration,neutral
+art_066,AWS,NEUTRAL,0.0015,0.0017,0.9968,0.0,-0.0002,,imm_006,The Hindu,immigration,neutral
+art_066,Google,NEGATIVE,0.0,0.5,,,-0.5,8.0,imm_006,The Hindu,immigration,neutral
+art_066,Azure,NEGATIVE,0.0,0.75,0.25,,-0.75,,imm_006,The Hindu,immigration,neutral
+art_067,AWS,NEUTRAL,0.0624,0.0077,0.9268,0.0032,0.0547,,imm_007,Fox News,immigration,security
+art_067,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,10.4,imm_007,Fox News,immigration,security
+art_067,Azure,NEGATIVE,0.0,0.84,0.15,,-0.84,,imm_007,Fox News,immigration,security
+art_068,AWS,NEUTRAL,0.0079,0.0043,0.9857,0.0021,0.0036,,imm_007,South China Morning Post,immigration,humanitarian
+art_068,Google,NEGATIVE,0.0,0.10000000149011612,,,-0.1,2.3,imm_007,South China Morning Post,immigration,humanitarian
+art_068,Azure,NEGATIVE,0.04,0.55,0.42,,-0.51,,imm_007,South China Morning Post,immigration,humanitarian
+art_069,AWS,NEUTRAL,0.0131,0.1284,0.851,0.0076,-0.1154,,imm_007,Straits Times,immigration,neutral
+art_069,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,11.7,imm_007,Straits Times,immigration,neutral
+art_069,Azure,MIXED,0.08,0.74,0.18,,-0.66,,imm_007,Straits Times,immigration,neutral
+art_070,AWS,NEUTRAL,0.0628,0.0161,0.8646,0.0565,0.0467,,imm_007,CNN,immigration,neutral
+art_070,Google,NEGATIVE,0.0,0.5,,,-0.5,14.3,imm_007,CNN,immigration,neutral
+art_070,Azure,NEGATIVE,0.0,0.73,0.26,,-0.73,,imm_007,CNN,immigration,neutral
+art_071,AWS,NEUTRAL,0.0233,0.0628,0.7534,0.1605,-0.0395,,imm_007,BBC,immigration,security
+art_071,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,15.3,imm_007,BBC,immigration,security
+art_071,Azure,NEGATIVE,0.0,0.81,0.19,,-0.81,,imm_007,BBC,immigration,security
+art_072,AWS,NEUTRAL,0.0117,0.0009,0.9874,0.0,0.0108,,imm_007,Reuters,immigration,neutral
+art_072,Google,VERY_NEGATIVE,0.0,0.6000000238418579,,,-0.6,6.0,imm_007,Reuters,immigration,neutral
+art_072,Azure,MIXED,0.09,0.7,0.21,,-0.61,,imm_007,Reuters,immigration,neutral
+art_073,AWS,NEUTRAL,0.0185,0.0085,0.9701,0.0029,0.01,,imm_007,Al Jazeera,immigration,humanitarian
+art_073,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,8.8,imm_007,Al Jazeera,immigration,humanitarian
+art_073,Azure,NEGATIVE,0.0,0.82,0.18,,-0.82,,imm_007,Al Jazeera,immigration,humanitarian
+art_074,AWS,NEUTRAL,0.1031,0.0372,0.8555,0.0042,0.0659,,imm_007,The Guardian,immigration,humanitarian
+art_074,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,12.0,imm_007,The Guardian,immigration,humanitarian
+art_074,Azure,NEGATIVE,0.0,0.79,0.21,,-0.79,,imm_007,The Guardian,immigration,humanitarian
+art_075,AWS,NEUTRAL,0.0038,0.0045,0.9901,0.0016,-0.0007,,imm_007,Le Monde,immigration,security
+art_075,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,5.2,imm_007,Le Monde,immigration,security
+art_075,Azure,NEGATIVE,0.12,0.57,0.31,,-0.45,,imm_007,Le Monde,immigration,security
+art_076,AWS,NEUTRAL,0.0043,0.0045,0.9904,0.0008,-0.0001,,imm_007,News24,immigration,neutral
+art_076,Google,VERY_NEGATIVE,0.0,0.699999988079071,,,-0.7,2.9,imm_007,News24,immigration,neutral
+art_076,Azure,NEGATIVE,0.0,0.81,0.19,,-0.81,,imm_007,News24,immigration,neutral
+art_077,AWS,NEUTRAL,0.0094,0.0087,0.9816,0.0003,0.0007,,imm_007,The Hindu,immigration,neutral
+art_077,Google,NEGATIVE,0.0,0.5,,,-0.5,13.3,imm_007,The Hindu,immigration,neutral
+art_077,Azure,NEGATIVE,0.0,0.76,0.24,,-0.76,,imm_007,The Hindu,immigration,neutral
+art_078,AWS,NEUTRAL,0.0113,0.0044,0.9611,0.0232,0.0069,,imm_007,Xinhua,immigration,neutral
+art_078,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,5.6,imm_007,Xinhua,immigration,neutral
+art_078,Azure,NEGATIVE,0.0,0.83,0.17,,-0.83,,imm_007,Xinhua,immigration,neutral
+art_079,AWS,NEUTRAL,0.0032,0.0083,0.9877,0.0007,-0.0052,,imm_008,Fox News,immigration,security
+art_079,Google,NEGATIVE,0.0,0.10000000149011612,,,-0.1,4.4,imm_008,Fox News,immigration,security
+art_079,Azure,MIXED,0.39,0.44,0.17,,-0.05,,imm_008,Fox News,immigration,security
+art_080,AWS,NEUTRAL,0.0131,0.0426,0.9224,0.0218,-0.0294,,imm_008,The Hindu,immigration,humanitarian
+art_080,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,4.4,imm_008,The Hindu,immigration,humanitarian
+art_080,Azure,NEGATIVE,0.0,0.59,0.4,,-0.59,,imm_008,The Hindu,immigration,humanitarian
+art_081,AWS,NEUTRAL,0.0267,0.0118,0.8871,0.0745,0.0149,,imm_008,News24,immigration,security
+art_081,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,2.8,imm_008,News24,immigration,security
+art_081,Azure,MIXED,0.07,0.74,0.19,,-0.67,,imm_008,News24,immigration,security
+art_082,AWS,NEUTRAL,0.0213,0.0825,0.8245,0.0718,-0.0612,,imm_008,Straits Times,immigration,security
+art_082,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,16.4,imm_008,Straits Times,immigration,security
+art_082,Azure,NEGATIVE,0.0,0.79,0.21,,-0.79,,imm_008,Straits Times,immigration,security
+art_083,AWS,NEUTRAL,0.035,0.0021,0.9589,0.004,0.0329,,imm_008,South China Morning Post,immigration,neutral
+art_083,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,2.2,imm_008,South China Morning Post,immigration,neutral
+art_083,Azure,NEGATIVE,0.0,0.87,0.13,,-0.87,,imm_008,South China Morning Post,immigration,neutral
+art_084,AWS,NEUTRAL,0.0106,0.0308,0.9418,0.0168,-0.0202,,imm_008,Reuters,immigration,neutral
+art_084,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,5.3,imm_008,Reuters,immigration,neutral
+art_084,Azure,MIXED,0.2,0.69,0.11,,-0.49,,imm_008,Reuters,immigration,neutral
+art_085,AWS,MIXED,0.0338,0.0683,0.4484,0.4495,-0.0345,,imm_008,BBC,immigration,neutral
+art_085,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,18.4,imm_008,BBC,immigration,neutral
+art_085,Azure,NEGATIVE,0.01,0.75,0.24,,-0.74,,imm_008,BBC,immigration,neutral
+art_086,AWS,NEUTRAL,0.031,0.0133,0.9305,0.0252,0.0178,,imm_008,Le Monde,immigration,neutral
+art_086,Google,NEUTRAL,0.0,0.0,,,0.0,11.9,imm_008,Le Monde,immigration,neutral
+art_086,Azure,MIXED,0.36,0.48,0.16,,-0.12,,imm_008,Le Monde,immigration,neutral
+art_087,AWS,NEUTRAL,0.0632,0.0279,0.6664,0.2425,0.0354,,imm_008,CNN,immigration,neutral
+art_087,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,12.3,imm_008,CNN,immigration,neutral
+art_087,Azure,MIXED,0.1,0.63,0.27,,-0.53,,imm_008,CNN,immigration,neutral
+art_088,AWS,NEUTRAL,0.1946,0.001,0.802,0.0024,0.1935,,imm_008,The Guardian,immigration,humanitarian
+art_088,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,12.4,imm_008,The Guardian,immigration,humanitarian
+art_088,Azure,NEGATIVE,0.0,0.86,0.14,,-0.86,,imm_008,The Guardian,immigration,humanitarian
+art_089,AWS,NEUTRAL,0.0511,0.0006,0.9474,0.001,0.0505,,imm_008,Al Jazeera,immigration,neutral
+art_089,Google,NEUTRAL,0.0,0.0,,,0.0,8.3,imm_008,Al Jazeera,immigration,neutral
+art_089,Azure,MIXED,0.34,0.38,0.28,,-0.04,,imm_008,Al Jazeera,immigration,neutral
+art_090,AWS,NEUTRAL,0.0227,0.0147,0.9534,0.0091,0.008,,imm_008,RT News,immigration,neutral
+art_090,Google,NEGATIVE,0.0,0.10000000149011612,,,-0.1,8.3,imm_008,RT News,immigration,neutral
+art_090,Azure,MIXED,0.25,0.46,0.29,,-0.21,,imm_008,RT News,immigration,neutral
+art_091,AWS,NEUTRAL,0.0009,0.0001,0.999,0.0,0.0009,,imm_008,Global Times,immigration,neutral
+art_091,Google,NEUTRAL,0.0,0.0,,,0.0,6.6,imm_008,Global Times,immigration,neutral
+art_091,Azure,POSITIVE,0.82,0.0,0.17,,0.82,,imm_008,Global Times,immigration,neutral
+art_092,AWS,NEUTRAL,0.0013,0.0001,0.9986,0.0,0.0011,,imm_008,Global Times,immigration,neutral
+art_092,Google,NEUTRAL,0.0,0.0,,,0.0,6.2,imm_008,Global Times,immigration,neutral
+art_092,Azure,POSITIVE,0.63,0.0,0.37,,0.63,,imm_008,Global Times,immigration,neutral
+art_093,AWS,NEUTRAL,0.0019,0.1944,0.8027,0.001,-0.1925,,pol_001,Reuters,political conflict,people-centric
+art_093,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,4.5,pol_001,Reuters,political conflict,people-centric
+art_093,Azure,NEGATIVE,0.0,0.82,0.18,,-0.82,,pol_001,Reuters,political conflict,people-centric
+art_094,AWS,NEUTRAL,0.0011,0.0629,0.9325,0.0035,-0.0618,,pol_001,The Guardian,political conflict,neutral
+art_094,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,11.1,pol_001,The Guardian,political conflict,neutral
+art_094,Azure,MIXED,0.06,0.77,0.17,,-0.71,,pol_001,The Guardian,political conflict,neutral
+art_095,AWS,NEUTRAL,0.0025,0.139,0.8585,0.0001,-0.1365,,pol_001,Le Monde,political conflict,people-centric
+art_095,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,9.3,pol_001,Le Monde,political conflict,people-centric
+art_095,Azure,NEGATIVE,0.0,0.82,0.18,,-0.82,,pol_001,Le Monde,political conflict,people-centric
+art_096,AWS,NEUTRAL,0.0019,0.0324,0.9648,0.001,-0.0305,,pol_001,South China Morning Post,political conflict,neutral
+art_096,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,1.8,pol_001,South China Morning Post,political conflict,neutral
+art_096,Azure,NEGATIVE,0.0,0.77,0.23,,-0.77,,pol_001,South China Morning Post,political conflict,neutral
+art_097,AWS,NEUTRAL,0.0014,0.0325,0.9634,0.0027,-0.031,,pol_001,Fox News,political conflict,neutral
+art_097,Google,NEGATIVE,0.0,0.10000000149011612,,,-0.1,6.9,pol_001,Fox News,political conflict,neutral
+art_097,Azure,MIXED,0.15,0.63,0.22,,-0.48,,pol_001,Fox News,political conflict,neutral
+art_098,AWS,NEUTRAL,0.0031,0.0887,0.9079,0.0003,-0.0856,,pol_001,Straits Times,political conflict,state-centric
+art_098,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,13.1,pol_001,Straits Times,political conflict,state-centric
+art_098,Azure,NEGATIVE,0.0,0.82,0.18,,-0.82,,pol_001,Straits Times,political conflict,state-centric
+art_099,AWS,NEUTRAL,0.0011,0.0045,0.9939,0.0005,-0.0034,,pol_001,The Hindu,political conflict,neutral
+art_099,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,1.8,pol_001,The Hindu,political conflict,neutral
+art_099,Azure,NEGATIVE,0.0,0.77,0.23,,-0.77,,pol_001,The Hindu,political conflict,neutral
+art_100,AWS,NEUTRAL,0.0085,0.0972,0.8449,0.0494,-0.0887,,pol_001,Daily Maverick,political conflict,people-centric
+art_100,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,12.8,pol_001,Daily Maverick,political conflict,people-centric
+art_100,Azure,NEGATIVE,0.0,0.9,0.09,,-0.9,,pol_001,Daily Maverick,political conflict,people-centric
+art_101,AWS,NEUTRAL,0.0141,0.0374,0.9186,0.03,-0.0233,,pol_002,RT News,political conflict,neutral
+art_101,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,7.5,pol_002,RT News,political conflict,neutral
+art_101,Azure,MIXED,0.09,0.72,0.19,,-0.63,,pol_002,RT News,political conflict,neutral
+art_102,AWS,NEUTRAL,0.0162,0.0305,0.927,0.0263,-0.0142,,pol_002,Al Jazeera,political conflict,neutral
+art_102,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,16.0,pol_002,Al Jazeera,political conflict,neutral
+art_102,Azure,NEGATIVE,0.01,0.77,0.22,,-0.76,,pol_002,Al Jazeera,political conflict,neutral
+art_103,AWS,NEUTRAL,0.0413,0.09,0.6644,0.2043,-0.0488,,pol_002,CNN,political conflict,state-centric
+art_103,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,11.5,pol_002,CNN,political conflict,state-centric
+art_103,Azure,NEGATIVE,0.0,0.79,0.21,,-0.79,,pol_002,CNN,political conflict,state-centric
+art_104,AWS,NEUTRAL,0.0087,0.0958,0.874,0.0215,-0.087,,pol_002,BBC,political conflict,state-centric
+art_104,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,12.6,pol_002,BBC,political conflict,state-centric
+art_104,Azure,NEGATIVE,0.0,0.76,0.24,,-0.76,,pol_002,BBC,political conflict,state-centric
+art_105,AWS,NEUTRAL,0.0037,0.0235,0.9716,0.0012,-0.0198,,pol_002,Reuters,political conflict,people-centric
+art_105,Google,NEGATIVE,0.0,0.5,,,-0.5,6.5,pol_002,Reuters,political conflict,people-centric
+art_105,Azure,NEGATIVE,0.0,0.84,0.15,,-0.84,,pol_002,Reuters,political conflict,people-centric
+art_106,AWS,NEUTRAL,0.0088,0.0077,0.9453,0.0382,0.0012,,pol_002,The Guardian,political conflict,neutral
+art_106,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,11.3,pol_002,The Guardian,political conflict,neutral
+art_106,Azure,NEGATIVE,0.0,0.79,0.21,,-0.79,,pol_002,The Guardian,political conflict,neutral
+art_107,AWS,NEUTRAL,0.0142,0.0242,0.9376,0.0241,-0.01,,pol_002,Le Monde,political conflict,neutral
+art_107,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,14.4,pol_002,Le Monde,political conflict,neutral
+art_107,Azure,MIXED,0.04,0.72,0.24,,-0.68,,pol_002,Le Monde,political conflict,neutral
+art_108,AWS,NEUTRAL,0.0108,0.1825,0.7504,0.0563,-0.1717,,pol_002,South China Morning Post,political conflict,neutral
+art_108,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,2.6,pol_002,South China Morning Post,political conflict,neutral
+art_108,Azure,NEGATIVE,0.0,0.74,0.26,,-0.74,,pol_002,South China Morning Post,political conflict,neutral
+art_109,AWS,NEUTRAL,0.0135,0.0029,0.967,0.0166,0.0106,,pol_002,Global Times,political conflict,state-centric
+art_109,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,3.9,pol_002,Global Times,political conflict,state-centric
+art_109,Azure,NEGATIVE,0.0,0.85,0.14,,-0.85,,pol_002,Global Times,political conflict,state-centric
+art_110,AWS,NEUTRAL,0.0163,0.0481,0.9179,0.0177,-0.0318,,pol_002,Fox News,political conflict,neutral
+art_110,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,8.6,pol_002,Fox News,political conflict,neutral
+art_110,Azure,MIXED,0.19,0.66,0.15,,-0.47,,pol_002,Fox News,political conflict,neutral
+art_111,AWS,NEUTRAL,0.0169,0.0596,0.8746,0.049,-0.0427,,pol_002,Straits Times,political conflict,state-centric
+art_111,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,14.8,pol_002,Straits Times,political conflict,state-centric
+art_111,Azure,NEGATIVE,0.0,0.81,0.19,,-0.81,,pol_002,Straits Times,political conflict,state-centric
+art_112,AWS,NEUTRAL,0.0357,0.0169,0.908,0.0394,0.0188,,pol_002,The Hindu,political conflict,neutral
+art_112,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,6.1,pol_002,The Hindu,political conflict,neutral
+art_112,Azure,MIXED,0.06,0.69,0.25,,-0.63,,pol_002,The Hindu,political conflict,neutral
+art_113,AWS,MIXED,0.0649,0.3553,0.1353,0.4445,-0.2904,,pol_002,Daily Maverick,political conflict,people-centric
+art_113,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,15.9,pol_002,Daily Maverick,political conflict,people-centric
+art_113,Azure,MIXED,0.07,0.76,0.17,,-0.69,,pol_002,Daily Maverick,political conflict,people-centric
+art_114,AWS,NEUTRAL,0.0388,0.0349,0.891,0.0354,0.0039,,pol_003,RT News,political conflict,neutral
+art_114,Google,NEGATIVE,0.0,0.5,,,-0.5,8.2,pol_003,RT News,political conflict,neutral
+art_114,Azure,NEGATIVE,0.0,0.8,0.19,,-0.8,,pol_003,RT News,political conflict,neutral
+art_115,AWS,NEUTRAL,0.0023,0.0447,0.9496,0.0034,-0.0424,,pol_003,Al Jazeera,political conflict,people-centric
+art_115,Google,NEGATIVE,0.0,0.5,,,-0.5,16.4,pol_003,Al Jazeera,political conflict,people-centric
+art_115,Azure,MIXED,0.03,0.8,0.17,,-0.77,,pol_003,Al Jazeera,political conflict,people-centric
+art_116,AWS,NEUTRAL,0.0048,0.2616,0.7087,0.0249,-0.2568,,pol_003,CNN,political conflict,people-centric
+art_116,Google,VERY_NEGATIVE,0.0,0.6000000238418579,,,-0.6,18.5,pol_003,CNN,political conflict,people-centric
+art_116,Azure,NEGATIVE,0.0,0.82,0.18,,-0.82,,pol_003,CNN,political conflict,people-centric
+art_117,AWS,NEUTRAL,0.0629,0.0452,0.7747,0.1172,0.0177,,pol_003,BBC,political conflict,state-centric
+art_117,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,17.5,pol_003,BBC,political conflict,state-centric
+art_117,Azure,NEGATIVE,0.0,0.85,0.15,,-0.85,,pol_003,BBC,political conflict,state-centric
+art_118,AWS,NEUTRAL,0.0006,0.0237,0.9757,0.0001,-0.0231,,pol_003,Reuters,political conflict,neutral
+art_118,Google,VERY_NEGATIVE,0.0,0.699999988079071,,,-0.7,6.4,pol_003,Reuters,political conflict,neutral
+art_118,Azure,NEGATIVE,0.0,0.83,0.17,,-0.83,,pol_003,Reuters,political conflict,neutral
+art_119,AWS,NEUTRAL,0.0094,0.1881,0.7703,0.0322,-0.1787,,pol_003,The Guardian,political conflict,people-centric
+art_119,Google,NEGATIVE,0.0,0.5,,,-0.5,17.2,pol_003,The Guardian,political conflict,people-centric
+art_119,Azure,MIXED,0.04,0.74,0.22,,-0.7,,pol_003,The Guardian,political conflict,people-centric
+art_120,AWS,NEUTRAL,0.0295,0.025,0.9194,0.026,0.0045,,pol_003,Le Monde,political conflict,neutral
+art_120,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,7.2,pol_003,Le Monde,political conflict,neutral
+art_120,Azure,NEGATIVE,0.0,0.82,0.18,,-0.82,,pol_003,Le Monde,political conflict,neutral
+art_121,AWS,NEUTRAL,0.0159,0.1451,0.67,0.169,-0.1291,,pol_003,South China Morning Post,political conflict,people-centric
+art_121,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,3.0,pol_003,South China Morning Post,political conflict,people-centric
+art_121,Azure,NEGATIVE,0.0,0.95,0.05,,-0.95,,pol_003,South China Morning Post,political conflict,people-centric
+art_122,AWS,NEUTRAL,0.1455,0.0024,0.8393,0.0128,0.1431,,pol_003,Global Times,political conflict,people-centric
+art_122,Google,NEUTRAL,0.0,0.0,,,0.0,11.7,pol_003,Global Times,political conflict,people-centric
+art_122,Azure,MIXED,0.15,0.75,0.1,,-0.6,,pol_003,Global Times,political conflict,people-centric
+art_123,AWS,NEUTRAL,0.0036,0.1892,0.8018,0.0054,-0.1856,,pol_003,Fox News,political conflict,people-centric
+art_123,Google,NEGATIVE,0.0,0.5,,,-0.5,7.8,pol_003,Fox News,political conflict,people-centric
+art_123,Azure,NEGATIVE,0.0,0.79,0.21,,-0.79,,pol_003,Fox News,political conflict,people-centric
+art_124,AWS,NEUTRAL,0.0158,0.1199,0.8516,0.0128,-0.1041,,pol_003,Straits Times,political conflict,people-centric
+art_124,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,16.4,pol_003,Straits Times,political conflict,people-centric
+art_124,Azure,MIXED,0.07,0.75,0.18,,-0.68,,pol_003,Straits Times,political conflict,people-centric
+art_125,AWS,NEUTRAL,0.0077,0.0298,0.9463,0.0162,-0.0221,,pol_003,The Hindu,political conflict,people-centric
+art_125,Google,VERY_NEGATIVE,0.0,0.6000000238418579,,,-0.6,7.6,pol_003,The Hindu,political conflict,people-centric
+art_125,Azure,MIXED,0.04,0.8,0.16,,-0.76,,pol_003,The Hindu,political conflict,people-centric
+art_126,AWS,NEUTRAL,0.0397,0.0333,0.8061,0.1209,0.0065,,pol_003,Daily Maverick,political conflict,people-centric
+art_126,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,17.4,pol_003,Daily Maverick,political conflict,people-centric
+art_126,Azure,MIXED,0.03,0.8,0.17,,-0.77,,pol_003,Daily Maverick,political conflict,people-centric
+art_127,AWS,NEUTRAL,0.004,0.1168,0.8765,0.0027,-0.1128,,pol_004,Fox News,political conflict,state-centric
+art_127,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,10.6,pol_004,Fox News,political conflict,state-centric
+art_127,Azure,MIXED,0.14,0.75,0.11,,-0.61,,pol_004,Fox News,political conflict,state-centric
+art_128,AWS,NEUTRAL,0.0023,0.1279,0.8671,0.0027,-0.1256,,pol_004,CNN,political conflict,neutral
+art_128,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,17.7,pol_004,CNN,political conflict,neutral
+art_128,Azure,NEGATIVE,0.0,0.88,0.12,,-0.88,,pol_004,CNN,political conflict,neutral
+art_129,AWS,NEUTRAL,0.0009,0.0986,0.8998,0.0007,-0.0976,,pol_004,BBC,political conflict,people-centric
+art_129,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,14.0,pol_004,BBC,political conflict,people-centric
+art_129,Azure,NEGATIVE,0.0,0.85,0.15,,-0.85,,pol_004,BBC,political conflict,people-centric
+art_130,AWS,NEUTRAL,0.0012,0.1988,0.7977,0.0024,-0.1976,,pol_004,Reuters,political conflict,neutral
+art_130,Google,VERY_NEGATIVE,0.0,0.699999988079071,,,-0.7,5.8,pol_004,Reuters,political conflict,neutral
+art_130,Azure,NEGATIVE,0.0,0.83,0.17,,-0.83,,pol_004,Reuters,political conflict,neutral
+art_131,AWS,NEUTRAL,0.0015,0.1748,0.8236,0.0,-0.1733,,pol_004,RT News,political conflict,people-centric
+art_131,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,19.8,pol_004,RT News,political conflict,people-centric
+art_131,Azure,NEGATIVE,0.02,0.84,0.14,,-0.82,,pol_004,RT News,political conflict,people-centric
+art_132,AWS,NEUTRAL,0.002,0.0917,0.9019,0.0044,-0.0898,,pol_004,Al Jazeera,political conflict,people-centric
+art_132,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,14.7,pol_004,Al Jazeera,political conflict,people-centric
+art_132,Azure,NEGATIVE,0.0,0.81,0.19,,-0.81,,pol_004,Al Jazeera,political conflict,people-centric
+art_133,AWS,NEUTRAL,0.0098,0.0124,0.9407,0.0371,-0.0026,,pol_004,The Guardian,political conflict,state-centric
+art_133,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,10.4,pol_004,The Guardian,political conflict,state-centric
+art_133,Azure,NEGATIVE,0.0,0.84,0.15,,-0.84,,pol_004,The Guardian,political conflict,state-centric
+art_134,AWS,NEUTRAL,0.012,0.1675,0.6467,0.1739,-0.1555,,pol_004,Le Monde,political conflict,state-centric
+art_134,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,11.4,pol_004,Le Monde,political conflict,state-centric
+art_134,Azure,NEGATIVE,0.0,0.84,0.16,,-0.84,,pol_004,Le Monde,political conflict,state-centric
+art_135,AWS,NEUTRAL,0.1399,0.0202,0.5042,0.3356,0.1198,,pol_004,Global Times,political conflict,state-centric
+art_135,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,7.8,pol_004,Global Times,political conflict,state-centric
+art_135,Azure,NEGATIVE,0.0,0.78,0.22,,-0.78,,pol_004,Global Times,political conflict,state-centric
+art_136,AWS,NEUTRAL,0.011,0.0723,0.8811,0.0357,-0.0614,,pol_004,South China Morning Post,political conflict,neutral
+art_136,Google,NEGATIVE,0.0,0.5,,,-0.5,3.4,pol_004,South China Morning Post,political conflict,neutral
+art_136,Azure,NEGATIVE,0.0,0.93,0.07,,-0.93,,pol_004,South China Morning Post,political conflict,neutral
+art_137,AWS,NEUTRAL,0.0072,0.0542,0.9091,0.0295,-0.047,,pol_004,The Hindu,political conflict,neutral
+art_137,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,2.7,pol_004,The Hindu,political conflict,neutral
+art_137,Azure,NEGATIVE,0.0,0.96,0.04,,-0.96,,pol_004,The Hindu,political conflict,neutral
+art_138,AWS,NEUTRAL,0.035,0.0245,0.6901,0.2504,0.0105,,pol_004,Indian Express,political conflict,neutral
+art_138,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,7.7,pol_004,Indian Express,political conflict,neutral
+art_138,Azure,NEGATIVE,0.0,0.81,0.19,,-0.81,,pol_004,Indian Express,political conflict,neutral
+art_139,AWS,NEUTRAL,0.0029,0.0855,0.8828,0.0288,-0.0825,,pol_004,Straits Times,political conflict,neutral
+art_139,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,14.8,pol_004,Straits Times,political conflict,neutral
+art_139,Azure,NEGATIVE,0.0,0.85,0.14,,-0.85,,pol_004,Straits Times,political conflict,neutral
+art_140,AWS,NEUTRAL,0.005,0.1539,0.8325,0.0086,-0.1489,,pol_004,News24,political conflict,people-centric
+art_140,Google,NEGATIVE,0.0,0.5,,,-0.5,3.9,pol_004,News24,political conflict,people-centric
+art_140,Azure,NEGATIVE,0.01,0.88,0.11,,-0.87,,pol_004,News24,political conflict,people-centric
+art_141,AWS,NEUTRAL,0.1107,0.0334,0.8196,0.0364,0.0773,,pol_005,Fox News,political conflict,neutral
+art_141,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,9.7,pol_005,Fox News,political conflict,neutral
+art_141,Azure,NEGATIVE,0.0,0.85,0.15,,-0.85,,pol_005,Fox News,political conflict,neutral
+art_142,AWS,NEUTRAL,0.0026,0.0357,0.8539,0.1077,-0.0331,,pol_005,CNN,political conflict,neutral
+art_142,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,10.9,pol_005,CNN,political conflict,neutral
+art_142,Azure,NEGATIVE,0.0,0.8,0.2,,-0.8,,pol_005,CNN,political conflict,neutral
+art_143,AWS,NEUTRAL,0.0026,0.0565,0.9317,0.0092,-0.0538,,pol_005,BBC,political conflict,people-centric
+art_143,Google,NEGATIVE,0.0,0.5,,,-0.5,12.2,pol_005,BBC,political conflict,people-centric
+art_143,Azure,NEGATIVE,0.0,0.84,0.16,,-0.84,,pol_005,BBC,political conflict,people-centric
+art_144,AWS,NEUTRAL,0.0022,0.0491,0.946,0.0027,-0.0469,,pol_005,Reuters,political conflict,state-centric
+art_144,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,7.0,pol_005,Reuters,political conflict,state-centric
+art_144,Azure,NEGATIVE,0.0,0.78,0.22,,-0.78,,pol_005,Reuters,political conflict,state-centric
+art_145,AWS,NEUTRAL,0.0143,0.153,0.8175,0.0152,-0.1387,,pol_005,RT News,political conflict,neutral
+art_145,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,12.5,pol_005,RT News,political conflict,neutral
+art_145,Azure,NEGATIVE,0.01,0.81,0.18,,-0.8,,pol_005,RT News,political conflict,neutral
+art_146,AWS,NEUTRAL,0.002,0.0425,0.9523,0.0033,-0.0405,,pol_005,Al Jazeera,political conflict,state-centric
+art_146,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,9.1,pol_005,Al Jazeera,political conflict,state-centric
+art_146,Azure,NEGATIVE,0.0,0.86,0.14,,-0.86,,pol_005,Al Jazeera,political conflict,state-centric
+art_147,AWS,NEUTRAL,0.0085,0.111,0.8099,0.0707,-0.1026,,pol_005,The Guardian,political conflict,neutral
+art_147,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,10.2,pol_005,The Guardian,political conflict,neutral
+art_147,Azure,NEGATIVE,0.0,0.83,0.17,,-0.83,,pol_005,The Guardian,political conflict,neutral
+art_148,AWS,NEUTRAL,0.0036,0.0515,0.9278,0.0171,-0.048,,pol_005,Le Monde,political conflict,state-centric
+art_148,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,10.2,pol_005,Le Monde,political conflict,state-centric
+art_148,Azure,NEGATIVE,0.01,0.84,0.16,,-0.83,,pol_005,Le Monde,political conflict,state-centric
+art_149,AWS,NEUTRAL,0.0041,0.0194,0.921,0.0554,-0.0153,,pol_005,The Hindu,political conflict,state-centric
+art_149,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,7.1,pol_005,The Hindu,political conflict,state-centric
+art_149,Azure,NEGATIVE,0.0,0.76,0.23,,-0.76,,pol_005,The Hindu,political conflict,state-centric
+art_150,AWS,NEUTRAL,0.0077,0.0298,0.9498,0.0128,-0.0221,,pol_005,Straits Times,political conflict,state-centric
+art_150,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,12.6,pol_005,Straits Times,political conflict,state-centric
+art_150,Azure,NEGATIVE,0.0,0.79,0.21,,-0.79,,pol_005,Straits Times,political conflict,state-centric
+art_151,AWS,NEUTRAL,0.0063,0.0193,0.9723,0.0022,-0.013,,pol_005,News24,political conflict,neutral
+art_151,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,5.7,pol_005,News24,political conflict,neutral
+art_151,Azure,NEGATIVE,0.0,0.88,0.12,,-0.88,,pol_005,News24,political conflict,neutral
+art_152,AWS,NEUTRAL,0.0015,0.0639,0.9344,0.0002,-0.0624,,pol_006,Fox News,political conflict,neutral
+art_152,Google,NEGATIVE,0.0,0.5,,,-0.5,14.6,pol_006,Fox News,political conflict,neutral
+art_152,Azure,NEGATIVE,0.0,0.9,0.1,,-0.9,,pol_006,Fox News,political conflict,neutral
+art_153,AWS,NEUTRAL,0.0004,0.1787,0.8209,0.0,-0.1783,,pol_006,Xinhua,political conflict,people-centric
+art_153,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,4.6,pol_006,Xinhua,political conflict,people-centric
+art_153,Azure,NEGATIVE,0.0,0.9,0.1,,-0.9,,pol_006,Xinhua,political conflict,people-centric
+art_154,AWS,NEUTRAL,0.001,0.2056,0.789,0.0044,-0.2047,,pol_006,France 24,political conflict,state-centric
+art_154,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,15.7,pol_006,France 24,political conflict,state-centric
+art_154,Azure,NEGATIVE,0.0,0.87,0.13,,-0.87,,pol_006,France 24,political conflict,state-centric
+art_155,AWS,NEUTRAL,0.0009,0.1796,0.8186,0.0009,-0.1787,,pol_006,BBC,political conflict,people-centric
+art_155,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,17.1,pol_006,BBC,political conflict,people-centric
+art_155,Azure,NEGATIVE,0.0,0.86,0.14,,-0.86,,pol_006,BBC,political conflict,people-centric
+art_156,AWS,NEUTRAL,0.0019,0.0207,0.9764,0.001,-0.0188,,pol_006,CNN,political conflict,neutral
+art_156,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,14.5,pol_006,CNN,political conflict,neutral
+art_156,Azure,NEGATIVE,0.0,0.83,0.17,,-0.83,,pol_006,CNN,political conflict,neutral
+art_157,AWS,NEUTRAL,0.0008,0.0357,0.9632,0.0003,-0.0349,,pol_006,RT News,political conflict,state-centric
+art_157,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,9.0,pol_006,RT News,political conflict,state-centric
+art_157,Azure,NEGATIVE,0.0,0.85,0.15,,-0.85,,pol_006,RT News,political conflict,state-centric
+art_158,AWS,NEUTRAL,0.0006,0.0639,0.9348,0.0006,-0.0633,,pol_006,Al Jazeera,political conflict,neutral
+art_158,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,12.1,pol_006,Al Jazeera,political conflict,neutral
+art_158,Azure,NEGATIVE,0.0,0.85,0.15,,-0.85,,pol_006,Al Jazeera,political conflict,neutral
+art_159,AWS,NEUTRAL,0.0008,0.1411,0.8478,0.0103,-0.1402,,pol_006,The Guardian,political conflict,neutral
+art_159,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,13.6,pol_006,The Guardian,political conflict,neutral
+art_159,Azure,NEGATIVE,0.0,0.81,0.18,,-0.81,,pol_006,The Guardian,political conflict,neutral
+art_160,AWS,NEUTRAL,0.0125,0.0576,0.8857,0.0442,-0.0451,,pol_006,South China Morning Post,political conflict,people-centric
+art_160,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,2.6,pol_006,South China Morning Post,political conflict,people-centric
+art_160,Azure,NEGATIVE,0.0,0.85,0.15,,-0.85,,pol_006,South China Morning Post,political conflict,people-centric
+art_161,AWS,MIXED,0.0087,0.1317,0.3165,0.5432,-0.123,,pol_006,News24,political conflict,people-centric
+art_161,Google,VERY_NEGATIVE,0.0,0.6000000238418579,,,-0.6,8.5,pol_006,News24,political conflict,people-centric
+art_161,Azure,NEGATIVE,0.01,0.82,0.18,,-0.81,,pol_006,News24,political conflict,people-centric
+art_162,AWS,NEUTRAL,0.0023,0.1151,0.8723,0.0104,-0.1128,,pol_006,Straits Times,political conflict,people-centric
+art_162,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,15.9,pol_006,Straits Times,political conflict,people-centric
+art_162,Azure,MIXED,0.05,0.8,0.16,,-0.75,,pol_006,Straits Times,political conflict,people-centric
+art_163,AWS,NEUTRAL,0.0009,0.1402,0.854,0.0049,-0.1393,,pol_006,The Hindu,political conflict,neutral
+art_163,Google,NEGATIVE,0.0,0.5,,,-0.5,8.3,pol_006,The Hindu,political conflict,neutral
+art_163,Azure,NEGATIVE,0.0,0.92,0.08,,-0.92,,pol_006,The Hindu,political conflict,neutral
+art_164,AWS,NEUTRAL,0.0011,0.1797,0.8184,0.0008,-0.1786,,pol_006,Reuters,political conflict,neutral
+art_164,Google,VERY_NEGATIVE,0.0,0.6000000238418579,,,-0.6,6.4,pol_006,Reuters,political conflict,neutral
+art_164,Azure,NEGATIVE,0.0,0.8,0.2,,-0.8,,pol_006,Reuters,political conflict,neutral
+art_165,AWS,NEUTRAL,0.001,0.003,0.9958,0.0002,-0.002,,pol_007,RT News,political conflict,neutral
+art_165,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,4.2,pol_007,RT News,political conflict,neutral
+art_165,Azure,NEGATIVE,0.0,0.78,0.22,,-0.78,,pol_007,RT News,political conflict,neutral
+art_166,AWS,NEUTRAL,0.0046,0.0153,0.9778,0.0023,-0.0107,,pol_007,Al Jazeera,political conflict,neutral
+art_166,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,12.3,pol_007,Al Jazeera,political conflict,neutral
+art_166,Azure,MIXED,0.07,0.8,0.13,,-0.73,,pol_007,Al Jazeera,political conflict,neutral
+art_167,AWS,NEUTRAL,0.0018,0.0343,0.9569,0.0069,-0.0325,,pol_007,CNN,political conflict,state-centric
+art_167,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,6.8,pol_007,CNN,political conflict,state-centric
+art_167,Azure,NEGATIVE,0.0,0.86,0.14,,-0.86,,pol_007,CNN,political conflict,state-centric
+art_168,AWS,NEUTRAL,0.0029,0.0233,0.9712,0.0026,-0.0205,,pol_007,BBC,political conflict,neutral
+art_168,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,14.4,pol_007,BBC,political conflict,neutral
+art_168,Azure,NEGATIVE,0.0,0.82,0.18,,-0.82,,pol_007,BBC,political conflict,neutral
+art_169,AWS,NEUTRAL,0.0051,0.0394,0.9272,0.0284,-0.0343,,pol_007,Reuters,political conflict,people-centric
+art_169,Google,NEGATIVE,0.0,0.5,,,-0.5,4.7,pol_007,Reuters,political conflict,people-centric
+art_169,Azure,NEGATIVE,0.0,0.89,0.11,,-0.89,,pol_007,Reuters,political conflict,people-centric
+art_170,AWS,NEUTRAL,0.0152,0.0243,0.9354,0.0251,-0.009,,pol_007,The Guardian,political conflict,people-centric
+art_170,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,16.6,pol_007,The Guardian,political conflict,people-centric
+art_170,Azure,NEGATIVE,0.0,0.81,0.19,,-0.81,,pol_007,The Guardian,political conflict,people-centric
+art_171,AWS,NEUTRAL,0.0012,0.0081,0.9898,0.001,-0.0069,,pol_007,Xinhua,political conflict,state-centric
+art_171,Google,NEUTRAL,0.0,0.0,,,0.0,1.5,pol_007,Xinhua,political conflict,state-centric
+art_171,Azure,NEGATIVE,0.0,0.76,0.24,,-0.76,,pol_007,Xinhua,political conflict,state-centric
+art_172,AWS,NEUTRAL,0.0043,0.0885,0.8804,0.0268,-0.0842,,pol_007,The Hindu,political conflict,neutral
+art_172,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,3.0,pol_007,The Hindu,political conflict,neutral
+art_172,Azure,NEGATIVE,0.0,0.83,0.17,,-0.83,,pol_007,The Hindu,political conflict,neutral
+art_173,AWS,NEUTRAL,0.0149,0.0102,0.9078,0.0671,0.0047,,pol_007,News24,political conflict,state-centric
+art_173,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,2.2,pol_007,News24,political conflict,state-centric
+art_173,Azure,NEGATIVE,0.0,0.77,0.23,,-0.77,,pol_007,News24,political conflict,state-centric
+art_174,AWS,NEUTRAL,0.0022,0.0032,0.9937,0.0009,-0.0011,,env_001,RT News,environment,neutral
+art_174,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,10.2,env_001,RT News,environment,neutral
+art_174,Azure,MIXED,0.13,0.5,0.37,,-0.37,,env_001,RT News,environment,neutral
+art_175,AWS,NEUTRAL,0.0029,0.0039,0.9909,0.0024,-0.001,,env_001,Al Jazeera,environment,neutral
+art_175,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,12.7,env_001,Al Jazeera,environment,neutral
+art_175,Azure,NEGATIVE,0.03,0.7,0.27,,-0.67,,env_001,Al Jazeera,environment,neutral
+art_176,AWS,NEUTRAL,0.0469,0.025,0.8816,0.0466,0.0218,,env_001,CNN,environment,neutral
+art_176,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,14.9,env_001,CNN,environment,neutral
+art_176,Azure,MIXED,0.19,0.59,0.23,,-0.4,,env_001,CNN,environment,neutral
+art_177,AWS,NEUTRAL,0.0339,0.0117,0.8787,0.0757,0.0222,,env_001,BBC,environment,concern
+art_177,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,18.2,env_001,BBC,environment,concern
+art_177,Azure,NEGATIVE,0.0,0.77,0.23,,-0.77,,env_001,BBC,environment,concern
+art_178,AWS,MIXED,0.0149,0.0883,0.2487,0.648,-0.0734,,env_001,Fox News,environment,skeptical
+art_178,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,14.4,env_001,Fox News,environment,skeptical
+art_178,Azure,MIXED,0.26,0.46,0.28,,-0.2,,env_001,Fox News,environment,skeptical
+art_179,AWS,NEUTRAL,0.0544,0.0758,0.723,0.1467,-0.0214,,env_001,Reuters,environment,concern
+art_179,Google,NEGATIVE,0.0,0.5,,,-0.5,5.6,env_001,Reuters,environment,concern
+art_179,Azure,NEGATIVE,0.0,0.8,0.19,,-0.8,,env_001,Reuters,environment,concern
+art_180,AWS,NEUTRAL,0.0012,0.0604,0.9348,0.0037,-0.0591,,env_001,France 24,environment,concern
+art_180,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,15.8,env_001,France 24,environment,concern
+art_180,Azure,NEGATIVE,0.02,0.77,0.22,,-0.75,,env_001,France 24,environment,concern
+art_181,AWS,NEUTRAL,0.043,0.0168,0.7386,0.2016,0.0262,,env_001,The Guardian,environment,concern
+art_181,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,12.3,env_001,The Guardian,environment,concern
+art_181,Azure,MIXED,0.13,0.65,0.22,,-0.52,,env_001,The Guardian,environment,concern
+art_182,AWS,NEUTRAL,0.0053,0.0099,0.9821,0.0027,-0.0046,,env_001,Global Times,environment,neutral
+art_182,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,11.7,env_001,Global Times,environment,neutral
+art_182,Azure,MIXED,0.15,0.6,0.25,,-0.45,,env_001,Global Times,environment,neutral
+art_183,AWS,NEUTRAL,0.0094,0.0684,0.8928,0.0294,-0.059,,env_001,Straits Times,environment,neutral
+art_183,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,15.0,env_001,Straits Times,environment,neutral
+art_183,Azure,MIXED,0.04,0.75,0.21,,-0.71,,env_001,Straits Times,environment,neutral
+art_184,AWS,NEUTRAL,0.0177,0.0545,0.9231,0.0046,-0.0368,,env_001,News24,environment,neutral
+art_184,Google,NEUTRAL,0.0,0.0,,,0.0,2.4,env_001,News24,environment,neutral
+art_184,Azure,MIXED,0.49,0.5,0.02,,-0.01,,env_001,News24,environment,neutral
+art_185,AWS,NEUTRAL,0.1248,0.004,0.8617,0.0095,0.1209,,env_001,The Hindu,environment,neutral
+art_185,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,12.9,env_001,The Hindu,environment,neutral
+art_185,Azure,MIXED,0.16,0.5,0.34,,-0.34,,env_001,The Hindu,environment,neutral
+art_186,AWS,NEUTRAL,0.0234,0.0036,0.9619,0.0111,0.0198,,env_001,Indian Express,environment,concern
+art_186,Google,NEUTRAL,0.0,0.0,,,0.0,6.9,env_001,Indian Express,environment,concern
+art_186,Azure,MIXED,0.09,0.65,0.25,,-0.56,,env_001,Indian Express,environment,concern
+art_187,AWS,MIXED,0.07,0.0239,0.4182,0.4878,0.0461,,env_001,South China Morning Post,environment,concern
+art_187,Google,NEUTRAL,0.0,0.0,,,0.0,2.8,env_001,South China Morning Post,environment,concern
+art_187,Azure,NEGATIVE,0.0,0.98,0.02,,-0.98,,env_001,South China Morning Post,environment,concern
+art_188,AWS,NEUTRAL,0.0054,0.2372,0.753,0.0045,-0.2318,,env_002,Fox News,environment,neutral
+art_188,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,10.0,env_002,Fox News,environment,neutral
+art_188,Azure,NEGATIVE,0.0,0.86,0.14,,-0.86,,env_002,Fox News,environment,neutral
+art_189,AWS,NEUTRAL,0.0008,0.0863,0.9108,0.0022,-0.0855,,env_002,The Hindu,environment,concern
+art_189,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,1.3,env_002,The Hindu,environment,concern
+art_189,Azure,NEGATIVE,0.0,0.9,0.1,,-0.9,,env_002,The Hindu,environment,concern
+art_190,AWS,NEUTRAL,0.0059,0.1808,0.8073,0.0059,-0.1749,,env_002,South China Morning Post,environment,concern
+art_190,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,1.6,env_002,South China Morning Post,environment,concern
+art_190,Azure,NEGATIVE,0.0,0.95,0.05,,-0.95,,env_002,South China Morning Post,environment,concern
+art_191,AWS,NEUTRAL,0.0009,0.0079,0.9911,0.0,-0.007,,env_002,Global Times,environment,concern
+art_191,Google,NEGATIVE,0.0,0.10000000149011612,,,-0.1,11.4,env_002,Global Times,environment,concern
+art_191,Azure,MIXED,0.05,0.76,0.18,,-0.71,,env_002,Global Times,environment,concern
+art_192,AWS,NEUTRAL,0.0065,0.0326,0.9602,0.0007,-0.0261,,env_002,RT News,environment,neutral
+art_192,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,4.9,env_002,RT News,environment,neutral
+art_192,Azure,NEGATIVE,0.0,0.84,0.16,,-0.84,,env_002,RT News,environment,neutral
+art_193,AWS,NEUTRAL,0.0005,0.035,0.9645,0.0001,-0.0345,,env_002,BBC,environment,neutral
+art_193,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,12.5,env_002,BBC,environment,neutral
+art_193,Azure,NEGATIVE,0.0,0.81,0.18,,-0.81,,env_002,BBC,environment,neutral
+art_194,AWS,NEUTRAL,0.0005,0.0527,0.9466,0.0002,-0.0523,,env_002,The Guardian,environment,concern
+art_194,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,13.9,env_002,The Guardian,environment,concern
+art_194,Azure,NEGATIVE,0.0,0.88,0.12,,-0.88,,env_002,The Guardian,environment,concern
+art_195,AWS,NEUTRAL,0.0009,0.0549,0.942,0.0022,-0.054,,env_002,Al Jazeera,environment,concern
+art_195,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,9.8,env_002,Al Jazeera,environment,concern
+art_195,Azure,NEGATIVE,0.0,0.94,0.06,,-0.94,,env_002,Al Jazeera,environment,concern
+art_196,AWS,NEUTRAL,0.035,0.1698,0.7494,0.0458,-0.1348,,env_002,CNN,environment,concern
+art_196,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,17.5,env_002,CNN,environment,concern
+art_196,Azure,NEGATIVE,0.0,0.88,0.12,,-0.88,,env_002,CNN,environment,concern
+art_197,AWS,NEUTRAL,0.0027,0.4047,0.5904,0.0022,-0.402,,env_002,Le Monde,environment,neutral
+art_197,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,12.1,env_002,Le Monde,environment,neutral
+art_197,Azure,NEGATIVE,0.0,0.85,0.15,,-0.85,,env_002,Le Monde,environment,neutral
+art_198,AWS,NEUTRAL,0.0088,0.2995,0.679,0.0128,-0.2907,,env_002,Straits Times,environment,neutral
+art_198,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,16.8,env_002,Straits Times,environment,neutral
+art_198,Azure,NEGATIVE,0.01,0.87,0.12,,-0.86,,env_002,Straits Times,environment,neutral
+art_199,AWS,NEUTRAL,0.1119,0.0599,0.6677,0.1605,0.0519,,env_002,News24,environment,neutral
+art_199,Google,NEUTRAL,0.0,0.0,,,0.0,3.9,env_002,News24,environment,neutral
+art_199,Azure,MIXED,0.12,0.66,0.22,,-0.54,,env_002,News24,environment,neutral
+art_200,AWS,NEUTRAL,0.0013,0.0453,0.9529,0.0004,-0.044,,env_002,Reuters,environment,concern
+art_200,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,3.7,env_002,Reuters,environment,concern
+art_200,Azure,NEGATIVE,0.01,0.83,0.16,,-0.82,,env_002,Reuters,environment,concern
+art_201,AWS,NEUTRAL,0.0124,0.4109,0.5726,0.0041,-0.3985,,env_003,Reuters,environment,concern
+art_201,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,5.1,env_003,Reuters,environment,concern
+art_201,Azure,NEGATIVE,0.0,0.91,0.08,,-0.91,,env_003,Reuters,environment,concern
+art_202,AWS,NEUTRAL,0.001,0.002,0.997,0.0001,-0.001,,env_003,The Hindu,environment,concern
+art_202,Google,NEUTRAL,0.0,0.0,,,0.0,0.2,env_003,The Hindu,environment,concern
+art_202,Azure,NEUTRAL,0.0,0.16,0.84,,-0.16,,env_003,The Hindu,environment,concern
+art_203,AWS,NEUTRAL,0.0286,0.0153,0.9465,0.0096,0.0133,,env_003,South China Morning Post,environment,concern
+art_203,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,2.7,env_003,South China Morning Post,environment,concern
+art_203,Azure,NEGATIVE,0.0,0.87,0.13,,-0.87,,env_003,South China Morning Post,environment,concern
+art_204,AWS,NEUTRAL,0.2681,0.002,0.722,0.0079,0.2661,,env_003,Global Times,environment,neutral
+art_204,Google,POSITIVE,0.10000000149011612,0.0,,,0.1,5.1,env_003,Global Times,environment,neutral
+art_204,Azure,NEGATIVE,0.0,0.78,0.21,,-0.78,,env_003,Global Times,environment,neutral
+art_205,AWS,NEUTRAL,0.0011,0.03,0.9688,0.0,-0.029,,env_003,RT News,environment,neutral
+art_205,Google,NEGATIVE,0.0,0.10000000149011612,,,-0.1,3.4,env_003,RT News,environment,neutral
+art_205,Azure,NEGATIVE,0.01,0.78,0.21,,-0.77,,env_003,RT News,environment,neutral
+art_206,AWS,NEUTRAL,0.0116,0.017,0.9671,0.0043,-0.0054,,env_003,BBC,environment,concern
+art_206,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,16.8,env_003,BBC,environment,concern
+art_206,Azure,MIXED,0.03,0.81,0.16,,-0.78,,env_003,BBC,environment,concern
+art_207,AWS,NEUTRAL,0.0072,0.1638,0.8271,0.0018,-0.1566,,env_003,The Guardian,environment,concern
+art_207,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,13.3,env_003,The Guardian,environment,concern
+art_207,Azure,NEGATIVE,0.0,0.85,0.15,,-0.85,,env_003,The Guardian,environment,concern
+art_208,AWS,NEUTRAL,0.0172,0.0439,0.9375,0.0014,-0.0267,,env_003,Al Jazeera,environment,concern
+art_208,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,6.7,env_003,Al Jazeera,environment,concern
+art_208,Azure,NEGATIVE,0.0,0.89,0.11,,-0.89,,env_003,Al Jazeera,environment,concern
+art_209,AWS,NEUTRAL,0.0485,0.3399,0.5391,0.0725,-0.2914,,env_003,CNN,environment,concern
+art_209,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,12.7,env_003,CNN,environment,concern
+art_209,Azure,NEGATIVE,0.0,0.85,0.15,,-0.85,,env_003,CNN,environment,concern
+art_210,AWS,NEUTRAL,0.0821,0.3029,0.3295,0.2855,-0.2207,,env_003,Le Monde,environment,concern
+art_210,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,6.6,env_003,Le Monde,environment,concern
+art_210,Azure,MIXED,0.04,0.76,0.2,,-0.72,,env_003,Le Monde,environment,concern
+art_211,AWS,NEUTRAL,0.0051,0.1293,0.8563,0.0093,-0.1242,,env_003,Straits Times,environment,concern
+art_211,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,13.4,env_003,Straits Times,environment,concern
+art_211,Azure,MIXED,0.06,0.8,0.15,,-0.74,,env_003,Straits Times,environment,concern
+art_212,AWS,NEUTRAL,0.0495,0.3039,0.4932,0.1534,-0.2545,,env_003,Reuters,environment,concern
+art_212,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,1.1,env_003,Reuters,environment,concern
+art_212,Azure,NEGATIVE,0.0,0.88,0.12,,-0.88,,env_003,Reuters,environment,concern
+art_213,AWS,NEGATIVE,0.0336,0.6029,0.2943,0.0691,-0.5693,,env_004,RT News,environment,skeptical
+art_213,Google,NEGATIVE,0.0,0.5,,,-0.5,10.1,env_004,RT News,environment,skeptical
+art_213,Azure,NEGATIVE,0.0,0.85,0.15,,-0.85,,env_004,RT News,environment,skeptical
+art_214,AWS,NEUTRAL,0.0042,0.3319,0.6638,0.0002,-0.3277,,env_004,Al Jazeera,environment,concern
+art_214,Google,NEGATIVE,0.0,0.10000000149011612,,,-0.1,8.3,env_004,Al Jazeera,environment,concern
+art_214,Azure,MIXED,0.03,0.83,0.14,,-0.8,,env_004,Al Jazeera,environment,concern
+art_215,AWS,NEUTRAL,0.0037,0.1161,0.8772,0.003,-0.1124,,env_004,Reuters,environment,concern
+art_215,Google,NEGATIVE,0.0,0.10000000149011612,,,-0.1,1.9,env_004,Reuters,environment,concern
+art_215,Azure,NEGATIVE,0.04,0.84,0.12,,-0.8,,env_004,Reuters,environment,concern
+art_216,AWS,NEUTRAL,0.0172,0.0454,0.8634,0.074,-0.0283,,env_004,CNN,environment,concern
+art_216,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,8.5,env_004,CNN,environment,concern
+art_216,Azure,NEGATIVE,0.01,0.86,0.13,,-0.85,,env_004,CNN,environment,concern
+art_217,AWS,NEUTRAL,0.0107,0.0169,0.9596,0.0128,-0.0063,,env_004,BBC,environment,concern
+art_217,Google,NEUTRAL,0.0,0.0,,,0.0,9.3,env_004,BBC,environment,concern
+art_217,Azure,MIXED,0.14,0.72,0.15,,-0.58,,env_004,BBC,environment,concern
+art_218,AWS,NEUTRAL,0.0247,0.41,0.5434,0.0219,-0.3852,,env_004,Fox News,environment,skeptical
+art_218,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,23.8,env_004,Fox News,environment,skeptical
+art_218,Azure,MIXED,0.17,0.65,0.18,,-0.48,,env_004,Fox News,environment,skeptical
+art_219,AWS,NEUTRAL,0.0051,0.2653,0.7294,0.0002,-0.2602,,env_004,Global Times,environment,neutral
+art_219,Google,NEGATIVE,0.0,0.4000000059604645,,,-0.4,12.1,env_004,Global Times,environment,neutral
+art_219,Azure,MIXED,0.1,0.71,0.18,,-0.61,,env_004,Global Times,environment,neutral
+art_220,AWS,NEUTRAL,0.0547,0.2488,0.696,0.0005,-0.1941,,env_004,Straits Times,environment,concern
+art_220,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,11.7,env_004,Straits Times,environment,concern
+art_220,Azure,NEGATIVE,0.0,0.87,0.13,,-0.87,,env_004,Straits Times,environment,concern
+art_221,AWS,NEUTRAL,0.0381,0.1219,0.8083,0.0317,-0.0839,,env_004,South China Morning Post,environment,concern
+art_221,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,2.9,env_004,South China Morning Post,environment,concern
+art_221,Azure,NEGATIVE,0.0,0.96,0.04,,-0.96,,env_004,South China Morning Post,environment,concern
+art_222,AWS,NEUTRAL,0.2125,0.0064,0.7319,0.0492,0.2061,,env_004,The Guardian,environment,concern
+art_222,Google,NEGATIVE,0.0,0.10000000149011612,,,-0.1,10.6,env_004,The Guardian,environment,concern
+art_222,Azure,NEGATIVE,0.0,0.87,0.13,,-0.87,,env_004,The Guardian,environment,concern
+art_223,AWS,NEUTRAL,0.0201,0.3205,0.6376,0.0218,-0.3004,,env_004,Le Monde,environment,concern
+art_223,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,12.5,env_004,Le Monde,environment,concern
+art_223,Azure,MIXED,0.08,0.73,0.2,,-0.65,,env_004,Le Monde,environment,concern
+art_224,AWS,NEGATIVE,0.0054,0.6643,0.3301,0.0001,-0.6588,,env_004,News24,environment,neutral
+art_224,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,7.8,env_004,News24,environment,neutral
+art_224,Azure,NEGATIVE,0.0,0.83,0.17,,-0.83,,env_004,News24,environment,neutral
+art_225,AWS,NEUTRAL,0.1763,0.0143,0.7748,0.0346,0.162,,env_004,The Hindu,environment,concern
+art_225,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,3.4,env_004,The Hindu,environment,concern
+art_225,Azure,NEGATIVE,0.0,0.82,0.18,,-0.82,,env_004,The Hindu,environment,concern
+art_226,AWS,NEUTRAL,0.0463,0.0904,0.6591,0.2043,-0.0441,,env_005,BBC,environment,concern
+art_226,Google,NEGATIVE,0.0,0.10000000149011612,,,-0.1,11.0,env_005,BBC,environment,concern
+art_226,Azure,MIXED,0.08,0.75,0.17,,-0.67,,env_005,BBC,environment,concern
+art_227,AWS,NEUTRAL,0.012,0.0873,0.5981,0.3026,-0.0753,,env_005,Al Jazeera,environment,concern
+art_227,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,9.4,env_005,Al Jazeera,environment,concern
+art_227,Azure,MIXED,0.06,0.75,0.19,,-0.69,,env_005,Al Jazeera,environment,concern
+art_228,AWS,NEUTRAL,0.0738,0.0015,0.9241,0.0006,0.0723,,env_005,Reuters,environment,neutral
+art_228,Google,NEGATIVE,0.0,0.10000000149011612,,,-0.1,3.5,env_005,Reuters,environment,neutral
+art_228,Azure,NEGATIVE,0.01,0.59,0.4,,-0.58,,env_005,Reuters,environment,neutral
+art_229,AWS,NEUTRAL,0.003,0.0181,0.9787,0.0002,-0.015,,env_005,The Hindu,environment,concern
+art_229,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,9.9,env_005,The Hindu,environment,concern
+art_229,Azure,NEGATIVE,0.0,0.79,0.21,,-0.79,,env_005,The Hindu,environment,concern
+art_230,AWS,NEUTRAL,0.0033,0.0515,0.8835,0.0617,-0.0483,,env_005,Le Monde,environment,concern
+art_230,Google,NEGATIVE,0.0,0.10000000149011612,,,-0.1,4.8,env_005,Le Monde,environment,concern
+art_230,Azure,NEGATIVE,0.0,0.9,0.1,,-0.9,,env_005,Le Monde,environment,concern
+art_231,AWS,NEUTRAL,0.0032,0.0286,0.9679,0.0003,-0.0254,,env_005,Fox News,environment,concern
+art_231,Google,NEGATIVE,0.0,0.10000000149011612,,,-0.1,5.0,env_005,Fox News,environment,concern
+art_231,Azure,NEGATIVE,0.0,0.88,0.12,,-0.88,,env_005,Fox News,environment,concern
+art_232,AWS,NEGATIVE,0.006,0.5226,0.3477,0.1237,-0.5166,,env_005,Straits Times,environment,neutral
+art_232,Google,NEGATIVE,0.0,0.10000000149011612,,,-0.1,14.0,env_005,Straits Times,environment,neutral
+art_232,Azure,MIXED,0.15,0.59,0.26,,-0.44,,env_005,Straits Times,environment,neutral
+art_233,AWS,NEUTRAL,0.0373,0.0085,0.917,0.0372,0.0288,,env_005,Global Times,environment,concern
+art_233,Google,NEGATIVE,0.0,0.10000000149011612,,,-0.1,9.0,env_005,Global Times,environment,concern
+art_233,Azure,MIXED,0.17,0.57,0.26,,-0.4,,env_005,Global Times,environment,concern
+art_234,AWS,NEUTRAL,0.0261,0.0451,0.9287,0.0001,-0.019,,env_005,CNN,environment,concern
+art_234,Google,NEGATIVE,0.0,0.10000000149011612,,,-0.1,4.1,env_005,CNN,environment,concern
+art_234,Azure,NEGATIVE,0.01,0.77,0.22,,-0.76,,env_005,CNN,environment,concern
+art_235,AWS,NEUTRAL,0.0053,0.082,0.9,0.0127,-0.0767,,env_005,Reuters,environment,concern
+art_235,Google,NEGATIVE,0.0,0.30000001192092896,,,-0.3,2.8,env_005,Reuters,environment,concern
+art_235,Azure,NEGATIVE,0.0,0.9,0.1,,-0.9,,env_005,Reuters,environment,concern
+art_236,AWS,NEUTRAL,0.0327,0.01,0.9522,0.0051,0.0227,,env_005,The Guardian,environment,concern
+art_236,Google,NEGATIVE,0.0,0.10000000149011612,,,-0.1,3.5,env_005,The Guardian,environment,concern
+art_236,Azure,MIXED,0.09,0.66,0.25,,-0.57,,env_005,The Guardian,environment,concern
+art_237,AWS,NEUTRAL,0.0463,0.0564,0.642,0.2554,-0.0101,,env_005,News24,environment,neutral
+art_237,Google,NEGATIVE,0.0,0.20000000298023224,,,-0.2,1.7,env_005,News24,environment,neutral
+art_237,Azure,MIXED,0.17,0.7,0.13,,-0.53,,env_005,News24,environment,neutral

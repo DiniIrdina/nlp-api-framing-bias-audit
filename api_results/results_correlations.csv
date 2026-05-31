@@ -1,0 +1,13 @@
+api,topic,pearson_r,p_value,n
+AWS,overall,-0.1194,0.0666,237
+AWS,immigration,-0.1205,0.2636,88
+AWS,political conflict,0.1156,0.2923,85
+AWS,environment,-0.2019,0.1097,64
+Google,overall,0.046,0.4814,237
+Google,immigration,-0.2787,0.0086,88
+Google,political conflict,0.0948,0.3882,85
+Google,environment,-0.0084,0.9474,64
+Azure,overall,-0.121,0.063,237
+Azure,immigration,-0.0999,0.3545,88
+Azure,political conflict,0.2291,0.035,85
+Azure,environment,-0.591,0.0,64
