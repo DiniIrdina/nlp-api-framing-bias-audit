@@ -1,0 +1,445 @@
+﻿article_id,IAEI_after,api,method,model,outlet,topic,frame,IAEI_before,IAEI_change,IAEI_reduction_pct
+art_001,0.0689440993788819,Google,native_entity_sentiment,gpt-4o,Fox News,immigration,security,0.0644578313253012,0.004486268053580711,-6.96
+art_017,0.2832258064516129,Google,native_entity_sentiment,gpt-4o,France 24,immigration,neutral,0.3813664596273292,-0.0981406531757163,25.73
+art_018,0.2805084745762712,Google,native_entity_sentiment,gpt-4o,The Guardian,immigration,humanitarian,0.3928571428571429,-0.1123486682808717,28.6
+art_031,0.2770491803278688,Google,native_entity_sentiment,gpt-4o,Al Jazeera,immigration,humanitarian,0.4805882352941176,-0.2035390549662488,42.35
+art_051,0.38,Google,native_entity_sentiment,gpt-4o,The Hindu,immigration,neutral,0.5826923076923077,-0.20269230769230773,34.79
+art_052,0.3980392156862745,Google,native_entity_sentiment,gpt-4o,The Hindu,immigration,neutral,0.5826923076923077,-0.18465309200603325,31.69
+art_057,0.2914893617021277,Google,native_entity_sentiment,gpt-4o,Fox News,immigration,neutral,0.3571428571428572,-0.06565349544072951,18.38
+art_058,0.3984375,Google,native_entity_sentiment,gpt-4o,South China Morning Post,immigration,humanitarian,0.5765625,-0.17812499999999998,30.89
+art_062,0.2969325153374233,Google,native_entity_sentiment,gpt-4o,Reuters,immigration,neutral,0.4947368421052631,-0.19780432676783977,39.98
+art_063,0.3897959183673469,Google,native_entity_sentiment,gpt-4o,Al Jazeera,immigration,neutral,0.4793388429752066,-0.08954292460785973,18.68
+art_065,0.4783505154639175,Google,native_entity_sentiment,gpt-4o,Le Monde,immigration,neutral,0.471875,0.006475515463917503,-1.37
+art_070,0.2939655172413793,Google,native_entity_sentiment,gpt-4o,CNN,immigration,neutral,0.4862318840579709,-0.1922663668165916,39.54
+art_072,0.3949044585987261,Google,native_entity_sentiment,gpt-4o,Reuters,immigration,neutral,0.5925,-0.19759554140127394,33.35
+art_076,0.3873873873873873,Google,native_entity_sentiment,gpt-4o,News24,immigration,neutral,0.7,-0.31261261261261264,44.66
+art_079,0.0561403508771929,Google,native_entity_sentiment,gpt-4o,Fox News,immigration,security,0.1477611940298507,-0.09162084315265778,62.01
+art_086,0.0443548387096774,Google,native_entity_sentiment,gpt-4o,Le Monde,immigration,neutral,0.0585185185185185,-0.014163679808841097,24.2
+art_088,0.1866666666666666,Google,native_entity_sentiment,gpt-4o,The Guardian,immigration,humanitarian,0.2898648648648648,-0.1031981981981982,35.6
+art_089,0.0237704918032786,Google,native_entity_sentiment,gpt-4o,Al Jazeera,immigration,neutral,0.0246031746031746,-0.0008326827998959979,3.38
+art_091,0.0259259259259259,Google,native_entity_sentiment,gpt-4o,Global Times,immigration,neutral,0.0410071942446043,-0.015081268318678398,36.78
+art_092,0.0102272727272727,Google,native_entity_sentiment,gpt-4o,Global Times,immigration,neutral,0.0078651685393258,0.0023621041879468996,-30.03
+art_113,0.18,Google,native_entity_sentiment,gpt-4o,Daily Maverick,political conflict,people-centric,0.2858333333333333,-0.10583333333333328,37.03
+art_114,0.3305555555555555,Google,native_entity_sentiment,gpt-4o,RT News,political conflict,neutral,0.4231884057971014,-0.09263285024154588,21.89
+art_118,0.34765625,Google,native_entity_sentiment,gpt-4o,Reuters,political conflict,neutral,0.6643410852713177,-0.31668483527131774,47.67
+art_125,0.3732142857142858,Google,native_entity_sentiment,gpt-4o,The Hindu,political conflict,people-centric,0.5601769911504425,-0.18696270543615673,33.38
+art_130,0.4756097560975609,Google,native_entity_sentiment,gpt-4o,Reuters,political conflict,neutral,0.6571428571428571,-0.18153310104529624,27.62
+art_135,0.2734042553191489,Google,native_entity_sentiment,gpt-4o,Global Times,political conflict,state-centric,0.2749999999999999,-0.0015957446808509967,0.58
+art_171,0.0,Google,native_entity_sentiment,gpt-4o,Xinhua,political conflict,state-centric,0.010204081632653,-0.010204081632653,100.0
+art_178,0.2067114093959731,Google,native_entity_sentiment,gpt-4o,Fox News,environment,skeptical,0.2063291139240506,0.0003822954719225058,-0.19
+art_184,0.0526315789473684,Google,native_entity_sentiment,gpt-4o,News24,environment,neutral,0.1210526315789473,-0.06842105263157891,56.52
+art_187,0.1853658536585366,Google,native_entity_sentiment,gpt-4o,South China Morning Post,environment,concern,0.0130434782608695,0.17232237539766712,-1321.14
+art_190,0.1897959183673469,Google,native_entity_sentiment,gpt-4o,South China Morning Post,environment,concern,0.1714285714285714,0.01836734693877551,-10.71
+art_197,0.2793333333333333,Google,native_entity_sentiment,gpt-4o,Le Monde,environment,neutral,0.2927777777777777,-0.01344444444444437,4.59
+art_201,0.2777777777777778,Google,native_entity_sentiment,gpt-4o,Reuters,environment,concern,0.2875,-0.009722222222222188,3.38
+art_202,0.0,Google,native_entity_sentiment,gpt-4o,The Hindu,environment,concern,0.0,0.0,
+art_204,0.081081081081081,Google,native_entity_sentiment,gpt-4o,Global Times,environment,neutral,0.081081081081081,0.0,0.0
+art_209,0.1904191616766467,Google,native_entity_sentiment,gpt-4o,CNN,environment,concern,0.2716763005780346,-0.08125713890138792,29.91
+art_210,0.1252032520325203,Google,native_entity_sentiment,gpt-4o,Le Monde,environment,concern,0.1835820895522388,-0.05837883751971848,31.8
+art_212,0.1905982905982906,Google,native_entity_sentiment,gpt-4o,Reuters,environment,concern,0.1971830985915492,-0.006584807993258612,3.34
+art_213,0.356578947368421,Google,native_entity_sentiment,gpt-4o,RT News,environment,skeptical,0.4351648351648352,-0.07858588779641418,18.06
+art_214,0.1,Google,native_entity_sentiment,gpt-4o,Al Jazeera,environment,concern,0.1025157232704402,-0.0025157232704401955,2.45
+art_215,0.0992537313432836,Google,native_entity_sentiment,gpt-4o,Reuters,environment,concern,0.1057324840764331,-0.006478752733149504,6.13
+art_218,0.2555555555555556,Google,native_entity_sentiment,gpt-4o,Fox News,environment,skeptical,0.267515923566879,-0.011960368011323386,4.47
+art_219,0.1915384615384615,Google,native_entity_sentiment,gpt-4o,Global Times,environment,neutral,0.3594405594405594,-0.16790209790209792,46.71
+art_222,0.1097560975609756,Google,native_entity_sentiment,gpt-4o,The Guardian,environment,concern,0.0980132450331125,0.011742852527863099,-11.98
+art_223,0.1710280373831775,Google,native_entity_sentiment,gpt-4o,Le Monde,environment,concern,0.1988304093567251,-0.027802371973547596,13.98
+art_224,0.2712871287128712,Google,native_entity_sentiment,gpt-4o,News24,environment,neutral,0.270253164556962,0.0010339641559091728,-0.38
+art_225,0.2005780346820809,Google,native_entity_sentiment,gpt-4o,The Hindu,environment,concern,0.1891566265060241,0.011421408176056802,-6.04
+art_230,0.1015384615384615,Google,native_entity_sentiment,gpt-4o,Le Monde,environment,concern,0.0953846153846153,0.00615384615384619,-6.45
+art_231,0.1128205128205128,Google,native_entity_sentiment,gpt-4o,Fox News,environment,concern,0.1188235294117647,-0.0060030165912519085,5.05
+art_232,0.0265306122448979,Google,native_entity_sentiment,gpt-4o,Straits Times,environment,neutral,0.1098684210526315,-0.0833378088077336,75.85
+art_001,0.1430519185209505,AWS,sentence_context_projection,gpt-4o,Fox News,immigration,security,0.1809637845445552,-0.03791186602360469,20.95
+art_017,0.0287243971338853,AWS,sentence_context_projection,gpt-4o,France 24,immigration,neutral,0.197587814257187,-0.1688634171233017,85.46
+art_018,0.0629957990299577,AWS,sentence_context_projection,gpt-4o,The Guardian,immigration,humanitarian,0.1615171728378342,-0.09852137380787651,61.0
+art_031,0.0850176320949009,AWS,sentence_context_projection,gpt-4o,Al Jazeera,immigration,humanitarian,0.1255776906913291,-0.040560058596428195,32.3
+art_051,0.02558266337546,AWS,sentence_context_projection,gpt-4o,The Hindu,immigration,neutral,0.0454195305379004,-0.0198368671624404,43.67
+art_052,0.0293640808936335,AWS,sentence_context_projection,gpt-4o,The Hindu,immigration,neutral,0.0454195305379004,-0.016055449644266896,35.35
+art_057,0.0661280974341646,AWS,sentence_context_projection,gpt-4o,Fox News,immigration,neutral,0.1725463362190416,-0.10641823878487701,61.68
+art_058,0.0545912671123413,AWS,sentence_context_projection,gpt-4o,South China Morning Post,immigration,humanitarian,0.062960778659877,-0.008369511547535693,13.29
+art_062,0.0826726714456084,AWS,sentence_context_projection,gpt-4o,Reuters,immigration,neutral,0.0985773163386958,-0.015904644893087405,16.13
+art_063,0.0439102285734134,AWS,sentence_context_projection,gpt-4o,Al Jazeera,immigration,neutral,0.0715023092766808,-0.0275920807032674,38.59
+art_065,0.0652425955400291,AWS,sentence_context_projection,gpt-4o,Le Monde,immigration,neutral,0.0846272522962596,-0.019384656756230495,22.91
+art_070,0.0635889764780186,AWS,sentence_context_projection,gpt-4o,CNN,immigration,neutral,0.1269313964729627,-0.0633424199949441,49.9
+art_072,0.0748472671080349,AWS,sentence_context_projection,gpt-4o,Reuters,immigration,neutral,0.0457886874430231,0.029058579665011797,-63.46
+art_076,0.0293997554839845,AWS,sentence_context_projection,gpt-4o,News24,immigration,neutral,0.0998847410712391,-0.07048498558725459,70.57
+art_079,0.0834457230453362,AWS,sentence_context_projection,gpt-4o,Fox News,immigration,security,0.1090741782936485,-0.025628455248312296,23.5
+art_086,0.2220962257285621,AWS,sentence_context_projection,gpt-4o,Le Monde,immigration,neutral,0.2104702706987761,0.011625955029786,-5.52
+art_088,0.13163021777692,AWS,sentence_context_projection,gpt-4o,The Guardian,immigration,humanitarian,0.2716295305479557,-0.1399993127710357,51.54
+art_089,0.0491695766037909,AWS,sentence_context_projection,gpt-4o,Al Jazeera,immigration,neutral,0.0348734472541425,0.014296129349648398,-40.99
+art_091,0.0614471641021908,AWS,sentence_context_projection,gpt-4o,Global Times,immigration,neutral,0.0500037191382751,0.011443444963915701,-22.89
+art_092,0.0323750450706262,AWS,sentence_context_projection,gpt-4o,Global Times,immigration,neutral,0.0342442679355687,-0.0018692228649425033,5.46
+art_113,0.1519478294553361,AWS,sentence_context_projection,gpt-4o,Daily Maverick,political conflict,people-centric,0.2232493015811045,-0.0713014721257684,31.94
+art_114,0.0721270007678717,AWS,sentence_context_projection,gpt-4o,RT News,political conflict,neutral,0.0840910119194555,-0.011964011151583812,14.23
+art_118,0.0736387560072338,AWS,sentence_context_projection,gpt-4o,Reuters,political conflict,neutral,0.0682375145263239,0.005401241480909896,-7.92
+art_125,0.1096865499982626,AWS,sentence_context_projection,gpt-4o,The Hindu,political conflict,people-centric,0.2819351452634739,-0.1722485952652113,61.1
+art_130,0.0302152883948934,AWS,sentence_context_projection,gpt-4o,Reuters,political conflict,neutral,0.0522702528255502,-0.0220549644306568,42.19
+art_135,0.1939105595664552,AWS,sentence_context_projection,gpt-4o,Global Times,political conflict,state-centric,0.1764423805802428,0.01746817898621239,-9.9
+art_171,0.0068279969700101,AWS,sentence_context_projection,gpt-4o,Xinhua,political conflict,state-centric,0.0088072391469493,-0.0019792421769391994,22.47
+art_178,0.0977002666960464,AWS,sentence_context_projection,gpt-4o,Fox News,environment,skeptical,0.0910050472642379,0.006695219431808494,-7.36
+art_184,0.0374566875159829,AWS,sentence_context_projection,gpt-4o,News24,environment,neutral,0.0699796033808606,-0.0325229158648777,46.47
+art_187,0.0125748786470381,AWS,sentence_context_projection,gpt-4o,South China Morning Post,environment,concern,0.0547476587798101,-0.042172780132772,77.03
+art_190,0.1040446181857958,AWS,sentence_context_projection,gpt-4o,South China Morning Post,environment,concern,0.1462838354218751,-0.04223921723607929,28.87
+art_197,0.1279670778729336,AWS,sentence_context_projection,gpt-4o,Le Monde,environment,neutral,0.3101944841269433,-0.18222740625400968,58.75
+art_201,0.4123379356895835,AWS,sentence_context_projection,gpt-4o,Reuters,environment,concern,0.2887285442199996,0.12360939146958388,-42.81
+art_204,0.1138144539434597,AWS,sentence_context_projection,gpt-4o,Global Times,environment,neutral,0.1170685152311316,-0.0032540612876719027,2.78
+art_209,0.2772736400803312,AWS,sentence_context_projection,gpt-4o,CNN,environment,concern,0.2510100659197933,0.026263574160537873,-10.46
+art_210,0.1028878126063461,AWS,sentence_context_projection,gpt-4o,Le Monde,environment,concern,0.1378522735304199,-0.034964460924073806,25.36
+art_212,0.5808132167553085,AWS,sentence_context_projection,gpt-4o,Reuters,environment,concern,0.1917646706663848,0.3890485460889237,-202.88
+art_213,0.2383510314482624,AWS,sentence_context_projection,gpt-4o,RT News,environment,skeptical,0.4348569418021644,-0.196505910353902,45.19
+art_214,0.3530759074365836,AWS,sentence_context_projection,gpt-4o,Al Jazeera,environment,concern,0.366434644853927,-0.013358737417343391,3.65
+art_215,0.0762872720927946,AWS,sentence_context_projection,gpt-4o,Reuters,environment,concern,0.0999413766768317,-0.023654104584037106,23.67
+art_218,0.2282658031969062,AWS,sentence_context_projection,gpt-4o,Fox News,environment,skeptical,0.2679850609189813,-0.039719257722075074,14.82
+art_219,0.2054233953323417,AWS,sentence_context_projection,gpt-4o,Global Times,environment,neutral,0.2112522817350394,-0.005828886402697714,2.76
+art_222,0.2567837532211255,AWS,sentence_context_projection,gpt-4o,The Guardian,environment,concern,0.1487489992903545,0.108034753930771,-72.63
+art_223,0.3248834528600486,AWS,sentence_context_projection,gpt-4o,Le Monde,environment,concern,0.2644363935509269,0.0604470593091217,-22.86
+art_224,0.1333176401525723,AWS,sentence_context_projection,gpt-4o,News24,environment,neutral,0.5710401466178495,-0.4377225064652772,76.65
+art_225,0.3189574776055625,AWS,sentence_context_projection,gpt-4o,The Hindu,environment,concern,0.3299420084184191,-0.010984530812856608,3.33
+art_230,0.06763883136207,AWS,sentence_context_projection,gpt-4o,Le Monde,environment,concern,0.0151565750760425,0.0524822562860275,-346.27
+art_231,0.0780325093085376,AWS,sentence_context_projection,gpt-4o,Fox News,environment,concern,0.1149626203742002,-0.0369301110656626,32.12
+art_232,0.0310041849399935,AWS,sentence_context_projection,gpt-4o,Straits Times,environment,neutral,0.5226968932975548,-0.49169270835756124,94.07
+art_001,0.1392857142857143,Google,native_entity_sentiment,gpt-5-5,Fox News,immigration,security,0.0644578313253012,0.0748278829604131,-116.09
+art_017,0.3792452830188679,Google,native_entity_sentiment,gpt-5-5,France 24,immigration,neutral,0.3813664596273292,-0.0021211766084612838,0.56
+art_018,0.2860759493670886,Google,native_entity_sentiment,gpt-5-5,The Guardian,immigration,humanitarian,0.3928571428571429,-0.10678119349005433,27.18
+art_031,0.4789156626506024,Google,native_entity_sentiment,gpt-5-5,Al Jazeera,immigration,humanitarian,0.4805882352941176,-0.0016725726435151689,0.35
+art_051,0.3811320754716981,Google,native_entity_sentiment,gpt-5-5,The Hindu,immigration,neutral,0.5826923076923077,-0.20156023222060965,34.59
+art_052,0.48,Google,native_entity_sentiment,gpt-5-5,The Hindu,immigration,neutral,0.5826923076923077,-0.10269230769230775,17.62
+art_057,0.2717791411042944,Google,native_entity_sentiment,gpt-5-5,Fox News,immigration,neutral,0.3571428571428572,-0.0853637160385628,23.9
+art_058,0.3777777777777777,Google,native_entity_sentiment,gpt-5-5,South China Morning Post,immigration,humanitarian,0.5765625,-0.19878472222222227,34.48
+art_062,0.2988023952095808,Google,native_entity_sentiment,gpt-5-5,Reuters,immigration,neutral,0.4947368421052631,-0.1959344468956823,39.6
+art_063,0.4868852459016393,Google,native_entity_sentiment,gpt-5-5,Al Jazeera,immigration,neutral,0.4793388429752066,0.00754640292643266,-1.57
+art_065,0.4726315789473684,Google,native_entity_sentiment,gpt-5-5,Le Monde,immigration,neutral,0.471875,0.0007565789473684137,-0.16
+art_070,0.3971223021582734,Google,native_entity_sentiment,gpt-5-5,CNN,immigration,neutral,0.4862318840579709,-0.08910958189969753,18.33
+art_072,0.3967105263157895,Google,native_entity_sentiment,gpt-5-5,Reuters,immigration,neutral,0.5925,-0.1957894736842105,33.04
+art_076,0.3882758620689655,Google,native_entity_sentiment,gpt-5-5,News24,immigration,neutral,0.7,-0.31172413793103443,44.53
+art_079,0.0507936507936507,Google,native_entity_sentiment,gpt-5-5,Fox News,immigration,security,0.1477611940298507,-0.0969675432362,65.62
+art_086,0.0428571428571428,Google,native_entity_sentiment,gpt-5-5,Le Monde,immigration,neutral,0.0585185185185185,-0.015661375661375695,26.76
+art_088,0.1910958904109589,Google,native_entity_sentiment,gpt-5-5,The Guardian,immigration,humanitarian,0.2898648648648648,-0.0987689744539059,34.07
+art_089,0.0128,Google,native_entity_sentiment,gpt-5-5,Al Jazeera,immigration,neutral,0.0246031746031746,-0.011803174603174598,47.97
+art_091,0.0313868613138686,Google,native_entity_sentiment,gpt-5-5,Global Times,immigration,neutral,0.0410071942446043,-0.009620332930735699,23.46
+art_092,0.0080459770114942,Google,native_entity_sentiment,gpt-5-5,Global Times,immigration,neutral,0.0078651685393258,0.00018080847216840092,-2.3
+art_113,0.2925,Google,native_entity_sentiment,gpt-5-5,Daily Maverick,political conflict,people-centric,0.2858333333333333,0.00666666666666671,-2.33
+art_114,0.4142857142857143,Google,native_entity_sentiment,gpt-5-5,RT News,political conflict,neutral,0.4231884057971014,-0.008902691511387062,2.1
+art_118,0.3559701492537314,Google,native_entity_sentiment,gpt-5-5,Reuters,political conflict,neutral,0.6643410852713177,-0.30837093601758636,46.42
+art_125,0.458974358974359,Google,native_entity_sentiment,gpt-5-5,The Hindu,political conflict,people-centric,0.5601769911504425,-0.1012026321760835,18.07
+art_130,0.4430379746835443,Google,native_entity_sentiment,gpt-5-5,Reuters,political conflict,neutral,0.6571428571428571,-0.21410488245931286,32.58
+art_135,0.2739130434782608,Google,native_entity_sentiment,gpt-5-5,Global Times,political conflict,state-centric,0.2749999999999999,-0.0010869565217391242,0.4
+art_171,0.1,Google,native_entity_sentiment,gpt-5-5,Xinhua,political conflict,state-centric,0.010204081632653,0.089795918367347,-880.0
+art_178,0.2080246913580247,Google,native_entity_sentiment,gpt-5-5,Fox News,environment,skeptical,0.2063291139240506,0.0016955774339741103,-0.82
+art_184,0.1052631578947368,Google,native_entity_sentiment,gpt-5-5,News24,environment,neutral,0.1210526315789473,-0.015789473684210506,13.04
+art_187,0.013953488372093,Google,native_entity_sentiment,gpt-5-5,South China Morning Post,environment,concern,0.0130434782608695,0.0009100101112235002,-6.98
+art_190,0.1808510638297872,Google,native_entity_sentiment,gpt-5-5,South China Morning Post,environment,concern,0.1714285714285714,0.009422492401215787,-5.5
+art_197,0.2848314606741572,Google,native_entity_sentiment,gpt-5-5,Le Monde,environment,neutral,0.2927777777777777,-0.007946317103620482,2.71
+art_201,0.2729999999999999,Google,native_entity_sentiment,gpt-5-5,Reuters,environment,concern,0.2875,-0.014500000000000068,5.04
+art_202,0.0,Google,native_entity_sentiment,gpt-5-5,The Hindu,environment,concern,0.0,0.0,
+art_204,0.0192660550458715,Google,native_entity_sentiment,gpt-5-5,Global Times,environment,neutral,0.081081081081081,-0.0618150260352095,76.24
+art_209,0.2803370786516854,Google,native_entity_sentiment,gpt-5-5,CNN,environment,concern,0.2716763005780346,0.008660778073650788,-3.19
+art_210,0.173076923076923,Google,native_entity_sentiment,gpt-5-5,Le Monde,environment,concern,0.1835820895522388,-0.010505166475315797,5.72
+art_212,0.1895833333333333,Google,native_entity_sentiment,gpt-5-5,Reuters,environment,concern,0.1971830985915492,-0.007599765258215901,3.85
+art_213,0.3333333333333333,Google,native_entity_sentiment,gpt-5-5,RT News,environment,skeptical,0.4351648351648352,-0.10183150183150186,23.4
+art_214,0.1045751633986928,Google,native_entity_sentiment,gpt-5-5,Al Jazeera,environment,concern,0.1025157232704402,0.0020594401282525987,-2.01
+art_215,0.1080246913580246,Google,native_entity_sentiment,gpt-5-5,Reuters,environment,concern,0.1057324840764331,0.0022922072815915046,-2.17
+art_218,0.2618749999999999,Google,native_entity_sentiment,gpt-5-5,Fox News,environment,skeptical,0.267515923566879,-0.005640923566879064,2.11
+art_219,0.2779411764705882,Google,native_entity_sentiment,gpt-5-5,Global Times,environment,neutral,0.3594405594405594,-0.08149938296997122,22.67
+art_222,0.0920529801324503,Google,native_entity_sentiment,gpt-5-5,The Guardian,environment,concern,0.0980132450331125,-0.005960264900662204,6.08
+art_223,0.2023668639053254,Google,native_entity_sentiment,gpt-5-5,Le Monde,environment,concern,0.1988304093567251,0.0035364545486002985,-1.78
+art_224,0.2791139240506329,Google,native_entity_sentiment,gpt-5-5,News24,environment,neutral,0.270253164556962,0.008860759493670878,-3.28
+art_225,0.2081395348837209,Google,native_entity_sentiment,gpt-5-5,The Hindu,environment,concern,0.1891566265060241,0.018982908377696783,-10.04
+art_230,0.1023255813953488,Google,native_entity_sentiment,gpt-5-5,Le Monde,environment,concern,0.0953846153846153,0.00694096601073349,-7.28
+art_231,0.1130952380952381,Google,native_entity_sentiment,gpt-5-5,Fox News,environment,concern,0.1188235294117647,-0.005728291316526607,4.82
+art_232,0.1105960264900662,Google,native_entity_sentiment,gpt-5-5,Straits Times,environment,neutral,0.1098684210526315,0.0007276054374346919,-0.66
+art_001,0.1282613816568566,AWS,sentence_context_projection,gpt-5-5,Fox News,immigration,security,0.1809637845445552,-0.05270240288769859,29.12
+art_017,0.1046644537351331,AWS,sentence_context_projection,gpt-5-5,France 24,immigration,neutral,0.197587814257187,-0.0929233605220539,47.03
+art_018,0.1362530206044044,AWS,sentence_context_projection,gpt-5-5,The Guardian,immigration,humanitarian,0.1615171728378342,-0.025264152233429815,15.64
+art_031,0.0808202917564879,AWS,sentence_context_projection,gpt-5-5,Al Jazeera,immigration,humanitarian,0.1255776906913291,-0.044757398934841194,35.64
+art_051,0.057101716053685,AWS,sentence_context_projection,gpt-5-5,The Hindu,immigration,neutral,0.0454195305379004,0.0116821855157846,-25.72
+art_052,0.0555724492821659,AWS,sentence_context_projection,gpt-5-5,The Hindu,immigration,neutral,0.0454195305379004,0.0101529187442655,-22.35
+art_057,0.0720903146269708,AWS,sentence_context_projection,gpt-5-5,Fox News,immigration,neutral,0.1725463362190416,-0.10045602159207082,58.22
+art_058,0.024927689801406,AWS,sentence_context_projection,gpt-5-5,South China Morning Post,immigration,humanitarian,0.062960778659877,-0.038033088858470995,60.41
+art_062,0.1027975849389436,AWS,sentence_context_projection,gpt-5-5,Reuters,immigration,neutral,0.0985773163386958,0.004220268600247795,-4.28
+art_063,0.0703574840443051,AWS,sentence_context_projection,gpt-5-5,Al Jazeera,immigration,neutral,0.0715023092766808,-0.001144825232375704,1.6
+art_065,0.086491029302355,AWS,sentence_context_projection,gpt-5-5,Le Monde,immigration,neutral,0.0846272522962596,0.001863777006095399,-2.2
+art_070,0.1154220671275481,AWS,sentence_context_projection,gpt-5-5,CNN,immigration,neutral,0.1269313964729627,-0.011509329345414598,9.07
+art_072,0.050283167067119,AWS,sentence_context_projection,gpt-5-5,Reuters,immigration,neutral,0.0457886874430231,0.004494479624095903,-9.82
+art_076,0.0531985536325037,AWS,sentence_context_projection,gpt-5-5,News24,immigration,neutral,0.0998847410712391,-0.0466861874387354,46.74
+art_079,0.0956822119201751,AWS,sentence_context_projection,gpt-5-5,Fox News,immigration,security,0.1090741782936485,-0.013391966373473396,12.28
+art_086,0.1871238867764942,AWS,sentence_context_projection,gpt-5-5,Le Monde,immigration,neutral,0.2104702706987761,-0.023346383922281916,11.09
+art_088,0.1728541152841081,AWS,sentence_context_projection,gpt-5-5,The Guardian,immigration,humanitarian,0.2716295305479557,-0.09877541526384759,36.36
+art_089,0.0167076453397609,AWS,sentence_context_projection,gpt-5-5,Al Jazeera,immigration,neutral,0.0348734472541425,-0.0181658019143816,52.09
+art_091,0.0560954366869453,AWS,sentence_context_projection,gpt-5-5,Global Times,immigration,neutral,0.0500037191382751,0.006091717548670196,-12.18
+art_092,0.0336902696281488,AWS,sentence_context_projection,gpt-5-5,Global Times,immigration,neutral,0.0342442679355687,-0.000553998307419902,1.62
+art_113,0.2371888899917914,AWS,sentence_context_projection,gpt-5-5,Daily Maverick,political conflict,people-centric,0.2232493015811045,0.013939588410686904,-6.24
+art_114,0.0619513523725434,AWS,sentence_context_projection,gpt-5-5,RT News,political conflict,neutral,0.0840910119194555,-0.022139659546912105,26.33
+art_118,0.112974487425465,AWS,sentence_context_projection,gpt-5-5,Reuters,political conflict,neutral,0.0682375145263239,0.044736972899141095,-65.56
+art_125,0.1303343579912894,AWS,sentence_context_projection,gpt-5-5,The Hindu,political conflict,people-centric,0.2819351452634739,-0.1516007872721845,53.77
+art_130,0.0774451213049463,AWS,sentence_context_projection,gpt-5-5,Reuters,political conflict,neutral,0.0522702528255502,0.025174868479396095,-48.16
+art_135,0.1616960909849013,AWS,sentence_context_projection,gpt-5-5,Global Times,political conflict,state-centric,0.1764423805802428,-0.014746289595341522,8.36
+art_171,0.0107931671276426,AWS,sentence_context_projection,gpt-5-5,Xinhua,political conflict,state-centric,0.0088072391469493,0.001985927980693301,-22.55
+art_178,0.064645612885162,AWS,sentence_context_projection,gpt-5-5,Fox News,environment,skeptical,0.0910050472642379,-0.026359434379075897,28.96
+art_184,0.0749012957998152,AWS,sentence_context_projection,gpt-5-5,News24,environment,neutral,0.0699796033808606,0.004921692418954612,-7.03
+art_187,0.0311020987644522,AWS,sentence_context_projection,gpt-5-5,South China Morning Post,environment,concern,0.0547476587798101,-0.023645560015357902,43.19
+art_190,0.0751838354218751,AWS,sentence_context_projection,gpt-5-5,South China Morning Post,environment,concern,0.1462838354218751,-0.0711,48.6
+art_197,0.243396003561998,AWS,sentence_context_projection,gpt-5-5,Le Monde,environment,neutral,0.3101944841269433,-0.06679848056494528,21.53
+art_201,0.4129947209961246,AWS,sentence_context_projection,gpt-5-5,Reuters,environment,concern,0.2887285442199996,0.124266176776125,-43.04
+art_204,0.0548463800017957,AWS,sentence_context_projection,gpt-5-5,Global Times,environment,neutral,0.1170685152311316,-0.062222135229335895,53.15
+art_209,0.1200128734247459,AWS,sentence_context_projection,gpt-5-5,CNN,environment,concern,0.2510100659197933,-0.1309971924950474,52.19
+art_210,0.1556741786834616,AWS,sentence_context_projection,gpt-5-5,Le Monde,environment,concern,0.1378522735304199,0.01782190515304169,-12.93
+art_212,0.240093028318153,AWS,sentence_context_projection,gpt-5-5,Reuters,environment,concern,0.1917646706663848,0.04832835765176818,-25.2
+art_213,0.0776710278006274,AWS,sentence_context_projection,gpt-5-5,RT News,environment,skeptical,0.4348569418021644,-0.357185914001537,82.14
+art_214,0.5265335490724722,AWS,sentence_context_projection,gpt-5-5,Al Jazeera,environment,concern,0.366434644853927,0.16009890421854517,-43.69
+art_215,0.0884263573090175,AWS,sentence_context_projection,gpt-5-5,Reuters,environment,concern,0.0999413766768317,-0.011515019367814197,11.52
+art_218,0.2621090872096546,AWS,sentence_context_projection,gpt-5-5,Fox News,environment,skeptical,0.2679850609189813,-0.005875973709326687,2.19
+art_219,0.2234889977612484,AWS,sentence_context_projection,gpt-5-5,Global Times,environment,neutral,0.2112522817350394,0.012236716026208988,-5.79
+art_222,0.0393719447520251,AWS,sentence_context_projection,gpt-5-5,The Guardian,environment,concern,0.1487489992903545,-0.10937705453832941,73.53
+art_223,0.2601285364543859,AWS,sentence_context_projection,gpt-5-5,Le Monde,environment,concern,0.2644363935509269,-0.0043078570965410234,1.63
+art_224,0.4771909712499122,AWS,sentence_context_projection,gpt-5-5,News24,environment,neutral,0.5710401466178495,-0.0938491753679373,16.43
+art_225,0.1184515339158939,AWS,sentence_context_projection,gpt-5-5,The Hindu,environment,concern,0.3299420084184191,-0.21149047450252517,64.1
+art_230,0.0713339919744092,AWS,sentence_context_projection,gpt-5-5,Le Monde,environment,concern,0.0151565750760425,0.05617741689836671,-370.65
+art_231,0.111867768988572,AWS,sentence_context_projection,gpt-5-5,Fox News,environment,concern,0.1149626203742002,-0.0030948513856282056,2.69
+art_232,0.0670341602877439,AWS,sentence_context_projection,gpt-5-5,Straits Times,environment,neutral,0.5226968932975548,-0.45566273300981086,87.18
+art_001,0.0679487179487179,Google,native_entity_sentiment,gemini-2.5-pro,Fox News,immigration,security,0.0644578313253012,0.0034908866234167057,-5.42
+art_017,0.2823529411764706,Google,native_entity_sentiment,gemini-2.5-pro,France 24,immigration,neutral,0.3813664596273292,-0.0990135184508586,25.96
+art_018,0.2826923076923077,Google,native_entity_sentiment,gemini-2.5-pro,The Guardian,immigration,humanitarian,0.3928571428571429,-0.11016483516483522,28.04
+art_031,0.3732919254658385,Google,native_entity_sentiment,gemini-2.5-pro,Al Jazeera,immigration,humanitarian,0.4805882352941176,-0.10729630982827909,22.33
+art_051,0.3981132075471698,Google,native_entity_sentiment,gemini-2.5-pro,The Hindu,immigration,neutral,0.5826923076923077,-0.18457910014513795,31.68
+art_052,0.4,Google,native_entity_sentiment,gemini-2.5-pro,The Hindu,immigration,neutral,0.5826923076923077,-0.1826923076923077,31.35
+art_057,0.3613095238095238,Google,native_entity_sentiment,gemini-2.5-pro,Fox News,immigration,neutral,0.3571428571428572,0.004166666666666596,-1.17
+art_058,0.3876923076923077,Google,native_entity_sentiment,gemini-2.5-pro,South China Morning Post,immigration,humanitarian,0.5765625,-0.18887019230769225,32.76
+art_062,0.292814371257485,Google,native_entity_sentiment,gemini-2.5-pro,Reuters,immigration,neutral,0.4947368421052631,-0.2019224708477781,40.81
+art_063,0.473394495412844,Google,native_entity_sentiment,gemini-2.5-pro,Al Jazeera,immigration,neutral,0.4793388429752066,-0.005944347562362617,1.24
+art_065,0.475,Google,native_entity_sentiment,gemini-2.5-pro,Le Monde,immigration,neutral,0.471875,0.003124999999999989,-0.66
+art_070,0.3958041958041958,Google,native_entity_sentiment,gemini-2.5-pro,CNN,immigration,neutral,0.4862318840579709,-0.09042768825377512,18.6
+art_076,0.2872,Google,native_entity_sentiment,gemini-2.5-pro,News24,immigration,neutral,0.7,-0.41279999999999994,58.97
+art_079,0.0559322033898305,Google,native_entity_sentiment,gemini-2.5-pro,Fox News,immigration,security,0.1477611940298507,-0.09182899064002019,62.15
+art_086,0.0379032258064516,Google,native_entity_sentiment,gemini-2.5-pro,Le Monde,immigration,neutral,0.0585185185185185,-0.0206152927120669,35.23
+art_088,0.1925675675675675,Google,native_entity_sentiment,gemini-2.5-pro,The Guardian,immigration,humanitarian,0.2898648648648648,-0.0972972972972973,33.57
+art_089,0.0065573770491803,Google,native_entity_sentiment,gemini-2.5-pro,Al Jazeera,immigration,neutral,0.0246031746031746,-0.018045797553994297,73.35
+art_091,0.0401408450704225,Google,native_entity_sentiment,gemini-2.5-pro,Global Times,immigration,neutral,0.0410071942446043,-0.0008663491741817964,2.11
+art_092,0.0078651685393258,Google,native_entity_sentiment,gemini-2.5-pro,Global Times,immigration,neutral,0.0078651685393258,0.0,0.0
+art_113,0.287037037037037,Google,native_entity_sentiment,gemini-2.5-pro,Daily Maverick,political conflict,people-centric,0.2858333333333333,0.0012037037037037068,-0.42
+art_114,0.436986301369863,Google,native_entity_sentiment,gemini-2.5-pro,RT News,political conflict,neutral,0.4231884057971014,0.01379789557276162,-3.26
+art_118,0.4578125,Google,native_entity_sentiment,gemini-2.5-pro,Reuters,political conflict,neutral,0.6643410852713177,-0.20652858527131773,31.09
+art_125,0.3722689075630252,Google,native_entity_sentiment,gemini-2.5-pro,The Hindu,political conflict,people-centric,0.5601769911504425,-0.18790808358741729,33.54
+art_130,0.4542168674698795,Google,native_entity_sentiment,gemini-2.5-pro,Reuters,political conflict,neutral,0.6571428571428571,-0.20292598967297765,30.88
+art_135,0.2762886597938144,Google,native_entity_sentiment,gemini-2.5-pro,Global Times,political conflict,state-centric,0.2749999999999999,0.001288659793814484,-0.47
+art_171,0.0,Google,native_entity_sentiment,gemini-2.5-pro,Xinhua,political conflict,state-centric,0.010204081632653,-0.010204081632653,100.0
+art_178,0.2117647058823529,Google,native_entity_sentiment,gemini-2.5-pro,Fox News,environment,skeptical,0.2063291139240506,0.005435591958302316,-2.63
+art_184,0.0555555555555555,Google,native_entity_sentiment,gemini-2.5-pro,News24,environment,neutral,0.1210526315789473,-0.0654970760233918,54.11
+art_187,0.0444444444444444,Google,native_entity_sentiment,gemini-2.5-pro,South China Morning Post,environment,concern,0.0130434782608695,0.031400966183574894,-240.74
+art_190,0.1775510204081632,Google,native_entity_sentiment,gemini-2.5-pro,South China Morning Post,environment,concern,0.1714285714285714,0.006122448979591799,-3.57
+art_197,0.276875,Google,native_entity_sentiment,gemini-2.5-pro,Le Monde,environment,neutral,0.2927777777777777,-0.01590277777777771,5.43
+art_201,0.1725274725274725,Google,native_entity_sentiment,gemini-2.5-pro,Reuters,environment,concern,0.2875,-0.11497252747252748,39.99
+art_202,0.0,Google,native_entity_sentiment,gemini-2.5-pro,The Hindu,environment,concern,0.0,0.0,
+art_204,0.083,Google,native_entity_sentiment,gemini-2.5-pro,Global Times,environment,neutral,0.081081081081081,0.001918918918919002,-2.37
+art_209,0.2872222222222222,Google,native_entity_sentiment,gemini-2.5-pro,CNN,environment,concern,0.2716763005780346,0.01554592164418761,-5.72
+art_210,0.1648,Google,native_entity_sentiment,gemini-2.5-pro,Le Monde,environment,concern,0.1835820895522388,-0.018782089552238784,10.23
+art_212,0.1683453237410072,Google,native_entity_sentiment,gemini-2.5-pro,Reuters,environment,concern,0.1971830985915492,-0.02883777485054201,14.62
+art_213,0.4474358974358974,Google,native_entity_sentiment,gemini-2.5-pro,RT News,environment,skeptical,0.4351648351648352,0.012271062271062227,-2.82
+art_214,0.0981012658227848,Google,native_entity_sentiment,gemini-2.5-pro,Al Jazeera,environment,concern,0.1025157232704402,-0.0044144574476553955,4.31
+art_215,0.1082278481012658,Google,native_entity_sentiment,gemini-2.5-pro,Reuters,environment,concern,0.1057324840764331,0.0024953640248327053,-2.36
+art_218,0.2749999999999999,Google,native_entity_sentiment,gemini-2.5-pro,Fox News,environment,skeptical,0.267515923566879,0.007484076433120934,-2.8
+art_219,0.199236641221374,Google,native_entity_sentiment,gemini-2.5-pro,Global Times,environment,neutral,0.3594405594405594,-0.16020391821918542,44.57
+art_222,0.1024242424242424,Google,native_entity_sentiment,gemini-2.5-pro,The Guardian,environment,concern,0.0980132450331125,0.004410997391129906,-4.5
+art_223,0.181547619047619,Google,native_entity_sentiment,gemini-2.5-pro,Le Monde,environment,concern,0.1988304093567251,-0.017282790309106094,8.69
+art_224,0.1763888888888889,Google,native_entity_sentiment,gemini-2.5-pro,News24,environment,neutral,0.270253164556962,-0.09386427566807312,34.73
+art_225,0.2076470588235294,Google,native_entity_sentiment,gemini-2.5-pro,The Hindu,environment,concern,0.1891566265060241,0.0184904323175053,-9.78
+art_230,0.0969465648854961,Google,native_entity_sentiment,gemini-2.5-pro,Le Monde,environment,concern,0.0953846153846153,0.001561949500880802,-1.64
+art_231,0.1142857142857143,Google,native_entity_sentiment,gemini-2.5-pro,Fox News,environment,concern,0.1188235294117647,-0.004537815126050407,3.82
+art_232,0.110204081632653,Google,native_entity_sentiment,gemini-2.5-pro,Straits Times,environment,neutral,0.1098684210526315,0.0003356605800214907,-0.31
+art_001,0.1817721448819773,AWS,sentence_context_projection,gemini-2.5-pro,Fox News,immigration,security,0.1809637845445552,0.0008083603374220982,-0.45
+art_017,0.1038135178823758,AWS,sentence_context_projection,gemini-2.5-pro,France 24,immigration,neutral,0.197587814257187,-0.09377429637481119,47.46
+art_018,0.1173169431437505,AWS,sentence_context_projection,gemini-2.5-pro,The Guardian,immigration,humanitarian,0.1615171728378342,-0.0442002296940837,27.37
+art_031,0.0857998641996637,AWS,sentence_context_projection,gemini-2.5-pro,Al Jazeera,immigration,humanitarian,0.1255776906913291,-0.03977782649166539,31.68
+art_051,0.0427030260322615,AWS,sentence_context_projection,gemini-2.5-pro,The Hindu,immigration,neutral,0.0454195305379004,-0.0027165045056389003,5.98
+art_052,0.0387262308698729,AWS,sentence_context_projection,gemini-2.5-pro,The Hindu,immigration,neutral,0.0454195305379004,-0.006693299668027494,14.74
+art_057,0.0584766055427116,AWS,sentence_context_projection,gemini-2.5-pro,Fox News,immigration,neutral,0.1725463362190416,-0.11406973067633001,66.11
+art_058,0.0374385837369603,AWS,sentence_context_projection,gemini-2.5-pro,South China Morning Post,immigration,humanitarian,0.062960778659877,-0.025522194922916693,40.54
+art_062,0.1000404186755093,AWS,sentence_context_projection,gemini-2.5-pro,Reuters,immigration,neutral,0.0985773163386958,0.0014631023368134877,-1.48
+art_063,0.0743918424301874,AWS,sentence_context_projection,gemini-2.5-pro,Al Jazeera,immigration,neutral,0.0715023092766808,0.002889533153506596,-4.04
+art_065,0.0943998205692464,AWS,sentence_context_projection,gemini-2.5-pro,Le Monde,immigration,neutral,0.0846272522962596,0.009772568272986795,-11.55
+art_070,0.0451084487705167,AWS,sentence_context_projection,gemini-2.5-pro,CNN,immigration,neutral,0.1269313964729627,-0.081822947702446,64.46
+art_076,0.0533433628303288,AWS,sentence_context_projection,gemini-2.5-pro,News24,immigration,neutral,0.0998847410712391,-0.0465413782409103,46.6
+art_079,0.1058199489175275,AWS,sentence_context_projection,gemini-2.5-pro,Fox News,immigration,security,0.1090741782936485,-0.0032542293761210067,2.98
+art_086,0.1920703090707857,AWS,sentence_context_projection,gemini-2.5-pro,Le Monde,immigration,neutral,0.2104702706987761,-0.018399961627990402,8.74
+art_088,0.1466524657260612,AWS,sentence_context_projection,gemini-2.5-pro,The Guardian,immigration,humanitarian,0.2716295305479557,-0.1249770648218945,46.01
+art_089,0.0158874092829665,AWS,sentence_context_projection,gemini-2.5-pro,Al Jazeera,immigration,neutral,0.0348734472541425,-0.018986037971176,54.44
+art_091,0.0594390639436253,AWS,sentence_context_projection,gemini-2.5-pro,Global Times,immigration,neutral,0.0500037191382751,0.009435344805350201,-18.87
+art_092,0.0283260742294989,AWS,sentence_context_projection,gemini-2.5-pro,Global Times,immigration,neutral,0.0342442679355687,-0.005918193706069802,17.28
+art_113,0.1649092049377217,AWS,sentence_context_projection,gemini-2.5-pro,Daily Maverick,political conflict,people-centric,0.2232493015811045,-0.0583400966433828,26.13
+art_114,0.0566868114980985,AWS,sentence_context_projection,gemini-2.5-pro,RT News,political conflict,neutral,0.0840910119194555,-0.02740420042135701,32.59
+art_118,0.0686382020396131,AWS,sentence_context_projection,gemini-2.5-pro,Reuters,political conflict,neutral,0.0682375145263239,0.0004006875132891996,-0.59
+art_125,0.096295215931362,AWS,sentence_context_projection,gemini-2.5-pro,The Hindu,political conflict,people-centric,0.2819351452634739,-0.1856399293321119,65.84
+art_130,0.0324942642883623,AWS,sentence_context_projection,gemini-2.5-pro,Reuters,political conflict,neutral,0.0522702528255502,-0.0197759885371879,37.83
+art_135,0.1918872569919047,AWS,sentence_context_projection,gemini-2.5-pro,Global Times,political conflict,state-centric,0.1764423805802428,0.015444876411661895,-8.75
+art_171,0.0080345119028221,AWS,sentence_context_projection,gemini-2.5-pro,Xinhua,political conflict,state-centric,0.0088072391469493,-0.0007727272441272002,8.77
+art_178,0.079536791234599,AWS,sentence_context_projection,gemini-2.5-pro,Fox News,environment,skeptical,0.0910050472642379,-0.011468256029638899,12.6
+art_184,0.0519168590684465,AWS,sentence_context_projection,gemini-2.5-pro,News24,environment,neutral,0.0699796033808606,-0.018062744312414093,25.81
+art_187,0.0399209433854478,AWS,sentence_context_projection,gemini-2.5-pro,South China Morning Post,environment,concern,0.0547476587798101,-0.014826715394362304,27.08
+art_190,0.0761838354218751,AWS,sentence_context_projection,gemini-2.5-pro,South China Morning Post,environment,concern,0.1462838354218751,-0.0701,47.92
+art_197,0.1452327012876178,AWS,sentence_context_projection,gemini-2.5-pro,Le Monde,environment,neutral,0.3101944841269433,-0.16496178283932547,53.18
+art_201,0.4069260396038673,AWS,sentence_context_projection,gemini-2.5-pro,Reuters,environment,concern,0.2887285442199996,0.1181974953838677,-40.94
+art_204,0.0650353603813163,AWS,sentence_context_projection,gemini-2.5-pro,Global Times,environment,neutral,0.1170685152311316,-0.0520331548498153,44.45
+art_209,0.1162301453392299,AWS,sentence_context_projection,gemini-2.5-pro,CNN,environment,concern,0.2510100659197933,-0.1347799205805634,53.7
+art_210,0.1394262076367805,AWS,sentence_context_projection,gemini-2.5-pro,Le Monde,environment,concern,0.1378522735304199,0.0015739341063606138,-1.14
+art_212,0.4518390417512482,AWS,sentence_context_projection,gemini-2.5-pro,Reuters,environment,concern,0.1917646706663848,0.2600743710848634,-135.62
+art_213,0.3319983226596378,AWS,sentence_context_projection,gemini-2.5-pro,RT News,environment,skeptical,0.4348569418021644,-0.10285861914252659,23.65
+art_214,0.4365332264334614,AWS,sentence_context_projection,gemini-2.5-pro,Al Jazeera,environment,concern,0.366434644853927,0.07009858157953436,-19.13
+art_215,0.0648947484359169,AWS,sentence_context_projection,gemini-2.5-pro,Reuters,environment,concern,0.0999413766768317,-0.0350466282409148,35.07
+art_218,0.3544069243372604,AWS,sentence_context_projection,gemini-2.5-pro,Fox News,environment,skeptical,0.2679850609189813,0.08642186341827912,-32.25
+art_219,0.1904754566706897,AWS,sentence_context_projection,gemini-2.5-pro,Global Times,environment,neutral,0.2112522817350394,-0.02077682506434969,9.84
+art_222,0.0829226904801093,AWS,sentence_context_projection,gemini-2.5-pro,The Guardian,environment,concern,0.1487489992903545,-0.0658263088102452,44.25
+art_223,0.1235155882548881,AWS,sentence_context_projection,gemini-2.5-pro,Le Monde,environment,concern,0.2644363935509269,-0.1409208052960388,53.29
+art_224,0.3601101660819306,AWS,sentence_context_projection,gemini-2.5-pro,News24,environment,neutral,0.5710401466178495,-0.21092998053591894,36.94
+art_225,0.1027837918215892,AWS,sentence_context_projection,gemini-2.5-pro,The Hindu,environment,concern,0.3299420084184191,-0.2271582165968299,68.85
+art_230,0.0694737539279204,AWS,sentence_context_projection,gemini-2.5-pro,Le Monde,environment,concern,0.0151565750760425,0.05431717885187791,-358.37
+art_231,0.0550151257110005,AWS,sentence_context_projection,gemini-2.5-pro,Fox News,environment,concern,0.1149626203742002,-0.0599474946631997,52.15
+art_232,0.0241332562260831,AWS,sentence_context_projection,gemini-2.5-pro,Straits Times,environment,neutral,0.5226968932975548,-0.49856363707147167,95.38
+art_001,0.3055487804878048,Azure,sentence_context_projection,gpt-4o,Fox News,immigration,security,0.3613125,-0.055763719512195165,15.43
+art_017,0.532495126705653,Azure,sentence_context_projection,gpt-4o,France 24,immigration,neutral,0.4345231481481481,0.09797197855750495,-22.55
+art_018,0.5182222222222223,Azure,sentence_context_projection,gpt-4o,The Guardian,immigration,humanitarian,0.5705555555555556,-0.05233333333333334,9.17
+art_031,0.3174474610356964,Azure,sentence_context_projection,gpt-4o,Al Jazeera,immigration,humanitarian,0.1417964285714285,0.1756510324642679,-123.88
+art_051,0.4013636363636363,Azure,sentence_context_projection,gpt-4o,The Hindu,immigration,neutral,0.2122222222222222,0.1891414141414141,-89.12
+art_052,0.4273076923076923,Azure,sentence_context_projection,gpt-4o,The Hindu,immigration,neutral,0.2122222222222222,0.21508547008547008,-101.35
+art_057,0.5801838095238095,Azure,sentence_context_projection,gpt-4o,Fox News,immigration,neutral,0.4654611823361823,0.11472262718762727,-24.65
+art_058,0.094,Azure,sentence_context_projection,gpt-4o,South China Morning Post,immigration,humanitarian,0.5516666666666666,-0.45766666666666667,82.96
+art_062,0.5189333333333334,Azure,sentence_context_projection,gpt-4o,Reuters,immigration,neutral,0.6211490683229813,-0.10221573498964798,16.46
+art_063,0.0850681818181818,Azure,sentence_context_projection,gpt-4o,Al Jazeera,immigration,neutral,0.3758525956801819,-0.2907844138620001,77.37
+art_065,0.4262083333333333,Azure,sentence_context_projection,gpt-4o,Le Monde,immigration,neutral,0.458,-0.03179166666666672,6.94
+art_070,0.392560975609756,Azure,sentence_context_projection,gpt-4o,CNN,immigration,neutral,0.2796404958677685,0.11292047974198749,-40.38
+art_072,0.3982738095238095,Azure,sentence_context_projection,gpt-4o,Reuters,immigration,neutral,0.3325757575757576,0.0656980519480519,-19.75
+art_076,0.4680666666666667,Azure,sentence_context_projection,gpt-4o,News24,immigration,neutral,0.1335483870967741,0.33451827956989255,-250.48
+art_079,0.0907954545454545,Azure,sentence_context_projection,gpt-4o,Fox News,immigration,security,0.1932999999999999,-0.10250454545454539,53.03
+art_086,0.38351,Azure,sentence_context_projection,gpt-4o,Le Monde,immigration,neutral,0.3007472766884531,0.08276272331154694,-27.52
+art_088,0.4093862433862434,Azure,sentence_context_projection,gpt-4o,The Guardian,immigration,humanitarian,0.5066752136752136,-0.09728897028897021,19.2
+art_089,0.3146384439359267,Azure,sentence_context_projection,gpt-4o,Al Jazeera,immigration,neutral,0.2027856598016781,0.11185278413424862,-55.16
+art_091,0.7486481481481482,Azure,sentence_context_projection,gpt-4o,Global Times,immigration,neutral,0.8040706605222734,-0.05542251237412521,6.89
+art_092,0.7236086956521739,Azure,sentence_context_projection,gpt-4o,Global Times,immigration,neutral,0.6428794326241135,0.08072926302806038,-12.56
+art_113,0.361,Azure,sentence_context_projection,gpt-4o,Daily Maverick,political conflict,people-centric,0.4731944444444444,-0.11219444444444443,23.71
+art_114,0.3043636363636363,Azure,sentence_context_projection,gpt-4o,RT News,political conflict,neutral,0.2664583333333333,0.037905303030302984,-14.23
+art_118,0.2697727272727272,Azure,sentence_context_projection,gpt-4o,Reuters,political conflict,neutral,0.1016666666666667,0.16810606060606054,-165.35
+art_125,0.395,Azure,sentence_context_projection,gpt-4o,The Hindu,political conflict,people-centric,0.1779166666666666,0.2170833333333334,-122.01
+art_130,0.3399999999999999,Azure,sentence_context_projection,gpt-4o,Reuters,political conflict,neutral,0.12,0.21999999999999992,-183.33
+art_135,0.4397619047619047,Azure,sentence_context_projection,gpt-4o,Global Times,political conflict,state-centric,0.5089523809523809,-0.06919047619047625,13.59
+art_171,0.5691666666666667,Azure,sentence_context_projection,gpt-4o,Xinhua,political conflict,state-centric,0.46875,0.10041666666666671,-21.42
+art_178,0.2927807017543859,Azure,sentence_context_projection,gpt-4o,Fox News,environment,skeptical,0.1406936936936937,0.15208700806069222,-108.1
+art_184,1.0308333333333333,Azure,sentence_context_projection,gpt-4o,News24,environment,neutral,0.4316666666666666,0.5991666666666666,-138.8
+art_187,0.2299999999999999,Azure,sentence_context_projection,gpt-4o,South China Morning Post,environment,concern,1.393333333333333,-1.163333333333333,83.49
+art_190,0.82,Azure,sentence_context_projection,gpt-4o,South China Morning Post,environment,concern,0.92,-0.10000000000000009,10.87
+art_197,0.5405555555555556,Azure,sentence_context_projection,gpt-4o,Le Monde,environment,neutral,0.441,0.09955555555555556,-22.57
+art_201,0.5275,Azure,sentence_context_projection,gpt-4o,Reuters,environment,concern,0.4558333333333333,0.07166666666666666,-15.72
+art_204,0.7014583333333333,Azure,sentence_context_projection,gpt-4o,Global Times,environment,neutral,0.7410416666666667,-0.039583333333333415,5.34
+art_209,0.5368421052631579,Azure,sentence_context_projection,gpt-4o,CNN,environment,concern,0.5507785714285715,-0.013936466165413552,2.53
+art_210,0.545,Azure,sentence_context_projection,gpt-4o,Le Monde,environment,concern,0.3190909090909091,0.22590909090909095,-70.8
+art_212,0.5323611111111112,Azure,sentence_context_projection,gpt-4o,Reuters,environment,concern,0.0192307692307692,0.513130341880342,-2668.28
+art_213,0.4727272727272726,Azure,sentence_context_projection,gpt-4o,RT News,environment,skeptical,0.3631111111111111,0.1096161616161615,-30.19
+art_214,0.8352499999999999,Azure,sentence_context_projection,gpt-4o,Al Jazeera,environment,concern,0.7783333333333333,0.056916666666666615,-7.31
+art_215,0.5658974358974359,Azure,sentence_context_projection,gpt-4o,Reuters,environment,concern,0.3017948717948718,0.2641025641025641,-87.51
+art_218,0.3706818181818181,Azure,sentence_context_projection,gpt-4o,Fox News,environment,skeptical,0.3028383838383838,0.06784343434343432,-22.4
+art_219,0.4268589743589743,Azure,sentence_context_projection,gpt-4o,Global Times,environment,neutral,0.3505888888888889,0.0762700854700854,-21.75
+art_222,0.82125,Azure,sentence_context_projection,gpt-4o,The Guardian,environment,concern,0.88,-0.05874999999999997,6.68
+art_223,0.3764285714285714,Azure,sentence_context_projection,gpt-4o,Le Monde,environment,concern,0.3227272727272727,0.053701298701298694,-16.64
+art_224,0.4632692307692307,Azure,sentence_context_projection,gpt-4o,News24,environment,neutral,0.3786333333333333,0.08463589743589739,-22.35
+art_225,0.5768518518518518,Azure,sentence_context_projection,gpt-4o,The Hindu,environment,concern,0.1156666666666666,0.46118518518518525,-398.72
+art_230,0.5883333333333333,Azure,sentence_context_projection,gpt-4o,Le Monde,environment,concern,0.2895833333333333,0.29874999999999996,-103.17
+art_231,0.7611363636363637,Azure,sentence_context_projection,gpt-4o,Fox News,environment,concern,0.8280769230769232,-0.06694055944055943,8.08
+art_232,0.5767543859649122,Azure,sentence_context_projection,gpt-4o,Straits Times,environment,neutral,0.3543137254901961,0.22244066047471617,-62.78
+art_001,0.3589204545454545,Azure,sentence_context_projection,gpt-5-5,Fox News,immigration,security,0.3613125,-0.002392045454545466,0.66
+art_017,0.45756,Azure,sentence_context_projection,gpt-5-5,France 24,immigration,neutral,0.4345231481481481,0.023036851851851947,-5.3
+art_018,0.4046428571428571,Azure,sentence_context_projection,gpt-5-5,The Guardian,immigration,humanitarian,0.5705555555555556,-0.1659126984126985,29.08
+art_031,0.20039940376269,Azure,sentence_context_projection,gpt-5-5,Al Jazeera,immigration,humanitarian,0.1417964285714285,0.05860297519126151,-41.33
+art_051,0.317,Azure,sentence_context_projection,gpt-5-5,The Hindu,immigration,neutral,0.2122222222222222,0.1047777777777778,-49.37
+art_052,0.1993333333333333,Azure,sentence_context_projection,gpt-5-5,The Hindu,immigration,neutral,0.2122222222222222,-0.012888888888888894,6.07
+art_057,0.5641561624649859,Azure,sentence_context_projection,gpt-5-5,Fox News,immigration,neutral,0.4654611823361823,0.09869498012880362,-21.2
+art_058,0.6544444444444445,Azure,sentence_context_projection,gpt-5-5,South China Morning Post,immigration,humanitarian,0.5516666666666666,0.10277777777777786,-18.63
+art_062,0.5210744810744811,Azure,sentence_context_projection,gpt-5-5,Reuters,immigration,neutral,0.6211490683229813,-0.10007458724850027,16.11
+art_063,0.3873986358469117,Azure,sentence_context_projection,gpt-5-5,Al Jazeera,immigration,neutral,0.3758525956801819,0.011546040166729776,-3.07
+art_065,0.3957539682539683,Azure,sentence_context_projection,gpt-5-5,Le Monde,immigration,neutral,0.458,-0.062246031746031716,13.59
+art_070,0.3397349488632662,Azure,sentence_context_projection,gpt-5-5,CNN,immigration,neutral,0.2796404958677685,0.060094452995497705,-21.49
+art_072,0.3515169270833334,Azure,sentence_context_projection,gpt-5-5,Reuters,immigration,neutral,0.3325757575757576,0.018941169507575795,-5.7
+art_076,0.5226747311827957,Azure,sentence_context_projection,gpt-5-5,News24,immigration,neutral,0.1335483870967741,0.38912634408602165,-291.37
+art_079,0.0606733333333333,Azure,sentence_context_projection,gpt-5-5,Fox News,immigration,security,0.1932999999999999,-0.1326266666666666,68.61
+art_086,0.2843560090702948,Azure,sentence_context_projection,gpt-5-5,Le Monde,immigration,neutral,0.3007472766884531,-0.01639126761815829,5.45
+art_088,0.5561302924717558,Azure,sentence_context_projection,gpt-5-5,The Guardian,immigration,humanitarian,0.5066752136752136,0.04945507879654221,-9.76
+art_089,0.209790236460717,Azure,sentence_context_projection,gpt-5-5,Al Jazeera,immigration,neutral,0.2027856598016781,0.007004576659038919,-3.45
+art_091,0.788572403230298,Azure,sentence_context_projection,gpt-5-5,Global Times,immigration,neutral,0.8040706605222734,-0.015498257291975404,1.93
+art_092,0.5981086956521738,Azure,sentence_context_projection,gpt-5-5,Global Times,immigration,neutral,0.6428794326241135,-0.04477073697193967,6.96
+art_113,0.368125,Azure,sentence_context_projection,gpt-5-5,Daily Maverick,political conflict,people-centric,0.4731944444444444,-0.10506944444444444,22.2
+art_114,0.3190909090909091,Azure,sentence_context_projection,gpt-5-5,RT News,political conflict,neutral,0.2664583333333333,0.052632575757575795,-19.75
+art_118,0.3023,Azure,sentence_context_projection,gpt-5-5,Reuters,political conflict,neutral,0.1016666666666667,0.20063333333333333,-197.34
+art_125,0.479090909090909,Azure,sentence_context_projection,gpt-5-5,The Hindu,political conflict,people-centric,0.1779166666666666,0.3011742424242424,-169.28
+art_130,0.12,Azure,sentence_context_projection,gpt-5-5,Reuters,political conflict,neutral,0.12,0.0,0.0
+art_135,0.5508333333333334,Azure,sentence_context_projection,gpt-5-5,Global Times,political conflict,state-centric,0.5089523809523809,0.04188095238095246,-8.23
+art_171,0.4907142857142856,Azure,sentence_context_projection,gpt-5-5,Xinhua,political conflict,state-centric,0.46875,0.021964285714285603,-4.69
+art_178,0.1976140350877193,Azure,sentence_context_projection,gpt-5-5,Fox News,environment,skeptical,0.1406936936936937,0.0569203413940256,-40.46
+art_184,0.4316666666666666,Azure,sentence_context_projection,gpt-5-5,News24,environment,neutral,0.4316666666666666,0.0,0.0
+art_187,0.2566666666666666,Azure,sentence_context_projection,gpt-5-5,South China Morning Post,environment,concern,1.393333333333333,-1.1366666666666665,81.58
+art_190,0.87,Azure,sentence_context_projection,gpt-5-5,South China Morning Post,environment,concern,0.92,-0.050000000000000044,5.43
+art_197,0.466,Azure,sentence_context_projection,gpt-5-5,Le Monde,environment,neutral,0.441,0.025000000000000022,-5.67
+art_201,0.4772527472527473,Azure,sentence_context_projection,gpt-5-5,Reuters,environment,concern,0.4558333333333333,0.021419413919413988,-4.7
+art_204,0.8447058823529412,Azure,sentence_context_projection,gpt-5-5,Global Times,environment,neutral,0.7410416666666667,0.10366421568627449,-13.99
+art_209,0.5091666666666668,Azure,sentence_context_projection,gpt-5-5,CNN,environment,concern,0.5507785714285715,-0.04161190476190468,7.56
+art_210,0.3555,Azure,sentence_context_projection,gpt-5-5,Le Monde,environment,concern,0.3190909090909091,0.03640909090909089,-11.41
+art_212,0.4264102564102564,Azure,sentence_context_projection,gpt-5-5,Reuters,environment,concern,0.0192307692307692,0.4071794871794872,-2117.33
+art_213,0.5486507936507936,Azure,sentence_context_projection,gpt-5-5,RT News,environment,skeptical,0.3631111111111111,0.1855396825396825,-51.1
+art_214,0.7643750000000001,Azure,sentence_context_projection,gpt-5-5,Al Jazeera,environment,concern,0.7783333333333333,-0.013958333333333184,1.79
+art_215,0.6064102564102565,Azure,sentence_context_projection,gpt-5-5,Reuters,environment,concern,0.3017948717948718,0.3046153846153847,-100.93
+art_218,0.3132380952380952,Azure,sentence_context_projection,gpt-5-5,Fox News,environment,skeptical,0.3028383838383838,0.010399711399711409,-3.43
+art_219,0.3558673469387755,Azure,sentence_context_projection,gpt-5-5,Global Times,environment,neutral,0.3505888888888889,0.005278458049886581,-1.51
+art_222,0.7666666666666666,Azure,sentence_context_projection,gpt-5-5,The Guardian,environment,concern,0.88,-0.1133333333333334,12.88
+art_223,0.3646969696969697,Azure,sentence_context_projection,gpt-5-5,Le Monde,environment,concern,0.3227272727272727,0.04196969696969699,-13.0
+art_224,0.3956,Azure,sentence_context_projection,gpt-5-5,News24,environment,neutral,0.3786333333333333,0.016966666666666685,-4.48
+art_225,0.5768518518518518,Azure,sentence_context_projection,gpt-5-5,The Hindu,environment,concern,0.1156666666666666,0.46118518518518525,-398.72
+art_230,0.4025,Azure,sentence_context_projection,gpt-5-5,Le Monde,environment,concern,0.2895833333333333,0.11291666666666672,-38.99
+art_231,0.7991666666666667,Azure,sentence_context_projection,gpt-5-5,Fox News,environment,concern,0.8280769230769232,-0.028910256410256463,3.49
+art_232,0.2657843137254902,Azure,sentence_context_projection,gpt-5-5,Straits Times,environment,neutral,0.3543137254901961,-0.08852941176470586,24.99
+art_001,0.3098137973137973,Azure,sentence_context_projection,gemini-2.5-pro,Fox News,immigration,security,0.3613125,-0.05149870268620266,14.25
+art_017,0.563928947368421,Azure,sentence_context_projection,gemini-2.5-pro,France 24,immigration,neutral,0.4345231481481481,0.12940579922027295,-29.78
+art_018,0.5578333333333333,Azure,sentence_context_projection,gemini-2.5-pro,The Guardian,immigration,humanitarian,0.5705555555555556,-0.012722222222222301,2.23
+art_031,0.2567636363636363,Azure,sentence_context_projection,gemini-2.5-pro,Al Jazeera,immigration,humanitarian,0.1417964285714285,0.11496720779220782,-81.08
+art_051,0.5950000000000001,Azure,sentence_context_projection,gemini-2.5-pro,The Hindu,immigration,neutral,0.2122222222222222,0.3827777777777779,-180.37
+art_052,0.5011111111111111,Azure,sentence_context_projection,gemini-2.5-pro,The Hindu,immigration,neutral,0.2122222222222222,0.28888888888888886,-136.13
+art_057,0.5234479166666667,Azure,sentence_context_projection,gemini-2.5-pro,Fox News,immigration,neutral,0.4654611823361823,0.0579867343304844,-12.46
+art_058,0.6648148148148149,Azure,sentence_context_projection,gemini-2.5-pro,South China Morning Post,immigration,humanitarian,0.5516666666666666,0.11314814814814822,-20.51
+art_062,0.5007799145299144,Azure,sentence_context_projection,gemini-2.5-pro,Reuters,immigration,neutral,0.6211490683229813,-0.1203691537930669,19.38
+art_063,0.3756470588235294,Azure,sentence_context_projection,gemini-2.5-pro,Al Jazeera,immigration,neutral,0.3758525956801819,-0.00020553685665253285,0.05
+art_065,0.3601666666666666,Azure,sentence_context_projection,gemini-2.5-pro,Le Monde,immigration,neutral,0.458,-0.09783333333333344,21.36
+art_070,0.472203548085901,Azure,sentence_context_projection,gemini-2.5-pro,CNN,immigration,neutral,0.2796404958677685,0.19256305221813247,-68.86
+art_076,0.5471866666666666,Azure,sentence_context_projection,gemini-2.5-pro,News24,immigration,neutral,0.1335483870967741,0.4136382795698925,-309.73
+art_079,0.0694318181818181,Azure,sentence_context_projection,gemini-2.5-pro,Fox News,immigration,security,0.1932999999999999,-0.1238681818181818,64.08
+art_086,0.1945357833655706,Azure,sentence_context_projection,gemini-2.5-pro,Le Monde,immigration,neutral,0.3007472766884531,-0.10621149332288249,35.32
+art_088,0.3841325757575757,Azure,sentence_context_projection,gemini-2.5-pro,The Guardian,immigration,humanitarian,0.5066752136752136,-0.12254263791763792,24.19
+art_089,0.2402970760233918,Azure,sentence_context_projection,gemini-2.5-pro,Al Jazeera,immigration,neutral,0.2027856598016781,0.037511416221713695,-18.5
+art_091,0.8053607809847199,Azure,sentence_context_projection,gemini-2.5-pro,Global Times,immigration,neutral,0.8040706605222734,0.0012901204624464757,-0.16
+art_092,0.6253695652173913,Azure,sentence_context_projection,gemini-2.5-pro,Global Times,immigration,neutral,0.6428794326241135,-0.017509867406722224,2.72
+art_113,0.473265306122449,Azure,sentence_context_projection,gemini-2.5-pro,Daily Maverick,political conflict,people-centric,0.4731944444444444,7.086167800457455e-05,-0.01
+art_114,0.3364,Azure,sentence_context_projection,gemini-2.5-pro,RT News,political conflict,neutral,0.2664583333333333,0.06994166666666668,-26.25
+art_118,0.3324333333333333,Azure,sentence_context_projection,gemini-2.5-pro,Reuters,political conflict,neutral,0.1016666666666667,0.23076666666666662,-226.98
+art_125,0.4979166666666666,Azure,sentence_context_projection,gemini-2.5-pro,The Hindu,political conflict,people-centric,0.1779166666666666,0.32,-179.86
+art_130,0.5650000000000001,Azure,sentence_context_projection,gemini-2.5-pro,Reuters,political conflict,neutral,0.12,0.44500000000000006,-370.83
+art_135,0.5930952380952382,Azure,sentence_context_projection,gemini-2.5-pro,Global Times,political conflict,state-centric,0.5089523809523809,0.0841428571428573,-16.53
+art_171,0.5258333333333333,Azure,sentence_context_projection,gemini-2.5-pro,Xinhua,political conflict,state-centric,0.46875,0.057083333333333264,-12.18
+art_178,0.2939210526315789,Azure,sentence_context_projection,gemini-2.5-pro,Fox News,environment,skeptical,0.1406936936936937,0.15322735893788522,-108.91
+art_184,0.9725,Azure,sentence_context_projection,gemini-2.5-pro,News24,environment,neutral,0.4316666666666666,0.5408333333333335,-125.29
+art_187,0.2966666666666667,Azure,sentence_context_projection,gemini-2.5-pro,South China Morning Post,environment,concern,1.393333333333333,-1.0966666666666665,78.71
+art_190,0.76,Azure,sentence_context_projection,gemini-2.5-pro,South China Morning Post,environment,concern,0.92,-0.16000000000000003,17.39
+art_197,0.4881818181818181,Azure,sentence_context_projection,gemini-2.5-pro,Le Monde,environment,neutral,0.441,0.0471818181818181,-10.7
+art_201,0.4966666666666666,Azure,sentence_context_projection,gemini-2.5-pro,Reuters,environment,concern,0.4558333333333333,0.04083333333333328,-8.96
+art_204,0.8930833333333333,Azure,sentence_context_projection,gemini-2.5-pro,Global Times,environment,neutral,0.7410416666666667,0.15204166666666663,-20.52
+art_209,0.4960526315789473,Azure,sentence_context_projection,gemini-2.5-pro,CNN,environment,concern,0.5507785714285715,-0.05472593984962415,9.94
+art_210,0.449090909090909,Azure,sentence_context_projection,gemini-2.5-pro,Le Monde,environment,concern,0.3190909090909091,0.1299999999999999,-40.74
+art_212,0.5607777777777778,Azure,sentence_context_projection,gemini-2.5-pro,Reuters,environment,concern,0.0192307692307692,0.5415470085470087,-2816.04
+art_213,0.48625,Azure,sentence_context_projection,gemini-2.5-pro,RT News,environment,skeptical,0.3631111111111111,0.12313888888888891,-33.91
+art_214,0.864,Azure,sentence_context_projection,gemini-2.5-pro,Al Jazeera,environment,concern,0.7783333333333333,0.08566666666666667,-11.01
+art_215,0.5864102564102563,Azure,sentence_context_projection,gemini-2.5-pro,Reuters,environment,concern,0.3017948717948718,0.28461538461538455,-94.31
+art_218,0.3669809523809523,Azure,sentence_context_projection,gemini-2.5-pro,Fox News,environment,skeptical,0.3028383838383838,0.0641425685425685,-21.18
+art_219,0.434375,Azure,sentence_context_projection,gemini-2.5-pro,Global Times,environment,neutral,0.3505888888888889,0.08378611111111112,-23.9
+art_222,0.8283333333333333,Azure,sentence_context_projection,gemini-2.5-pro,The Guardian,environment,concern,0.88,-0.05166666666666675,5.87
+art_223,0.433125,Azure,sentence_context_projection,gemini-2.5-pro,Le Monde,environment,concern,0.3227272727272727,0.11039772727272729,-34.21
+art_224,0.4447376605814739,Azure,sentence_context_projection,gemini-2.5-pro,News24,environment,neutral,0.3786333333333333,0.06610432724814058,-17.46
+art_225,0.4966666666666666,Azure,sentence_context_projection,gemini-2.5-pro,The Hindu,environment,concern,0.1156666666666666,0.381,-329.39
+art_230,0.5561111111111112,Azure,sentence_context_projection,gemini-2.5-pro,Le Monde,environment,concern,0.2895833333333333,0.2665277777777779,-92.04
+art_231,0.6743181818181818,Azure,sentence_context_projection,gemini-2.5-pro,Fox News,environment,concern,0.8280769230769232,-0.15375874125874134,18.57
+art_232,0.2038235294117647,Azure,sentence_context_projection,gemini-2.5-pro,Straits Times,environment,neutral,0.3543137254901961,-0.15049019607843137,42.47
+art_072,0.3843137254901961,Google,,gemini-2.5-pro,,,,0.5925,-0.20818627450980393,35.14
+art_072,0.0715919355116954,AWS,,gemini-2.5-pro,,,,0.0457886874430231,0.025803248068672305,-56.35
+art_072,0.3917979797979798,Azure,,gemini-2.5-pro,,,,0.3325757575757576,0.05922222222222223,-17.81

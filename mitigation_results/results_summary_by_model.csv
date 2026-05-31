@@ -1,0 +1,4 @@
+model,n,IPSV_before,IPSV_after,IPSV_reduction_pct,cosine_similarity,pct_fidelity,abs_LFI_before,abs_LFI_after,abs_LFI_reduction_pct,IAEI_before_avg,IAEI_after_avg,IAEI_reduction_pct,krippendorff_alpha
+gpt-4o,50,1.439,1.1557,17.16,0.9401,96.0,0.6196,0.5905,4.7,0.2905,0.2729,6.07,0.2408
+gpt-5-5,50,1.439,1.133,20.88,0.981,100.0,0.6196,0.5952,3.94,0.2905,0.2697,7.15,0.2403
+gemini-2.5-pro,50,1.439,1.2024,17.35,0.9474,98.0,0.6196,0.552,10.9,0.2905,0.2813,3.16,0.2218

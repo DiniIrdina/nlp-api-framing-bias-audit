@@ -1,0 +1,151 @@
+﻿article_id,model,topic,outlet,frame,lfi_after,frame_a_label,frame_b_label,frame_a_count,frame_b_count,lfi_total_hits,lfi_before,abs_lfi_before,abs_lfi_after,abs_lfi_change,abs_lfi_reduction
+art_091,gpt-4o,immigration,Global Times,neutral,1.0,humanitarian,security,4,0,4,0.3333,0.3333,1.0,0.6667000000000001,-0.6667000000000001
+art_091,gpt-5-5,immigration,Global Times,neutral,1.0,humanitarian,security,3,0,3,0.3333,0.3333,1.0,0.6667000000000001,-0.6667000000000001
+art_091,gemini-2.5-pro,immigration,Global Times,neutral,1.0,humanitarian,security,3,0,3,0.3333,0.3333,1.0,0.6667000000000001,-0.6667000000000001
+art_232,gpt-4o,environment,Straits Times,neutral,1.0,concern,skeptical,5,0,5,1.0,1.0,1.0,0.0,0.0
+art_232,gpt-5-5,environment,Straits Times,neutral,1.0,concern,skeptical,11,0,11,1.0,1.0,1.0,0.0,0.0
+art_232,gemini-2.5-pro,environment,Straits Times,neutral,1.0,concern,skeptical,11,0,11,1.0,1.0,1.0,0.0,0.0
+art_092,gpt-4o,immigration,Global Times,neutral,0.0,humanitarian,security,0,0,0,0.0,0.0,0.0,0.0,0.0
+art_092,gpt-5-5,immigration,Global Times,neutral,0.0,humanitarian,security,0,0,0,0.0,0.0,0.0,0.0,0.0
+art_092,gemini-2.5-pro,immigration,Global Times,neutral,0.0,humanitarian,security,0,0,0,0.0,0.0,0.0,0.0,0.0
+art_224,gpt-4o,environment,News24,neutral,0.0,concern,skeptical,0,0,0,1.0,1.0,0.0,-1.0,1.0
+art_224,gpt-5-5,environment,News24,neutral,1.0,concern,skeptical,2,0,2,1.0,1.0,1.0,0.0,0.0
+art_224,gemini-2.5-pro,environment,News24,neutral,1.0,concern,skeptical,2,0,2,1.0,1.0,1.0,0.0,0.0
+art_218,gpt-4o,environment,Fox News,skeptical,0.75,concern,skeptical,7,1,8,0.5,0.5,0.75,0.25,-0.25
+art_218,gpt-5-5,environment,Fox News,skeptical,0.7778,concern,skeptical,8,1,9,0.5,0.5,0.7778,0.27780000000000005,-0.27780000000000005
+art_218,gemini-2.5-pro,environment,Fox News,skeptical,0.75,concern,skeptical,7,1,8,0.5,0.5,0.75,0.25,-0.25
+art_213,gpt-4o,environment,RT News,skeptical,1.0,concern,skeptical,2,0,2,1.0,1.0,1.0,0.0,0.0
+art_213,gpt-5-5,environment,RT News,skeptical,1.0,concern,skeptical,2,0,2,1.0,1.0,1.0,0.0,0.0
+art_213,gemini-2.5-pro,environment,RT News,skeptical,1.0,concern,skeptical,1,0,1,1.0,1.0,1.0,0.0,0.0
+art_214,gpt-4o,environment,Al Jazeera,concern,-1.0,concern,skeptical,0,1,1,0.0,0.0,1.0,1.0,-1.0
+art_214,gpt-5-5,environment,Al Jazeera,concern,0.0,concern,skeptical,0,0,0,0.0,0.0,0.0,0.0,0.0
+art_214,gemini-2.5-pro,environment,Al Jazeera,concern,0.0,concern,skeptical,0,0,0,0.0,0.0,0.0,0.0,0.0
+art_204,gpt-4o,environment,Global Times,neutral,1.0,concern,skeptical,7,0,7,1.0,1.0,1.0,0.0,0.0
+art_204,gpt-5-5,environment,Global Times,neutral,1.0,concern,skeptical,7,0,7,1.0,1.0,1.0,0.0,0.0
+art_204,gemini-2.5-pro,environment,Global Times,neutral,1.0,concern,skeptical,6,0,6,1.0,1.0,1.0,0.0,0.0
+art_001,gpt-4o,immigration,Fox News,security,-0.7143,humanitarian,security,1,6,7,-0.9,0.9,0.7143,-0.18569999999999998,0.18569999999999998
+art_001,gpt-5-5,immigration,Fox News,security,-0.8,humanitarian,security,1,9,10,-0.9,0.9,0.8,-0.09999999999999998,0.09999999999999998
+art_001,gemini-2.5-pro,immigration,Fox News,security,-0.7778,humanitarian,security,1,8,9,-0.9,0.9,0.7778,-0.12219999999999998,0.12219999999999998
+art_187,gpt-4o,environment,South China Morning Post,concern,1.0,concern,skeptical,4,0,4,1.0,1.0,1.0,0.0,0.0
+art_187,gpt-5-5,environment,South China Morning Post,concern,1.0,concern,skeptical,4,0,4,1.0,1.0,1.0,0.0,0.0
+art_187,gemini-2.5-pro,environment,South China Morning Post,concern,1.0,concern,skeptical,4,0,4,1.0,1.0,1.0,0.0,0.0
+art_076,gpt-4o,immigration,News24,neutral,0.3333,humanitarian,security,4,2,6,-0.2,0.2,0.3333,0.13329999999999997,-0.13329999999999997
+art_076,gpt-5-5,immigration,News24,neutral,0.1429,humanitarian,security,4,3,7,-0.2,0.2,0.1429,-0.05710000000000001,0.05710000000000001
+art_076,gemini-2.5-pro,immigration,News24,neutral,0.1429,humanitarian,security,4,3,7,-0.2,0.2,0.1429,-0.05710000000000001,0.05710000000000001
+art_197,gpt-4o,environment,Le Monde,neutral,1.0,concern,skeptical,5,0,5,1.0,1.0,1.0,0.0,0.0
+art_197,gpt-5-5,environment,Le Monde,neutral,1.0,concern,skeptical,5,0,5,1.0,1.0,1.0,0.0,0.0
+art_197,gemini-2.5-pro,environment,Le Monde,neutral,1.0,concern,skeptical,5,0,5,1.0,1.0,1.0,0.0,0.0
+art_184,gpt-4o,environment,News24,neutral,0.0,concern,skeptical,0,0,0,-1.0,1.0,0.0,-1.0,1.0
+art_184,gpt-5-5,environment,News24,neutral,0.0,concern,skeptical,0,0,0,-1.0,1.0,0.0,-1.0,1.0
+art_184,gemini-2.5-pro,environment,News24,neutral,0.0,concern,skeptical,0,0,0,-1.0,1.0,0.0,-1.0,1.0
+art_201,gpt-4o,environment,Reuters,concern,1.0,concern,skeptical,1,0,1,1.0,1.0,1.0,0.0,0.0
+art_201,gpt-5-5,environment,Reuters,concern,1.0,concern,skeptical,2,0,2,1.0,1.0,1.0,0.0,0.0
+art_201,gemini-2.5-pro,environment,Reuters,concern,1.0,concern,skeptical,2,0,2,1.0,1.0,1.0,0.0,0.0
+art_223,gpt-4o,environment,Le Monde,concern,1.0,concern,skeptical,2,0,2,1.0,1.0,1.0,0.0,0.0
+art_223,gpt-5-5,environment,Le Monde,concern,1.0,concern,skeptical,2,0,2,1.0,1.0,1.0,0.0,0.0
+art_223,gemini-2.5-pro,environment,Le Monde,concern,1.0,concern,skeptical,3,0,3,1.0,1.0,1.0,0.0,0.0
+art_118,gpt-4o,political conflict,Reuters,neutral,0.5556,people-centric,state-centric,7,2,9,0.3333,0.3333,0.5556,0.2223,-0.2223
+art_118,gpt-5-5,political conflict,Reuters,neutral,0.5556,people-centric,state-centric,7,2,9,0.3333,0.3333,0.5556,0.2223,-0.2223
+art_118,gemini-2.5-pro,political conflict,Reuters,neutral,-0.5,people-centric,state-centric,1,3,4,0.3333,0.3333,0.5,0.16670000000000001,-0.16670000000000001
+art_222,gpt-4o,environment,The Guardian,concern,0.5,concern,skeptical,3,1,4,0.8182,0.8182,0.5,-0.31820000000000004,0.31820000000000004
+art_222,gpt-5-5,environment,The Guardian,concern,0.7143,concern,skeptical,6,1,7,0.8182,0.8182,0.7143,-0.10389999999999999,0.10389999999999999
+art_222,gemini-2.5-pro,environment,The Guardian,concern,0.0,concern,skeptical,1,1,2,0.8182,0.8182,0.0,-0.8182,0.8182
+art_072,gpt-4o,immigration,Reuters,neutral,0.3333,humanitarian,security,4,2,6,0.2941,0.2941,0.3333,0.03920000000000001,-0.03920000000000001
+art_072,gpt-5-5,immigration,Reuters,neutral,0.3333,humanitarian,security,10,5,15,0.2941,0.2941,0.3333,0.03920000000000001,-0.03920000000000001
+art_088,gpt-4o,immigration,The Guardian,humanitarian,-1.0,humanitarian,security,0,1,1,-0.6,0.6,1.0,0.4,-0.4
+art_088,gpt-5-5,immigration,The Guardian,humanitarian,-1.0,humanitarian,security,0,2,2,-0.6,0.6,1.0,0.4,-0.4
+art_088,gemini-2.5-pro,immigration,The Guardian,humanitarian,-0.3333,humanitarian,security,1,2,3,-0.6,0.6,0.3333,-0.2667,0.2667
+art_057,gpt-4o,immigration,Fox News,neutral,0.0,humanitarian,security,3,3,6,-0.2,0.2,0.0,-0.2,0.2
+art_057,gpt-5-5,immigration,Fox News,neutral,0.6667,humanitarian,security,5,1,6,-0.2,0.2,0.6667,0.46669999999999995,-0.46669999999999995
+art_057,gemini-2.5-pro,immigration,Fox News,neutral,0.6,humanitarian,security,4,1,5,-0.2,0.2,0.6,0.39999999999999997,-0.39999999999999997
+art_079,gpt-4o,immigration,Fox News,security,0.0,humanitarian,security,1,1,2,0.0,0.0,0.0,0.0,0.0
+art_079,gpt-5-5,immigration,Fox News,security,0.0,humanitarian,security,1,1,2,0.0,0.0,0.0,0.0,0.0
+art_079,gemini-2.5-pro,immigration,Fox News,security,1.0,humanitarian,security,1,0,1,0.0,0.0,1.0,1.0,-1.0
+art_058,gpt-4o,immigration,South China Morning Post,humanitarian,0.5,humanitarian,security,3,1,4,0.3333,0.3333,0.5,0.16670000000000001,-0.16670000000000001
+art_058,gpt-5-5,immigration,South China Morning Post,humanitarian,0.5,humanitarian,security,3,1,4,0.3333,0.3333,0.5,0.16670000000000001,-0.16670000000000001
+art_058,gemini-2.5-pro,immigration,South China Morning Post,humanitarian,0.5,humanitarian,security,3,1,4,0.3333,0.3333,0.5,0.16670000000000001,-0.16670000000000001
+art_178,gpt-4o,environment,Fox News,skeptical,1.0,concern,skeptical,1,0,1,-0.2,0.2,1.0,0.8,-0.8
+art_178,gpt-5-5,environment,Fox News,skeptical,0.0,concern,skeptical,1,1,2,-0.2,0.2,0.0,-0.2,0.2
+art_178,gemini-2.5-pro,environment,Fox News,skeptical,-0.3333,concern,skeptical,1,2,3,-0.2,0.2,0.3333,0.13329999999999997,-0.13329999999999997
+art_113,gpt-4o,political conflict,Daily Maverick,people-centric,0.3333,people-centric,state-centric,2,1,3,-0.1429,0.1429,0.3333,0.19039999999999999,-0.19039999999999999
+art_113,gpt-5-5,political conflict,Daily Maverick,people-centric,0.0,people-centric,state-centric,3,3,6,-0.1429,0.1429,0.0,-0.1429,0.1429
+art_113,gemini-2.5-pro,political conflict,Daily Maverick,people-centric,0.0,people-centric,state-centric,3,3,6,-0.1429,0.1429,0.0,-0.1429,0.1429
+art_212,gpt-4o,environment,Reuters,concern,1.0,concern,skeptical,2,0,2,1.0,1.0,1.0,0.0,0.0
+art_212,gpt-5-5,environment,Reuters,concern,0.0,concern,skeptical,0,0,0,1.0,1.0,0.0,-1.0,1.0
+art_212,gemini-2.5-pro,environment,Reuters,concern,0.0,concern,skeptical,0,0,0,1.0,1.0,0.0,-1.0,1.0
+art_125,gpt-4o,political conflict,The Hindu,people-centric,1.0,people-centric,state-centric,7,0,7,1.0,1.0,1.0,0.0,0.0
+art_125,gpt-5-5,political conflict,The Hindu,people-centric,1.0,people-centric,state-centric,7,0,7,1.0,1.0,1.0,0.0,0.0
+art_125,gemini-2.5-pro,political conflict,The Hindu,people-centric,1.0,people-centric,state-centric,7,0,7,1.0,1.0,1.0,0.0,0.0
+art_225,gpt-4o,environment,The Hindu,concern,0.0,concern,skeptical,0,0,0,1.0,1.0,0.0,-1.0,1.0
+art_225,gpt-5-5,environment,The Hindu,concern,0.0,concern,skeptical,0,0,0,1.0,1.0,0.0,-1.0,1.0
+art_225,gemini-2.5-pro,environment,The Hindu,concern,0.0,concern,skeptical,0,0,0,1.0,1.0,0.0,-1.0,1.0
+art_171,gpt-4o,political conflict,Xinhua,state-centric,0.0,people-centric,state-centric,0,0,0,0.0,0.0,0.0,0.0,0.0
+art_171,gpt-5-5,political conflict,Xinhua,state-centric,-1.0,people-centric,state-centric,0,1,1,0.0,0.0,1.0,1.0,-1.0
+art_171,gemini-2.5-pro,political conflict,Xinhua,state-centric,0.0,people-centric,state-centric,0,0,0,0.0,0.0,0.0,0.0,0.0
+art_219,gpt-4o,environment,Global Times,neutral,1.0,concern,skeptical,1,0,1,0.3333,0.3333,1.0,0.6667000000000001,-0.6667000000000001
+art_219,gpt-5-5,environment,Global Times,neutral,1.0,concern,skeptical,1,0,1,0.3333,0.3333,1.0,0.6667000000000001,-0.6667000000000001
+art_219,gemini-2.5-pro,environment,Global Times,neutral,1.0,concern,skeptical,1,0,1,0.3333,0.3333,1.0,0.6667000000000001,-0.6667000000000001
+art_089,gpt-4o,immigration,Al Jazeera,neutral,0.5,humanitarian,security,3,1,4,0.4286,0.4286,0.5,0.07140000000000002,-0.07140000000000002
+art_089,gpt-5-5,immigration,Al Jazeera,neutral,0.5,humanitarian,security,3,1,4,0.4286,0.4286,0.5,0.07140000000000002,-0.07140000000000002
+art_089,gemini-2.5-pro,immigration,Al Jazeera,neutral,0.5,humanitarian,security,3,1,4,0.4286,0.4286,0.5,0.07140000000000002,-0.07140000000000002
+art_070,gpt-4o,immigration,CNN,neutral,1.0,humanitarian,security,4,0,4,0.5714,0.5714,1.0,0.4286,-0.4286
+art_070,gpt-5-5,immigration,CNN,neutral,0.8,humanitarian,security,9,1,10,0.5714,0.5714,0.8,0.22860000000000003,-0.22860000000000003
+art_070,gemini-2.5-pro,immigration,CNN,neutral,0.7778,humanitarian,security,8,1,9,0.5714,0.5714,0.7778,0.20640000000000003,-0.20640000000000003
+art_130,gpt-4o,political conflict,Reuters,neutral,-1.0,people-centric,state-centric,0,1,1,-1.0,1.0,1.0,0.0,0.0
+art_130,gpt-5-5,political conflict,Reuters,neutral,-1.0,people-centric,state-centric,0,3,3,-1.0,1.0,1.0,0.0,0.0
+art_130,gemini-2.5-pro,political conflict,Reuters,neutral,-1.0,people-centric,state-centric,0,2,2,-1.0,1.0,1.0,0.0,0.0
+art_230,gpt-4o,environment,Le Monde,concern,0.6364,concern,skeptical,9,2,11,0.6667,0.6667,0.6364,-0.030299999999999994,0.030299999999999994
+art_230,gpt-5-5,environment,Le Monde,concern,0.6364,concern,skeptical,9,2,11,0.6667,0.6667,0.6364,-0.030299999999999994,0.030299999999999994
+art_230,gemini-2.5-pro,environment,Le Monde,concern,0.6364,concern,skeptical,9,2,11,0.6667,0.6667,0.6364,-0.030299999999999994,0.030299999999999994
+art_202,gpt-4o,environment,The Hindu,concern,0.0,concern,skeptical,0,0,0,0.0,0.0,0.0,0.0,0.0
+art_202,gpt-5-5,environment,The Hindu,concern,0.0,concern,skeptical,0,0,0,0.0,0.0,0.0,0.0,0.0
+art_202,gemini-2.5-pro,environment,The Hindu,concern,0.0,concern,skeptical,0,0,0,0.0,0.0,0.0,0.0,0.0
+art_086,gpt-4o,immigration,Le Monde,neutral,1.0,humanitarian,security,2,0,2,0.3333,0.3333,1.0,0.6667000000000001,-0.6667000000000001
+art_086,gpt-5-5,immigration,Le Monde,neutral,0.0,humanitarian,security,1,1,2,0.3333,0.3333,0.0,-0.3333,0.3333
+art_086,gemini-2.5-pro,immigration,Le Monde,neutral,1.0,humanitarian,security,2,0,2,0.3333,0.3333,1.0,0.6667000000000001,-0.6667000000000001
+art_210,gpt-4o,environment,Le Monde,concern,0.0,concern,skeptical,0,0,0,0.0,0.0,0.0,0.0,0.0
+art_210,gpt-5-5,environment,Le Monde,concern,0.0,concern,skeptical,0,0,0,0.0,0.0,0.0,0.0,0.0
+art_210,gemini-2.5-pro,environment,Le Monde,concern,0.0,concern,skeptical,0,0,0,0.0,0.0,0.0,0.0,0.0
+art_051,gpt-4o,immigration,The Hindu,neutral,0.0,humanitarian,security,0,0,0,1.0,1.0,0.0,-1.0,1.0
+art_051,gpt-5-5,immigration,The Hindu,neutral,1.0,humanitarian,security,2,0,2,1.0,1.0,1.0,0.0,0.0
+art_051,gemini-2.5-pro,immigration,The Hindu,neutral,0.0,humanitarian,security,0,0,0,1.0,1.0,0.0,-1.0,1.0
+art_052,gpt-4o,immigration,The Hindu,neutral,0.0,humanitarian,security,0,0,0,1.0,1.0,0.0,-1.0,1.0
+art_052,gpt-5-5,immigration,The Hindu,neutral,1.0,humanitarian,security,2,0,2,1.0,1.0,1.0,0.0,0.0
+art_052,gemini-2.5-pro,immigration,The Hindu,neutral,0.0,humanitarian,security,0,0,0,1.0,1.0,0.0,-1.0,1.0
+art_209,gpt-4o,environment,CNN,concern,1.0,concern,skeptical,3,0,3,1.0,1.0,1.0,0.0,0.0
+art_209,gpt-5-5,environment,CNN,concern,1.0,concern,skeptical,4,0,4,1.0,1.0,1.0,0.0,0.0
+art_209,gemini-2.5-pro,environment,CNN,concern,1.0,concern,skeptical,2,0,2,1.0,1.0,1.0,0.0,0.0
+art_231,gpt-4o,environment,Fox News,concern,1.0,concern,skeptical,5,0,5,1.0,1.0,1.0,0.0,0.0
+art_231,gpt-5-5,environment,Fox News,concern,1.0,concern,skeptical,4,0,4,1.0,1.0,1.0,0.0,0.0
+art_231,gemini-2.5-pro,environment,Fox News,concern,1.0,concern,skeptical,4,0,4,1.0,1.0,1.0,0.0,0.0
+art_215,gpt-4o,environment,Reuters,concern,0.0,concern,skeptical,0,0,0,1.0,1.0,0.0,-1.0,1.0
+art_215,gpt-5-5,environment,Reuters,concern,0.0,concern,skeptical,0,0,0,1.0,1.0,0.0,-1.0,1.0
+art_215,gemini-2.5-pro,environment,Reuters,concern,0.0,concern,skeptical,0,0,0,1.0,1.0,0.0,-1.0,1.0
+art_190,gpt-4o,environment,South China Morning Post,concern,1.0,concern,skeptical,1,0,1,1.0,1.0,1.0,0.0,0.0
+art_190,gpt-5-5,environment,South China Morning Post,concern,1.0,concern,skeptical,1,0,1,1.0,1.0,1.0,0.0,0.0
+art_190,gemini-2.5-pro,environment,South China Morning Post,concern,1.0,concern,skeptical,1,0,1,1.0,1.0,1.0,0.0,0.0
+art_065,gpt-4o,immigration,Le Monde,neutral,0.4286,humanitarian,security,5,2,7,0.25,0.25,0.4286,0.17859999999999998,-0.17859999999999998
+art_065,gpt-5-5,immigration,Le Monde,neutral,0.4286,humanitarian,security,5,2,7,0.25,0.25,0.4286,0.17859999999999998,-0.17859999999999998
+art_065,gemini-2.5-pro,immigration,Le Monde,neutral,0.4286,humanitarian,security,5,2,7,0.25,0.25,0.4286,0.17859999999999998,-0.17859999999999998
+art_063,gpt-4o,immigration,Al Jazeera,neutral,0.3333,humanitarian,security,6,3,9,-0.0769,0.0769,0.3333,0.25639999999999996,-0.25639999999999996
+art_063,gpt-5-5,immigration,Al Jazeera,neutral,0.2,humanitarian,security,6,4,10,-0.0769,0.0769,0.2,0.12310000000000001,-0.12310000000000001
+art_063,gemini-2.5-pro,immigration,Al Jazeera,neutral,0.25,humanitarian,security,5,3,8,-0.0769,0.0769,0.25,0.1731,-0.1731
+art_031,gpt-4o,immigration,Al Jazeera,humanitarian,0.4545,humanitarian,security,8,3,11,0.8276,0.8276,0.4545,-0.3731,0.3731
+art_031,gpt-5-5,immigration,Al Jazeera,humanitarian,0.8182,humanitarian,security,30,3,33,0.8276,0.8276,0.8182,-0.009399999999999964,0.009399999999999964
+art_031,gemini-2.5-pro,immigration,Al Jazeera,humanitarian,0.7391,humanitarian,security,20,3,23,0.8276,0.8276,0.7391,-0.08850000000000002,0.08850000000000002
+art_062,gpt-4o,immigration,Reuters,neutral,0.4,humanitarian,security,7,3,10,0.0909,0.0909,0.4,0.30910000000000004,-0.30910000000000004
+art_062,gpt-5-5,immigration,Reuters,neutral,0.2,humanitarian,security,6,4,10,0.0909,0.0909,0.2,0.10910000000000002,-0.10910000000000002
+art_062,gemini-2.5-pro,immigration,Reuters,neutral,0.3333,humanitarian,security,6,3,9,0.0909,0.0909,0.3333,0.2424,-0.2424
+art_135,gpt-4o,political conflict,Global Times,state-centric,-1.0,people-centric,state-centric,0,1,1,-1.0,1.0,1.0,0.0,0.0
+art_135,gpt-5-5,political conflict,Global Times,state-centric,-1.0,people-centric,state-centric,0,1,1,-1.0,1.0,1.0,0.0,0.0
+art_135,gemini-2.5-pro,political conflict,Global Times,state-centric,-1.0,people-centric,state-centric,0,1,1,-1.0,1.0,1.0,0.0,0.0
+art_018,gpt-4o,immigration,The Guardian,humanitarian,0.75,humanitarian,security,7,1,8,0.7949,0.7949,0.75,-0.04490000000000005,0.04490000000000005
+art_018,gpt-5-5,immigration,The Guardian,humanitarian,0.6842,humanitarian,security,16,3,19,0.7949,0.7949,0.6842,-0.11070000000000002,0.11070000000000002
+art_018,gemini-2.5-pro,immigration,The Guardian,humanitarian,0.75,humanitarian,security,14,2,16,0.7949,0.7949,0.75,-0.04490000000000005,0.04490000000000005
+art_017,gpt-4o,immigration,France 24,neutral,0.0,humanitarian,security,0,0,0,0.75,0.75,0.0,-0.75,0.75
+art_017,gpt-5-5,immigration,France 24,neutral,0.0,humanitarian,security,0,0,0,0.75,0.75,0.0,-0.75,0.75
+art_017,gemini-2.5-pro,immigration,France 24,neutral,0.0,humanitarian,security,0,0,0,0.75,0.75,0.0,-0.75,0.75
+art_114,gpt-4o,political conflict,RT News,neutral,1.0,people-centric,state-centric,3,0,3,1.0,1.0,1.0,0.0,0.0
+art_114,gpt-5-5,political conflict,RT News,neutral,1.0,people-centric,state-centric,3,0,3,1.0,1.0,1.0,0.0,0.0
+art_114,gemini-2.5-pro,political conflict,RT News,neutral,1.0,people-centric,state-centric,3,0,3,1.0,1.0,1.0,0.0,0.0
+art_072,gemini-2.5-pro,immigration,Reuters,neutral,0.25,humanitarian,security,5,3,8,0.2941,0.2941,0.25,-0.04409999999999997,0.04409999999999997

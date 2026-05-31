@@ -1,0 +1,4 @@
+model,n_articles,total_tokens,prompt_tokens,completion_tokens,total_seconds,avg_seconds,total_cost_usd,cost_per_article,mean_IPSV_reduction_pct,mean_cosine_similarity,pct_above_fidelity_thresh
+gemini-2.5-pro,50,113634,51712,41205,495.466,9.9093,0.4767,0.0095,17.35,0.9474,98.0
+gpt-4o,50,83879,51301,32578,236.82,4.7364,0.454,0.0091,17.16,0.9401,96.0
+gpt-5-5,50,112924,51251,61673,3453.13,69.0626,2.1064,0.0421,20.88,0.981,100.0

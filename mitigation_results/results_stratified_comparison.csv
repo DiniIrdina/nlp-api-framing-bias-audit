@@ -1,0 +1,151 @@
+﻿article_id,model,IPSV_after,IPSV_before,outlet,topic,frame,IPSV_change,IPSV_reduction_pct,region,broad_region
+art_001,gemini-2.5-pro,2.213427630450848,1.6727596560824034,Fox News,immigration,security,0.5406679743684444,-32.32,Western (US),Western/Global
+art_001,gpt-4o,2.0769671148714477,1.6727596560824034,Fox News,immigration,security,0.4042074587890443,-24.16,Western (US),Western/Global
+art_001,gpt-5-5,1.3676835210637195,1.6727596560824034,Fox News,immigration,security,-0.3050761350186839,18.24,Western (US),Western/Global
+art_017,gemini-2.5-pro,0.48411348980090857,0.9542462382870852,France 24,immigration,neutral,-0.47013274848617664,49.27,Western (Europe),Western/Global
+art_017,gpt-4o,0.28054877940224254,0.9542462382870852,France 24,immigration,neutral,-0.6736974588848427,70.6,Western (Europe),Western/Global
+art_017,gpt-5-5,0.3803907106274652,0.9542462382870852,France 24,immigration,neutral,-0.57385552765962,60.14,Western (Europe),Western/Global
+art_018,gemini-2.5-pro,0.3321176933666385,0.9595642380174192,The Guardian,immigration,humanitarian,-0.6274465446507806,65.39,Western (UK),Western/Global
+art_018,gpt-4o,0.29690324701570286,0.9595642380174192,The Guardian,immigration,humanitarian,-0.6626609910017163,69.06,Western (UK),Western/Global
+art_018,gpt-5-5,0.5472540497962032,0.9595642380174192,The Guardian,immigration,humanitarian,-0.412310188221216,42.97,Western (UK),Western/Global
+art_031,gemini-2.5-pro,0.47743073307908984,0.9756226872604246,Al Jazeera,immigration,humanitarian,-0.4981919541813347,51.06,Non-Western (Middle East),Non-Western
+art_031,gpt-4o,0.6398036831680447,0.9756226872604246,Al Jazeera,immigration,humanitarian,-0.33581900409237986,34.42,Non-Western (Middle East),Non-Western
+art_031,gpt-5-5,0.8289591937624343,0.9756226872604246,Al Jazeera,immigration,humanitarian,-0.14666349349799024,15.03,Non-Western (Middle East),Non-Western
+art_051,gemini-2.5-pro,0.5814059158331155,1.088115458573165,The Hindu,immigration,neutral,-0.5067095427400494,46.57,Non-Western (South Asia),Non-Western
+art_051,gpt-4o,0.47600254585602275,1.088115458573165,The Hindu,immigration,neutral,-0.6121129127171422,56.25,Non-Western (South Asia),Non-Western
+art_051,gpt-5-5,0.47679571102155205,1.088115458573165,The Hindu,immigration,neutral,-0.6113197475516129,56.18,Non-Western (South Asia),Non-Western
+art_052,gemini-2.5-pro,0.5503600014739406,1.088115458573165,The Hindu,immigration,neutral,-0.5377554570992243,49.42,Non-Western (South Asia),Non-Western
+art_052,gpt-4o,0.44189252268200047,1.088115458573165,The Hindu,immigration,neutral,-0.6462229358911644,59.39,Non-Western (South Asia),Non-Western
+art_052,gpt-5-5,1.1896039750797711,1.088115458573165,The Hindu,immigration,neutral,0.10148851650660617,-9.33,Non-Western (South Asia),Non-Western
+art_057,gemini-2.5-pro,0.6232793593959063,1.3780446364408965,Fox News,immigration,neutral,-0.7547652770449902,54.77,Western (US),Western/Global
+art_057,gpt-4o,0.3964865537836341,1.3780446364408965,Fox News,immigration,neutral,-0.9815580826572623,71.23,Western (US),Western/Global
+art_057,gpt-5-5,0.6615747102476652,1.3780446364408965,Fox News,immigration,neutral,-0.7164699261932312,51.99,Western (US),Western/Global
+art_058,gemini-2.5-pro,0.6097367129994521,1.3331973532078871,South China Morning Post,immigration,humanitarian,-0.723460640208435,54.27,Non-Western (East Asia),Non-Western
+art_058,gpt-4o,1.7022226299058372,1.3331973532078871,South China Morning Post,immigration,humanitarian,0.36902527669795004,-27.68,Non-Western (East Asia),Non-Western
+art_058,gpt-5-5,0.7676512738274777,1.3331973532078871,South China Morning Post,immigration,humanitarian,-0.5655460793804095,42.42,Non-Western (East Asia),Non-Western
+art_062,gemini-2.5-pro,0.26171664606883394,0.9673367741387564,Reuters,immigration,neutral,-0.7056201280699225,72.94,Global,Western/Global
+art_062,gpt-4o,0.3064643159414697,0.9673367741387564,Reuters,immigration,neutral,-0.6608724581972867,68.32,Global,Western/Global
+art_062,gpt-5-5,0.3537716771271262,0.9673367741387564,Reuters,immigration,neutral,-0.6135650970116302,63.43,Global,Western/Global
+art_063,gemini-2.5-pro,1.118035801836205,0.9948637395106852,Al Jazeera,immigration,neutral,0.12317206232551992,-12.38,Non-Western (Middle East),Non-Western
+art_063,gpt-4o,1.7838633349366229,0.9948637395106852,Al Jazeera,immigration,neutral,0.7889995954259377,-79.31,Non-Western (Middle East),Non-Western
+art_063,gpt-5-5,1.043276573200866,0.9948637395106852,Al Jazeera,immigration,neutral,0.04841283369018079,-4.87,Non-Western (Middle East),Non-Western
+art_065,gemini-2.5-pro,1.132952947203524,0.9961962227117837,Le Monde,immigration,neutral,0.13675672449174037,-13.73,Western (Europe),Western/Global
+art_065,gpt-4o,0.9715073025194835,0.9961962227117837,Le Monde,immigration,neutral,-0.02468892019230018,2.48,Western (Europe),Western/Global
+art_065,gpt-5-5,1.006346736930426,0.9961962227117837,Le Monde,immigration,neutral,0.010150514218642326,-1.02,Western (Europe),Western/Global
+art_070,gemini-2.5-pro,0.6383148914964903,1.117237878879702,CNN,immigration,neutral,-0.4789229873832116,42.87,Western (US),Western/Global
+art_070,gpt-4o,0.34912639004980633,1.117237878879702,CNN,immigration,neutral,-0.7681114888298957,68.75,Western (US),Western/Global
+art_070,gpt-5-5,0.7860423118738429,1.117237878879702,CNN,immigration,neutral,-0.33119556700585906,29.64,Western (US),Western/Global
+art_072,gemini-2.5-pro,0.6588208856337628,1.4796873229322205,Reuters,immigration,neutral,-0.8208664372984577,55.48,Global,Western/Global
+art_072,gpt-4o,0.75311680234217,1.4796873229322205,Reuters,immigration,neutral,-0.7265705205900505,49.1,Global,Western/Global
+art_072,gpt-5-5,0.8399613421027123,1.4796873229322205,Reuters,immigration,neutral,-0.6397259808295082,43.23,Global,Western/Global
+art_076,gemini-2.5-pro,0.24662896108753604,1.6372837882866134,News24,immigration,neutral,-1.3906548271990773,84.94,Non-Western (Africa),Non-Western
+art_076,gpt-4o,0.6203691331218225,1.6372837882866134,News24,immigration,neutral,-1.0169146551647907,62.11,Non-Western (Africa),Non-Western
+art_076,gpt-5-5,0.6175632335393282,1.6372837882866134,News24,immigration,neutral,-1.0197205547472852,62.28,Non-Western (Africa),Non-Western
+art_079,gemini-2.5-pro,1.6805309977760499,1.3647893932495423,Fox News,immigration,security,0.31574160452650757,-23.13,Western (US),Western/Global
+art_079,gpt-4o,1.5841684023646339,1.3647893932495423,Fox News,immigration,security,0.21937900911509156,-16.07,Western (US),Western/Global
+art_079,gpt-5-5,1.6182552231638299,1.3647893932495423,Fox News,immigration,security,0.25346582991428757,-18.57,Western (US),Western/Global
+art_086,gemini-2.5-pro,1.550813470897057,1.0996477854584086,Le Monde,immigration,neutral,0.4511656854386483,-41.03,Western (Europe),Western/Global
+art_086,gpt-4o,2.293257122458303,1.0996477854584086,Le Monde,immigration,neutral,1.1936093369998946,-108.54,Western (Europe),Western/Global
+art_086,gpt-5-5,0.7871966802732492,1.0996477854584086,Le Monde,immigration,neutral,-0.3124511051851594,28.41,Western (Europe),Western/Global
+art_088,gemini-2.5-pro,0.3542168293861112,1.469260978373628,The Guardian,immigration,humanitarian,-1.1150441489875167,75.89,Western (UK),Western/Global
+art_088,gpt-4o,0.28579617937364843,1.469260978373628,The Guardian,immigration,humanitarian,-1.1834647989999794,80.55,Western (UK),Western/Global
+art_088,gpt-5-5,1.0557622689270818,1.469260978373628,The Guardian,immigration,humanitarian,-0.4134987094465461,28.14,Western (UK),Western/Global
+art_089,gemini-2.5-pro,1.0697657373073448,1.1257077656743957,Al Jazeera,immigration,neutral,-0.05594202836705087,4.97,Non-Western (Middle East),Non-Western
+art_089,gpt-4o,0.5820140882882543,1.1257077656743957,Al Jazeera,immigration,neutral,-0.5436936773861414,48.3,Non-Western (Middle East),Non-Western
+art_089,gpt-5-5,1.216423271511791,1.1257077656743957,Al Jazeera,immigration,neutral,0.0907155058373954,-8.06,Non-Western (Middle East),Non-Western
+art_091,gemini-2.5-pro,3.5758609020878507,3.496895696444072,Global Times,immigration,neutral,0.07896520564377862,-2.26,Non-Western (China),Non-Western
+art_091,gpt-4o,3.3385482361149994,3.496895696444072,Global Times,immigration,neutral,-0.15834746032907265,4.53,Non-Western (China),Non-Western
+art_091,gpt-5-5,3.5496434092575737,3.496895696444072,Global Times,immigration,neutral,0.05274771281350166,-1.51,Non-Western (China),Non-Western
+art_092,gemini-2.5-pro,2.9722723263097373,3.0007095899181806,Global Times,immigration,neutral,-0.02843726360844334,0.95,Non-Western (China),Non-Western
+art_092,gpt-4o,3.203161260513178,3.0007095899181806,Global Times,immigration,neutral,0.20245167059499725,-6.75,Non-Western (China),Non-Western
+art_092,gpt-5-5,2.8949072503323277,3.0007095899181806,Global Times,immigration,neutral,-0.10580233958585294,3.53,Non-Western (China),Non-Western
+art_113,gemini-2.5-pro,0.5321327291453462,1.2328537068151508,Daily Maverick,political conflict,people-centric,-0.7007209776698047,56.84,Non-Western (Africa),Non-Western
+art_113,gpt-4o,0.24150285767863158,1.2328537068151508,Daily Maverick,political conflict,people-centric,-0.9913508491365193,80.41,Non-Western (Africa),Non-Western
+art_113,gpt-5-5,0.9917479512415446,1.2328537068151508,Daily Maverick,political conflict,people-centric,-0.24110575557360625,19.56,Non-Western (Africa),Non-Western
+art_114,gemini-2.5-pro,0.8813150511458268,0.9261012237096138,RT News,political conflict,neutral,-0.04478617256378703,4.84,Non-Western (Russia),Non-Western
+art_114,gpt-4o,0.6676880699921776,0.9261012237096138,RT News,political conflict,neutral,-0.25841315371743623,27.9,Non-Western (Russia),Non-Western
+art_114,gpt-5-5,0.763635687276098,0.9261012237096138,RT News,political conflict,neutral,-0.1624655364335158,17.54,Non-Western (Russia),Non-Western
+art_118,gemini-2.5-pro,0.8112428640005319,1.541421254257604,Reuters,political conflict,neutral,-0.7301783902570721,47.37,Global,Western/Global
+art_118,gpt-4o,0.39732764243479674,1.541421254257604,Reuters,political conflict,neutral,-1.1440936118228073,74.22,Global,Western/Global
+art_118,gpt-5-5,0.4909335906346448,1.541421254257604,Reuters,political conflict,neutral,-1.0504876636229592,68.15,Global,Western/Global
+art_125,gemini-2.5-pro,0.41700679015634934,1.2178045514402065,The Hindu,political conflict,people-centric,-0.8007977612838572,65.76,Non-Western (South Asia),Non-Western
+art_125,gpt-4o,0.3898380343595001,1.2178045514402065,The Hindu,political conflict,people-centric,-0.8279665170807065,67.99,Non-Western (South Asia),Non-Western
+art_125,gpt-5-5,0.8841410667692989,1.2178045514402065,The Hindu,political conflict,people-centric,-0.33366348467090756,27.4,Non-Western (South Asia),Non-Western
+art_130,gemini-2.5-pro,0.5885778209901638,1.1140608924545436,Reuters,political conflict,neutral,-0.5254830714643799,47.17,Global,Western/Global
+art_130,gpt-4o,0.5722856372226778,1.1140608924545436,Reuters,political conflict,neutral,-0.5417752552318659,48.63,Global,Western/Global
+art_130,gpt-5-5,0.6086172905741075,1.1140608924545436,Reuters,political conflict,neutral,-0.5054436018804361,45.37,Global,Western/Global
+art_135,gemini-2.5-pro,1.1752241366914598,0.9640481489731832,Global Times,political conflict,state-centric,0.2111759877182765,-21.91,Non-Western (China),Non-Western
+art_135,gpt-4o,0.8422285864480138,0.9640481489731832,Global Times,political conflict,state-centric,-0.12181956252516946,12.64,Non-Western (China),Non-Western
+art_135,gpt-5-5,0.9093800840312869,0.9640481489731832,Global Times,political conflict,state-centric,-0.054668064941896355,5.67,Non-Western (China),Non-Western
+art_171,gemini-2.5-pro,1.1316853559135884,1.1586412173326048,Xinhua,political conflict,state-centric,-0.026955861419016403,2.33,Non-Western (China),Non-Western
+art_171,gpt-4o,1.2415076054677394,1.1586412173326048,Xinhua,political conflict,state-centric,0.08286638813513458,-7.15,Non-Western (China),Non-Western
+art_171,gpt-5-5,0.9428836656644667,1.1586412173326048,Xinhua,political conflict,state-centric,-0.21575755166813815,18.62,Non-Western (China),Non-Western
+art_178,gemini-2.5-pro,0.6185752115960362,1.3169351241613358,Fox News,environment,skeptical,-0.6983599125652996,53.03,Western (US),Western/Global
+art_178,gpt-4o,1.171838219026378,1.3169351241613358,Fox News,environment,skeptical,-0.14509690513495777,11.02,Western (US),Western/Global
+art_178,gpt-5-5,1.0282173550442435,1.3169351241613358,Fox News,environment,skeptical,-0.28871776911709235,21.92,Western (US),Western/Global
+art_184,gemini-2.5-pro,3.8052098386225564,1.5867353370982304,News24,environment,neutral,2.2184745015243257,-139.81,Non-Western (Africa),Non-Western
+art_184,gpt-4o,3.83784357297383,1.5867353370982304,News24,environment,neutral,2.2511082358755994,-141.87,Non-Western (Africa),Non-Western
+art_184,gpt-5-5,1.4738559880009763,1.5867353370982304,News24,environment,neutral,-0.11287934909725417,7.11,Non-Western (Africa),Non-Western
+art_187,gemini-2.5-pro,3.0277125546192734,1.65241132452659,South China Morning Post,environment,concern,1.3753012300926835,-83.23,Non-Western (East Asia),Non-Western
+art_187,gpt-4o,1.632312818984603,1.65241132452659,South China Morning Post,environment,concern,-0.02009850554198689,1.22,Non-Western (East Asia),Non-Western
+art_187,gpt-5-5,1.374283653345017,1.65241132452659,South China Morning Post,environment,concern,-0.278127671181573,16.83,Non-Western (East Asia),Non-Western
+art_190,gemini-2.5-pro,0.6239780021596438,1.0128041333451123,South China Morning Post,environment,concern,-0.3888261311854685,38.39,Non-Western (East Asia),Non-Western
+art_190,gpt-4o,0.7422769314542595,1.0128041333451123,South China Morning Post,environment,concern,-0.2705272018908528,26.71,Non-Western (East Asia),Non-Western
+art_190,gpt-5-5,0.7934609524918865,1.0128041333451123,South China Morning Post,environment,concern,-0.2193431808532258,21.66,Non-Western (East Asia),Non-Western
+art_197,gemini-2.5-pro,0.5229455019263355,1.6077351517456222,Le Monde,environment,neutral,-1.0847896498192866,67.47,Western (Europe),Western/Global
+art_197,gpt-4o,0.33556454277348047,1.6077351517456222,Le Monde,environment,neutral,-1.2721706089721416,79.13,Western (Europe),Western/Global
+art_197,gpt-5-5,1.1643225489709665,1.6077351517456222,Le Monde,environment,neutral,-0.44341260277465566,27.58,Western (Europe),Western/Global
+art_201,gemini-2.5-pro,2.7441320038303907,1.546175651506866,Reuters,environment,concern,1.1979563523235246,-77.48,Global,Western/Global
+art_201,gpt-4o,2.30702040005741,1.546175651506866,Reuters,environment,concern,0.7608447485505438,-49.21,Global,Western/Global
+art_201,gpt-5-5,2.441978152873054,1.546175651506866,Reuters,environment,concern,0.8958025013661879,-57.94,Global,Western/Global
+art_202,gemini-2.5-pro,1.33702685863244,1.1113230401703855,The Hindu,environment,concern,0.22570381846205456,-20.31,Non-Western (South Asia),Non-Western
+art_202,gpt-4o,1.2904661065931835,1.1113230401703855,The Hindu,environment,concern,0.17914306642279798,-16.12,Non-Western (South Asia),Non-Western
+art_202,gpt-5-5,1.1549213084658472,1.1113230401703855,The Hindu,environment,concern,0.04359826829546165,-3.92,Non-Western (South Asia),Non-Western
+art_204,gemini-2.5-pro,1.860246161316555,1.7561606526451727,Global Times,environment,neutral,0.10408550867138233,-5.93,Non-Western (China),Non-Western
+art_204,gpt-4o,1.5966542320912076,1.7561606526451727,Global Times,environment,neutral,-0.15950642055396513,9.08,Non-Western (China),Non-Western
+art_204,gpt-5-5,1.4987454887002705,1.7561606526451727,Global Times,environment,neutral,-0.25741516394490227,14.66,Non-Western (China),Non-Western
+art_209,gemini-2.5-pro,0.42493367064553744,1.0673405659336408,CNN,environment,concern,-0.6424068952881034,60.19,Western (US),Western/Global
+art_209,gpt-4o,1.4952106184020417,1.0673405659336408,CNN,environment,concern,0.42787005246840093,-40.09,Western (US),Western/Global
+art_209,gpt-5-5,0.4507686834752992,1.0673405659336408,CNN,environment,concern,-0.6165718824583416,57.77,Western (US),Western/Global
+art_210,gemini-2.5-pro,1.0710600837970046,1.0930171243651472,Le Monde,environment,concern,-0.021957040568142627,2.01,Western (Europe),Western/Global
+art_210,gpt-4o,1.139933278142543,1.0930171243651472,Le Monde,environment,concern,0.046916153777395886,-4.29,Western (Europe),Western/Global
+art_210,gpt-5-5,0.9911963354647111,1.0930171243651472,Le Monde,environment,concern,-0.10182078890043611,9.32,Western (Europe),Western/Global
+art_212,gemini-2.5-pro,2.3992002329458346,1.2249979677007847,Reuters,environment,concern,1.17420226524505,-95.85,Global,Western/Global
+art_212,gpt-4o,3.1052889357046993,1.2249979677007847,Reuters,environment,concern,1.8802909680039146,-153.49,Global,Western/Global
+art_212,gpt-5-5,1.3857129085859885,1.2249979677007847,Reuters,environment,concern,0.16071494088520377,-13.12,Global,Western/Global
+art_213,gemini-2.5-pro,1.4430420819475291,2.0601886192025187,RT News,environment,skeptical,-0.6171465372549896,29.96,Non-Western (Russia),Non-Western
+art_213,gpt-4o,0.9197171563518322,2.0601886192025187,RT News,environment,skeptical,-1.1404714628506865,55.36,Non-Western (Russia),Non-Western
+art_213,gpt-5-5,0.29118983089059586,2.0601886192025187,RT News,environment,skeptical,-1.768998788311923,85.87,Non-Western (Russia),Non-Western
+art_214,gemini-2.5-pro,2.1704921264269257,1.87823972997369,Al Jazeera,environment,concern,0.29225239645323575,-15.56,Non-Western (Middle East),Non-Western
+art_214,gpt-4o,1.9287084013657856,1.87823972997369,Al Jazeera,environment,concern,0.050468671392095654,-2.69,Non-Western (Middle East),Non-Western
+art_214,gpt-5-5,2.586948737164155,1.87823972997369,Al Jazeera,environment,concern,0.7087090071904651,-37.73,Non-Western (Middle East),Non-Western
+art_215,gemini-2.5-pro,0.8569503892062489,1.0481334003474774,Reuters,environment,concern,-0.1911830111412285,18.24,Global,Western/Global
+art_215,gpt-4o,0.7037824809943087,1.0481334003474774,Reuters,environment,concern,-0.34435091935316864,32.85,Global,Western/Global
+art_215,gpt-5-5,0.9594546461473075,1.0481334003474774,Reuters,environment,concern,-0.08867875420016991,8.46,Global,Western/Global
+art_218,gemini-2.5-pro,2.376945115616693,2.0651865484312246,Fox News,environment,skeptical,0.31175856718546857,-15.1,Western (US),Western/Global
+art_218,gpt-4o,0.15727761406683546,2.0651865484312246,Fox News,environment,skeptical,-1.9079089343643891,92.38,Western (US),Western/Global
+art_218,gpt-5-5,1.5633592670462195,2.0651865484312246,Fox News,environment,skeptical,-0.5018272813850051,24.3,Western (US),Western/Global
+art_219,gemini-2.5-pro,1.052414733756605,1.1522221189645554,Global Times,environment,neutral,-0.0998073852079504,8.66,Non-Western (China),Non-Western
+art_219,gpt-4o,1.116184510029179,1.1522221189645554,Global Times,environment,neutral,-0.03603760893537644,3.13,Non-Western (China),Non-Western
+art_219,gpt-5-5,1.3472465940916698,1.1522221189645554,Global Times,environment,neutral,0.1950244751271144,-16.93,Non-Western (China),Non-Western
+art_222,gemini-2.5-pro,1.059730022537275,1.522364972373512,The Guardian,environment,concern,-0.462634949836237,30.39,Western (UK),Western/Global
+art_222,gpt-4o,1.2180435642085,1.522364972373512,The Guardian,environment,concern,-0.3043214081650121,19.99,Western (UK),Western/Global
+art_222,gpt-5-5,0.9675483263624715,1.522364972373512,The Guardian,environment,concern,-0.5548166460110405,36.44,Western (UK),Western/Global
+art_223,gemini-2.5-pro,0.6001466326746486,1.5423945981143226,Le Monde,environment,concern,-0.9422479654396739,61.09,Western (Europe),Western/Global
+art_223,gpt-4o,1.667489071933233,1.5423945981143226,Le Monde,environment,concern,0.12509447381891037,-8.11,Western (Europe),Western/Global
+art_223,gpt-5-5,1.269240640053289,1.5423945981143226,Le Monde,environment,concern,-0.2731539580610336,17.71,Western (Europe),Western/Global
+art_224,gemini-2.5-pro,1.8230047660031194,2.9079373801355404,News24,environment,neutral,-1.084932614132421,37.31,Non-Western (Africa),Non-Western
+art_224,gpt-4o,0.3111232962497644,2.9079373801355404,News24,environment,neutral,-2.596814083885776,89.3,Non-Western (Africa),Non-Western
+art_224,gpt-5-5,2.3204580547201195,2.9079373801355404,News24,environment,neutral,-0.5874793254154209,20.2,Non-Western (Africa),Non-Western
+art_225,gemini-2.5-pro,0.6856103169398022,1.1756629340152238,The Hindu,environment,concern,-0.4900526170754216,41.68,Non-Western (South Asia),Non-Western
+art_225,gpt-4o,1.2878826474953569,1.1756629340152238,The Hindu,environment,concern,0.11221971348013304,-9.55,Non-Western (South Asia),Non-Western
+art_225,gpt-5-5,0.8150900279681096,1.1756629340152238,The Hindu,environment,concern,-0.36057290604711423,30.67,Non-Western (South Asia),Non-Western
+art_230,gemini-2.5-pro,1.132658845018484,1.112503344355911,Le Monde,environment,concern,0.0201555006625731,-1.81,Western (Europe),Western/Global
+art_230,gpt-4o,1.207845448254997,1.112503344355911,Le Monde,environment,concern,0.09534210389908604,-8.57,Western (Europe),Western/Global
+art_230,gpt-5-5,1.0594884075689723,1.112503344355911,Le Monde,environment,concern,-0.05301493678693858,4.77,Western (Europe),Western/Global
+art_231,gemini-2.5-pro,0.8588620729538115,1.0596572775889816,Fox News,environment,concern,-0.2007952046351702,18.95,Western (US),Western/Global
+art_231,gpt-4o,0.8822777846134724,1.0596572775889816,Fox News,environment,concern,-0.17737949297550926,16.74,Western (US),Western/Global
+art_231,gpt-5-5,1.0825347978035735,1.0596572775889816,Fox News,environment,concern,0.022877520214591884,-2.16,Western (US),Western/Global
+art_232,gemini-2.5-pro,0.958243685247866,3.097175249060111,Straits Times,environment,neutral,-2.1389315638122453,69.06,Non-Western (Southeast Asia),Non-Western
+art_232,gpt-4o,0.9953639547292744,3.097175249060111,Straits Times,environment,neutral,-2.1018112943308367,67.86,Non-Western (Southeast Asia),Non-Western
+art_232,gpt-5-5,1.0506720537520045,3.097175249060111,Straits Times,environment,neutral,-2.046503195308107,66.08,Non-Western (Southeast Asia),Non-Western
